@@ -1,0 +1,2001 @@
+ISBN	Titulo	 Autor	 Categoria	 Ano
+4628-4149-890-2159	Mortal Inquisition	Erick Barros	Drama	1925
+4709-8805-4688-1497	Solar Attack	Alexandre Araujo	Drama	1943
+7376-3021-3011-4262	Light Alias	Ana Beatriz Silva	Drama	2007
+7680-4859-3240-334	Human Frontier	Alana Sales	Drama	1984
+8486-224-1938-3	Battle Retribution	Emanuella Pires	Drama	1936
+6057-1647-5018-2303	Killing Fear	Carolina Viana	Drama	1916
+9172-1068-3301-6616	Solar Abyss	Nicolas da Rosa	Drama	1985
+959-3108-9830-2108	Cosmic Aftermath	Lais Lima	Drama	1912
+7334-143-2572-2547	Just Heart	Lara Souza	Drama	1921
+3801-4868-7920-2021	Killing Breed	Sabrina Souza	Drama	1991
+5407-4864-7684-8859	Rescue of Retribution	Ana Clara Costa	Drama	2015
+1249-5950-5556-101	Demolish of War	Elisa Silva	Drama	2016
+972-8833-2197-7544	Run of Friction	Ana Julia Caldeira	Drama	2007
+6876-4286-5800-5105	Resist of Lies	Caua Cardoso	Drama	1967
+5302-1129-430-6638	Plan of Violation	Julia Barbosa	Drama	1951
+126-4642-3814-8357	Shoot of Combat	Ana Julia Santos	Drama	1922
+3581-9999-7138-1059	Infect of Assault	Yasmin das Neves	Drama	1951
+4522-1764-8763-3163	Escape of Betrayal	Marcelo Carvalho	Drama	1993
+6926-1946-7156-180	Strife of Atonement	Caroline Fogaca	Drama	2007
+3616-4991-4517-1996	Shoot of Friction	Gabrielly da Luz	Drama	1969
+541-5325-881-1466	Land and Flashbacks	Luiz Gustavo Dias	Drama	1975
+9194-3177-4554-7739	Codename and Echoes	Melissa da Rocha	Drama	2011
+1547-7351-8288-2630	Maze and Guns	Maria Alice Jesus	Drama	1917
+5856-266-2021-1162	Chronicle and Journey	Thales Aragao	Drama	1977
+8785-7132-6924-9514	Life and Danger	Leandro Ribeiro	Drama	1987
+6271-3834-4424-8136	Graves and Streets	Helena da Mata	Drama	1937
+6934-3189-4432-1357	Echoes and Codename	Bernardo Barbosa	Drama	2006
+3317-2644-8267-6290	Chase and Genocide	Andre Almeida	Drama	1988
+9306-8093-2650-5671	Embers and Day	Eloah Alves	Drama	2009
+7681-5719-8922-7714	Planet and Escalation	Lucca Martins	Drama	1977
+4148-266-7390-8695	Despair and Explosions	Fernanda Lima	Drama	1955
+6665-2820-190-8446	Skeletons and Reckoning	Ana Sophia Gomes	Drama	1918
+5139-7421-7234-714	Werewolves and Struggle	Breno Melo	Drama	1954
+8607-4618-1966-1151	Existence and Logic	Ana Julia Cunha	Drama	2017
+9475-5314-5495-5567	Hope and Frenzy	Noah da Luz	Drama	2003
+9880-2548-7840-8704	Disorder and Pain	Pedro Henrique Novaes	Drama	1934
+1657-1942-3548-4585	Earth and Dust	Catarina Rezende	Drama	1989
+3546-7016-7992-9175	Valor and Shadows	Joao Lucas da Cunha	Drama	1980
+6703-6270-8295-5128	Disorder and Androids	Alexandre Rocha	Drama	1989
+2773-2274-2643-9269	Reason and Awe	Pedro Henrique Lima	Drama	1976
+665-3849-2851-6019	Crystalspace	Davi Lucas Castro	Drama	1934
+6881-1346-3617-7457	Grimwind	Emanuelly da Cruz	Drama	1964
+8073-3151-444-2671	Battlespace	Helena Lopes	Drama	1953
+9301-8736-929-6653	Alterstar	Alana Correia	Drama	1923
+3348-7863-8097-9198	Blueblast	Lorena Cardoso	Drama	1967
+3699-2866-5096-3150	Fuseplan	Luiz Otavio Castro	Drama	1914
+3412-3099-7468-3529	Grimborne	Davi Lucas da Mata	Drama	1979
+9704-516-2498-9606	Borderblaze	Joao Teixeira	Drama	1971
+4474-2139-9342-2601	Alterchase	Kamilly Duarte	Drama	1960
+4475-5086-4320-9240	Bladeshot	Emanuella Barbosa	Drama	1913
+9487-650-9568-8445	Enemy Calamity	Maysa Ferreira	Fantasia	1917
+9295-9489-7289-7986	Celestial Virus	Maria Fernanda da Costa	Fantasia	1939
+101-3352-439-2421	Storm Assault	Alicia Freitas	Fantasia	1930
+1500-5896-7587-6836	Solar Breakout	Luana Farias	Fantasia	1996
+6828-9487-9442-4066	Forgotten Call	Rafael Correia	Fantasia	1983
+1555-2379-5261-1307	Tactical Alliance	Manuela da Luz	Fantasia	1986
+4043-3541-4312-6041	Special Warfare	Caue Farias	Fantasia	1975
+4584-2409-2490-7650	Fury Reaver	Joao Lucas Peixoto	Fantasia	1920
+2604-1242-331-5931	Parasite Operation	Joao Freitas	Fantasia	1987
+7092-2871-2361-2697	Ghost Mask	Lara Melo	Fantasia	2006
+4050-2562-6839-2981	Besiege of Treachery	Renan Peixoto	Fantasia	1979
+2940-4015-3468-8994	Run of Privilige	Raquel Azevedo	Fantasia	2018
+6683-2487-428-2643	Battle of Betrayal	Marcela Rodrigues	Fantasia	1963
+7363-5059-7489-7334	Burn of Rule	Joao Guilherme Fernandes	Fantasia	1961
+876-495-5076-3172	Attack of Logic	Marcos Vinicius Azevedo	Fantasia	1917
+975-6267-842-6353	Rule of Logic	Cecilia da Cruz	Fantasia	1993
+1135-683-9607-932	Incinerate of Privilige	Luna Silveira	Fantasia	2004
+848-1372-4296-6046	Strike of Order	Fernanda Pinto	Fantasia	1969
+9009-3666-1445-5644	Wipe Out of Rivalry	Vitor Hugo Oliveira	Fantasia	1979
+8486-4539-4054-7881	Pillage of Logic	Joana Rezende	Fantasia	1922
+9463-5241-9341-8476	Streets and Garden	Ana Clara Mendes	Fantasia	1929
+8564-220-7755-1696	Chronicle and Voyage	Mariana Costela	Fantasia	1956
+6258-8064-8075-324	Matter and Day	Eloah Alves	Fantasia	1940
+5754-4515-789-2368	Invasion and Nature	Julia da Mota	Fantasia	1956
+802-3594-7949-793	Planet and Chronicle	 Natalia Viana	Fantasia	1992
+9267-7192-2128-7182	Chronicle and Law	Marcela Carvalho	Fantasia	1995
+4844-3610-6875-7353	Raid and Weapons	Anthony Pires	Fantasia	1950
+570-1380-4781-8809	Raid and Fortress	Leandro Novaes	Fantasia	1965
+3017-3899-828-1317	Revenge and Empire	Kevin Nascimento	Fantasia	1997
+3667-8341-2053-5377	Chamber and Whispers	Pedro Henrique da Paz	Fantasia	1990
+6870-7896-4772-5084	Solitude and Salvation	Gabriel Costela	Fantasia	1931
+2657-5183-1475-4935	Conflict and Shadows	Davi Lucca Dias	Fantasia	1960
+5920-1086-5340-4684	Zombies and Reason	Amanda Goncalves	Fantasia	2020
+1052-5418-9155-4096	Power and Gods	Emanuel Barros	Fantasia	1937
+7674-1050-8084-3421	Souls and Order	Anthony Alves	Fantasia	1946
+8244-9631-1100-3400	Struggle and Mystery	Gabrielly Mendes	Fantasia	1984
+2720-4090-4511-6769	Control and Armor	Marcelo da Luz	Fantasia	2002
+5411-7728-6936-3459	Stealth and Werewolves	Ana Julia Nogueira	Fantasia	1968
+5650-808-2556-8202	Dread and Heroes	Maria Fernanda das Neves	Fantasia	1997
+9687-6224-6807-8830	Insanity and Dust	Maria Fernanda Rezende	Fantasia	2021
+9602-7368-8471-6048	Warside	 Gustavo Henrique da Mota	Fantasia	1987
+6694-6826-8708-4458	Crossbot	Luna Moreira	Fantasia	2013
+195-8318-558-6213	Dragonpoint	 Daniel das Neves	Fantasia	1959
+7789-8258-8411-1496	Bladeflight	Yasmin da Cruz	Fantasia	1934
+5234-4068-7676-9113	Bluefire	 Joao Gabriel Dias	Fantasia	1947
+6559-2951-9679-3090	Backborne	Ana Julia Porto	Fantasia	1942
+428-6053-2333-3014	Clusterplan	 Sarah Cardoso	Fantasia	2011
+7112-7116-4791-9306	Bladehunt	Isabel Costa	Fantasia	1982
+3848-9067-8989-4150	Emberforce	Bianca Duarte	Fantasia	2016
+8044-4057-4206-3196	Clusterphobia	Joao Vitor Costela	Fantasia	1947
+2125-2496-4932-8804	Storm Voyage	Julia Almeida	Infantil	1997
+4393-817-9129-6735	Cursed Ego	Pedro Lucas Araujo	Infantil	1987
+3785-7569-2683-6219	Future Cavern	Francisco da Cruz	Infantil	1974
+1824-5905-4461-3791	Private Resurrection	Nathan Peixoto	Infantil	1979
+6905-3055-9245-6726	Battle Realm	Maria Alice Caldeira	Infantil	1932
+1275-1661-5898-5614	Ghost Road	Alexandre da Cruz	Infantil	1919
+2836-7242-8865-1912	Bad Universe	Vicente Gomes	Infantil	1919
+8380-7515-8380-7731	Spirit Cavern	Julia Fernandes	Infantil	1987
+610-7317-1193-1348	Storm Armada	Gabriela Almeida	Infantil	1961
+8404-3082-1671-289	Angel Evolution	Ana Julia Nogueira	Infantil	2001
+6972-6689-9822-704	Divide of Combat	Valentina Moraes	Infantil	1987
+1463-4275-9600-7505	Vengeance of Logic	Luiz Otavio Moreira	Infantil	1930
+4300-5688-1686-6520	Crash of Campaigns	Nicole Duarte	Infantil	1945
+3940-790-183-7210	Escape of Vengeance	Sarah Melo	Infantil	2018
+4897-8001-1889-4592	Strife of Immunity	Barbara da Paz	Infantil	1976
+2801-9954-4657-2516	Strike of Reason	Francisco Ferreira	Infantil	1945
+4347-549-875-8438	Struggle of War	Cecilia Pereira	Infantil	1934
+5104-9906-2824-7374	Run of Transgression	Stella Rodrigues	Infantil	1950
+6667-9663-3237-6748	Protect of Trickery	Leandro Lima	Infantil	1954
+8701-2759-3127-5585	Bombard of Enforce	Thiago Correia	Infantil	1983
+5197-2335-5041-4387	Home and Sons	Ana Luiza Costa	Infantil	1984
+6063-732-1913-8037	Crime and Descent	Lais da Luz	Infantil	1943
+4118-714-2900-9747	Garden and Source	Giovanna Ribeiro	Infantil	2013
+2104-2649-6601-7017	Words and Source	Gabriela da Luz	Infantil	1919
+4075-4521-7238-7542	Embers and Impact	 Eduarda Mendes	Infantil	1958
+5938-4232-9188-187	Dream and Empire	Lucas Gabriel Novaes	Infantil	2020
+4496-8980-133-5439	Burial and Treasures	Diogo Peixoto	Infantil	2013
+5558-570-3408-1527	Words and Impact	Agatha Farias	Infantil	1916
+1510-2636-1286-3243	Revenge and Fortress	Antonio Correia	Infantil	1990
+6471-7921-5263-9972	Knights and Codename	Rodrigo da Rocha	Infantil	1959
+8527-2447-2488-178	Barbarians and Nature	Catarina Azevedo	Infantil	1929
+3524-749-8371-1253	Skulls and Misery	Juliana Castro	Infantil	1947
+7060-2257-3880-4515	Honor and Resistance	Maria Sophia Sales	Infantil	1944
+3161-2791-575-5890	Dust and Vampires	Eduarda Nunes	Infantil	1987
+6072-8559-4158-4486	Ambition and Action	Agatha Jesus	Infantil	1958
+1526-8784-1543-401	Action and Rubble	Joana Araujo	Infantil	1960
+7160-4619-9247-9543	Frenzy and Skulls	 Maria Vitoria Moura	Infantil	1954
+7486-1489-5178-2323	Infinity and Mayhem	Kamilly Alves	Infantil	1932
+7633-2213-6055-4234	Logic and Heroes	Diego da Mota	Infantil	1939
+5089-1925-2942-9657	Freedom and Dragons	Maria Vitoria Moura	Infantil	1989
+3805-2984-23-7859	Dragonlust	Ana Vitoria Cardoso	Infantil	2004
+3667-1971-5799-5497	Fusioncry	Eduardo Mendes	Infantil	1917
+7543-9464-8793-9460	Blocklight	Lucas Gabriel da Paz	Infantil	2008
+7982-4902-1302-4107	Deltazone	Erick Ramos	Infantil	1939
+1570-4225-8099-8177	Warcry	Vitor Hugo Silva	Infantil	1916
+3519-4932-6915-1083	Antiscape	Lucas Gabriel Silva	Infantil	1942
+9820-5440-4361-7869	Farsite	Daniela da Mota	Infantil	1942
+1941-2345-310-2499	Datablast	Joao Pedro Mendes	Infantil	1979
+1544-4644-6221-8228	Borderrush	Ana Carolina Fogaca	Infantil	1924
+7693-1169-5759-2844	Bodystar	Davi Lucas Monteiro	Infantil	1945
+4574-1725-9618-6173	Vampire Legacy	Valentina Monteiro	Terror	1928
+1574-8639-9801-1874	Primal Armada	Enzo Gabriel da Rocha	Terror	1993
+1580-2756-8755-9912	Metal Matters	Andre Jesus	Terror	2009
+7825-4821-7303-9938	Atomic Impact	Amanda da Rocha	Terror	2006
+761-4955-6032-4224	Death Carnage	Caue da Luz	Terror	2013
+5478-3059-1856-1055	Cursed Complex	Marcelo Goncalves	Terror	2001
+1895-7094-7354-4484	Mortal Reaver	Barbara da Rosa	Terror	1935
+765-5386-9658-1195	Ghost Games	Luiz Gustavo Jesus	Terror	1962
+1040-2192-4973-3610	Bullet Breed	Ana Martins	Terror	1926
+6053-2088-9380-6441	Brutal Conspiracy	Davi Lucca das Neves	Terror	1956
+6349-9121-8765-7328	Fortify of Combat	 Yasmin Costa	Terror	1974
+5729-177-6326-5086	Arm of Duplicity	Emanuella Fogaca	Terror	2005
+5302-8996-8524-5831	Struggle of Campaigns	Danilo Porto	Terror	1920
+9728-7623-5797-6432	Crash of Combat	Carolina Fernandes	Terror	1943
+3991-967-8041-8097	Rise of Friction	Maria Clara Cunha	Terror	1990
+7907-8182-7766-5966	Revolt of Logic	Pedro Miguel Rezende	Terror	1994
+4558-1913-8974-2499	Battle of Regulations	Lorenzo Dias	Terror	2006
+3713-3549-9535-6699	Invade of Strife	Eduardo da Cunha	Terror	1964
+6684-9708-7186-801	Wipe Out of Aggression	Melissa Fogaca	Terror	1980
+7167-8030-3398-531	Demolish of Logic	Sophie Rezende	Terror	1939
+1574-6732-5981-6986	Fight and Ghosts	Otavio Alves	Terror	1919
+4207-6159-7178-5222	Treasures and Shadow	Ana Carolina Novaes	Terror	1916
+4394-8735-321-402	Apocalypse and Days	Luiz Gustavo Nunes	Terror	1914
+8423-2401-2725-4877	Knights and Home	Diego Ribeiro	Terror	1912
+6817-9732-6118-7571	Fortress and Glitch	 Enrico Aragao	Terror	2021
+7397-7255-2244-9150	Dream and Genocide	Alicia Correia	Terror	2005
+5774-8876-775-107	Hazard and Galaxy	Marcelo Nascimento	Terror	2003
+9828-5128-5269-4568	Raid and Sons	Maria Eduarda Dias	Terror	1955
+1882-2046-2783-8138	Symphony and Codename	Gabriela Rezende	Terror	1916
+2600-6311-77-7976	Age and Decade	Paulo Jesus	Terror	1960
+6360-8467-6241-2973	Innocents and Mutants	Diogo Mendes	Terror	1928
+524-844-6715-1936	Ambition and Lies	Pietra da Rosa	Terror	1912
+6941-8782-2747-923	Insanity and Nothing	Guilherme Jesus	Terror	1980
+5656-6547-8528-719	Nature and Duty	Fernando Correia	Terror	1949
+4855-1482-7252-2988	Heroes and Fate	Joao Vitor Lima	Terror	1956
+2171-532-4658-1593	Infinity and Mayhem	 Ana Clara da Rocha	Terror	1958
+8804-2674-4137-6407	Duty and Mutants	Raquel Caldeira	Terror	1912
+2485-7469-9625-8595	Fear and Evil	Luna Souza	Terror	2003
+9178-3449-416-6043	Awe and Mayhem	Murilo Pereira	Terror	1946
+5580-2813-2473-6106	Reason and Mutants	Levi Jesus	Terror	1912
+7781-4336-4788-6730	Bulletsky	Alexandre Novaes	Terror	1939
+5121-8898-5431-1674	Ultrasky	Laura Lopes	Terror	1941
+9806-375-5567-2331	Blastercraft	Rafael Duarte	Terror	1978
+2516-6068-5400-5166	Grimmind	Daniela Correia	Terror	2017
+9746-9455-3348-9921	Biofire	Emanuelly Nascimento	Terror	1920
+8435-4313-9458-7267	Farrush	Davi Lucca Rocha	Terror	1943
+702-59-7069-5619	Masterdude	Maria Cecilia Gomes	Terror	1977
+2197-4512-9028-5390	Fusionspace	Igor Novaes	Terror	1916
+7471-96-9426-1848	Bladespace	Clarice da Mata	Terror	1986
+6200-138-1460-3765	Datahunt	 Enzo das Neves	Terror	1972
+1237-2194-6324-2781	Carnivore Matters	Raul Jesus	Humor	1974
+455-4918-250-7871	Crimson Rising	Lucca Carvalho	Humor	1957
+5775-8729-2620-1154	Covert Legend	Juliana Rezende	Humor	1985
+2801-7810-7051-6065	Armed Frontier	Calebe da Rocha	Humor	1917
+2992-2009-2331-1305	Cannibal Campaign	Clarice Ramos	Humor	1927
+265-1008-2514-6357	Zombie Evolution	Sarah Costa	Humor	1918
+4410-5965-4819-9762	Angel Emergency	Ana Julia Nunes	Humor	1927
+9421-916-8091-159	Chrome Harvest	 Laura da Conceicao	Humor	2016
+541-7638-5495-2514	Emergency Cavern	Igor da Costa	Humor	2000
+4415-4672-3965-5397	Hallowed Warfare	Joao Miguel Rezende	Humor	1982
+4147-8973-3488-7066	Strife of Truth	Joao Guilherme Pereira	Humor	1920
+8664-7308-5690-3667	Bombard of Democracy	 Mariane Monteiro	Humor	1925
+4161-5495-1048-9841	Charge of Atonement	Raul da Paz	Humor	1966
+8296-9082-6582-4204	Escape of Stipulation	 Joaquim da Luz	Humor	1935
+5573-4844-3919-1747	Demolish of Aggression	Diogo Cardoso	Humor	2014
+4378-7258-9719-6517	Strike of Wrath	Maria Eduarda Monteiro	Humor	1944
+5591-9214-7102-6663	Fortify of Assault	Ana Laura Dias	Humor	1951
+3114-5060-9649-908	Counter of Betrayal	Emanuelly Carvalho	Humor	1959
+6320-2229-7219-1752	Rescue of Immunity	Lucca Alves	Humor	1942
+7044-1802-4030-2875	Defeat of Resitution	Thales Barbosa	Humor	2000
+1441-9133-7086-3237	Garden and Embers	 Enzo Gabriel Pires	Humor	1969
+8819-9656-8694-463	Revival and Words	 Maria Julia Araujo	Humor	1988
+3888-365-8087-8268	Order and Decade	Marcelo Gomes	Humor	1990
+2064-6236-2115-6879	Execution and Shadow	Maria Luiza Fogaca	Humor	2010
+1192-1732-3343-3795	Weapons and Empire	Vitoria Moura	Humor	1994
+3457-8153-7409-8694	Decade and Dynasty	Yasmin Rodrigues	Humor	1960
+6358-424-3146-2715	Hunt and Voyage	Diogo Goncalves	Humor	1979
+4114-7743-4678-9929	Knights and Chamber	Carlos Eduardo Freitas	Humor	1972
+6876-3687-3149-1316	Revenge and Murder	 Bernardo Gomes	Humor	1988
+9088-7781-4884-8171	Treasures and Defense	Maria Eduarda Caldeira	Humor	1927
+5712-1770-9697-8718	Immortals and Truth	Rebeca Lopes	Humor	1929
+6696-107-8230-5550	Infinity and Vampires	 Heitor Barbosa	Humor	1996
+5845-9736-8086-1226	Salvation and Existence	Levi Ribeiro	Humor	1939
+3338-9720-6637-9070	Evil and Evolution	 Maria Eduarda da Cruz	Humor	1928
+7265-57-894-6995	Prototypes and Valor	Ana Sophia da Mata	Humor	1966
+1634-304-8007-3175	Victory and Fear	Joao Lucas Rezende	Humor	1976
+7160-7459-1430-4228	Faith and Oracles	Otavio Costela	Humor	1995
+5558-7293-4837-7168	Werewolves and Power	Renan Costela	Humor	1958
+7018-414-5774-7736	Fire and Frenzy	Miguel Pires	Humor	1934
+6383-4240-1163-1537	Logic and Rubble	 Rafael Caldeira	Humor	2019
+6742-5012-4679-5522	Bodybot	Isadora Barbosa	Humor	1985
+8360-4950-349-4038	Ultracry	Heloisa Pereira	Humor	1981
+4781-136-6004-5129	Alpharage	Carlos Eduardo Mendes	Humor	1947
+4241-1298-4704-7717	Madrush	Isis da Conceicao	Humor	1968
+363-9131-9360-1707	Emberline	Danilo Aragao	Humor	1942
+5690-8978-7417-8207	Ultraphobia	Maria Fernanda Silva	Humor	2011
+7976-4629-6326-6146	Bodyflight	Isabella Ramos	Humor	1979
+8771-1703-2829-5813	Bladestar	Maria Luiza Rocha	Humor	1941
+2948-4088-616-41	Alterdoom	Isadora Costela	Humor	2002
+2120-1738-2032-2936	Dreadplan	Amanda Ribeiro	Humor	1930
+8576-4461-7584-6251	Dark Project	 Alana Cardoso	Misterio	2019
+8062-4954-8581-4701	Dead Betrayal	Maria Sophia Dias	Misterio	1991
+3549-1335-4959-3910	Infinite Alert	Stella Souza	Misterio	2001
+8578-8112-8962-7014	Star Breakout	Fernando Pires	Misterio	1941
+7326-9738-7433-8949	Warrior Castle	Beatriz Barros	Misterio	1928
+5208-7430-9281-6821	Cold Frontier	Davi Porto	Misterio	1981
+5010-3117-7584-4591	Parasite Virus	 Kevin Novaes	Misterio	2019
+6913-5013-8116-1241	Armageddon Legacy	Joao Lucas Novaes	Misterio	2010
+1770-6319-8854-5060	Werewolf Conflict	Larissa Costa	Misterio	2003
+7640-5523-4440-9228	Soul Predator	Lucca Fogaca	Misterio	2004
+220-7707-2088-1770	Resist of Heroics	Maysa Monteiro	Misterio	1980
+7911-3698-503-6753	Retaliate of Law	 Amanda Pinto	Misterio	1915
+5652-2281-1205-6185	Fortify of Resitution	 Kaique Dias	Misterio	1940
+6315-2624-8233-2416	Incinerate of Prosecution	 Joao Felipe Araujo	Misterio	1963
+7727-6637-7195-3589	Guard of Truth	Davi Luiz da Luz	Misterio	1986
+9317-2748-8477-5749	Pillage of Salvation	Juan Santos	Misterio	1961
+3224-9736-799-6438	Divide of Hypocrisy	 Marina Barros	Misterio	1945
+5905-9289-4481-7996	Rule of Invasion	Luiz Felipe Rocha	Misterio	1929
+724-4580-5361-7620	Blast of Rule	Alana Pereira	Misterio	1983
+1001-5620-9092-8943	Counter of Wrath	Danilo Fogaca	Misterio	1961
+6271-1857-2834-4931	Symphony and Sons	Danilo da Rocha	Misterio	1959
+5451-5786-6368-9106	Embers and Hunt	Marina da Rosa	Misterio	1954
+5962-7784-708-6427	Guns and Escalation	Marcos Vinicius Novaes	Misterio	1920
+9668-3777-1917-4664	Echoes and Words	Vicente Costa	Misterio	1975
+5881-499-2062-5948	Days and Age	Lais Carvalho	Misterio	2008
+8173-8515-1935-6612	Power and Force	Caue Rezende	Misterio	1951
+3059-2455-3445-3500	Remorse and Shadow	Luna Peixoto	Misterio	1919
+817-5831-4770-2315	Defense and Burial	Alexandre Mendes	Misterio	2022
+1007-5716-5654-9645	Weapons and Embers	Ana Sophia Melo	Misterio	1986
+349-9231-85-4179	Week and Revenge	Yuri Cardoso	Misterio	1990
+4066-5918-6895-7431	Barbarians and Nightmares	 Eduarda Lopes	Misterio	1939
+8863-1152-5693-6903	Resistance and Harmony	Rafaela da Cruz	Misterio	1916
+3534-5622-9720-1274	Werewolves and Insanity	 Marcela da Rosa	Misterio	1930
+1796-3651-2008-2899	Victory and Evolution	Pietra Goncalves	Misterio	2006
+8869-4812-3543-3837	Immortals and Doubt	Maria Fernanda Lopes	Misterio	1948
+8223-8260-8533-8030	Androids and Liberty	 Camila da Costa	Misterio	1965
+8629-6485-6589-7036	Order and Ambition	Nathan Novaes	Misterio	1951
+7858-6653-3836-9890	Chaos and Duty	Maria Alice Teixeira	Misterio	1962
+3752-2716-2123-1389	Resistance and Power	 Enrico Monteiro	Misterio	1970
+8542-130-3244-2734	Power and Misery	Alicia Viana	Misterio	1952
+2648-1594-4328-8136	Demonworks	 Elisa Lima	Misterio	2019
+7291-4571-7266-7079	Archephobia	Paulo Novaes	Misterio	1997
+7773-4705-4442-5767	Madside	 Thiago da Cruz	Misterio	1993
+4194-8479-5061-3017	Blockflight	Lavinia Barbosa	Misterio	2004
+5146-387-8433-8713	Bulletbot	Eduarda Lima	Misterio	2018
+9135-3647-8602-7518	Alphaland	 Rodrigo Campos	Misterio	1948
+8340-8262-7708-6100	Farchase	Maysa da Luz	Misterio	1930
+2139-4165-5029-8437	Warmania	Pietra da Luz	Misterio	1916
+7603-3937-1090-6417	Dragonstorm	Maria Vitoria da Luz	Misterio	1920
+6174-7891-8687-668	Deltanite	Ana Sophia Rezende	Misterio	2008
+4640-9997-675-8250	Thunder Impact	Kaique da Rocha	Nao-ficcao	2005
+6899-6543-108-3167	Phantom Bounty	Vitor Gabriel Peixoto	Nao-ficcao	1961
+5117-9892-1479-7162	Human Nightmare	Sabrina Peixoto	Nao-ficcao	1998
+5315-588-1950-7777	Chrome Warfare	Thomas Novaes	Nao-ficcao	1914
+4423-4726-8090-3651	Combat Escape	Luiz Fernando da Luz	Nao-ficcao	1928
+1620-6963-7059-9303	Ghost Cell	Vinicius Caldeira	Nao-ficcao	2020
+9349-3217-1641-7803	Special Assault	Davi Duarte	Nao-ficcao	1912
+8883-174-7666-191	Just Call	Bryan Rocha	Nao-ficcao	1935
+369-7430-2549-2999	Mortal Blade	Alice Correia	Nao-ficcao	1921
+5155-6306-6268-8116	Storm Dream	Esther Costa	Nao-ficcao	1984
+6766-99-4236-6886	Run of Hypocrisy	 Clara Sales	Nao-ficcao	1922
+5196-4474-4163-7174	Demolish of Vengeance	Pietra Cunha	Nao-ficcao	1933
+4406-9722-8745-650	Rise of Hypocrisy	Noah Pires	Nao-ficcao	1999
+3830-9148-9424-6836	Battle of Betrayal	Luana Lima	Nao-ficcao	2005
+418-3064-1669-2157	Resist of Violation	Diego Fogaca	Nao-ficcao	2001
+2083-7985-1432-2438	Struggle of Redemption	Raquel Silva	Nao-ficcao	1945
+762-3464-2025-9975	Breakout of Lies	Theo Peixoto	Nao-ficcao	1944
+3253-6206-9117-74	Clash of Duplicity	 Mariane Mendes	Nao-ficcao	1930
+8066-3098-2447-4913	Resist of Betrayal	 Julia Costa	Nao-ficcao	1982
+4637-8333-9946-8904	Plan of Lies	 Fernanda da Rosa	Nao-ficcao	1964
+5635-2123-4919-2118	Land and Weapons	Isaac Fogaca	Nao-ficcao	2013
+7102-3890-4170-1177	Barrage and Defense	Lara Campos	Nao-ficcao	1926
+6245-4146-9837-7991	Descent and City	 Caue Sales	Nao-ficcao	1940
+5443-9222-2131-1288	Danger and Death	 Vitor Gabriel Nogueira	Nao-ficcao	1939
+4017-7417-8492-4922	Chronicle and Planet	Ana Julia Goncalves	Nao-ficcao	2017
+4283-3454-3556-9696	Symphony and Echoes	Clara Costa	Nao-ficcao	1938
+5642-8562-7220-2209	Doom and Rush	Ana da Cunha	Nao-ficcao	1963
+5755-5829-4650-5009	Science and World	Maysa da Mota	Nao-ficcao	1923
+4058-4312-4421-9860	House and Dynasty	 Eduardo Souza	Nao-ficcao	1965
+4460-5877-7464-4093	Danger and Graves	 Maysa Nogueira	Nao-ficcao	2015
+6546-7019-4358-5580	Androids and Nothing	Isaac da Rocha	Nao-ficcao	1930
+8542-7265-1684-4946	Hope and Oracles	Lavinia Monteiro	Nao-ficcao	1929
+9227-2030-1218-8795	Sanity and Fortune	Diego Pereira	Nao-ficcao	1992
+2841-1521-5771-7899	Vampires and Ambition	Ana Luiza Almeida	Nao-ficcao	2013
+4101-493-2310-2764	Stealth and Explosions	Levi Caldeira	Nao-ficcao	1985
+2724-1860-207-3096	Stealth and Androids	Elisa Lopes	Nao-ficcao	1950
+8315-9412-5293-7874	Order and Gangs	Davi Luiz da Cruz	Nao-ficcao	1933
+2435-435-96-8686	Fate and Logic	Isabel Goncalves	Nao-ficcao	1991
+6101-8512-496-8185	Warfare and Time	Maria Fernanda Duarte	Nao-ficcao	1942
+6062-7437-3590-5862	Souls and Misery	Joaquim Nogueira	Nao-ficcao	1978
+7809-1736-1358-5879	Crosscell	Gabriela da Luz	Nao-ficcao	1917
+8197-3929-7463-2306	Bioreign	Larissa Moura	Nao-ficcao	1932
+3505-7902-881-4668	Bloodrain	Joao Miguel da Luz	Nao-ficcao	2012
+2681-7525-1911-2640	Deadphobia	Isadora Silveira	Nao-ficcao	1922
+9714-273-5277-4579	Bodyblade	Diego Caldeira	Nao-ficcao	1938
+7850-7062-5041-8950	Borderpoint	Maria Eduarda Santos	Nao-ficcao	1920
+3092-7067-2356-8699	Warshot	Natalia Ramos	Nao-ficcao	2022
+8241-2952-5585-1948	Endorsite	Anthony Barbosa	Nao-ficcao	1972
+8120-700-9924-5221	Dreaddude	 Enzo Gabriel Ribeiro	Nao-ficcao	1913
+9365-9126-4725-3222	Archeheart	Arthur Cavalcanti	Romance	2008
+2253-9810-4038-2949	Forgotten Barrage	Murilo Cardoso	Romance	1956
+3351-6376-6504-7607	Celestial Warfare	Manuela Costela	Romance	1936
+6216-3562-4405-2980	Killing Panic	Pietro Cavalcanti	Romance	1912
+7384-7842-229-6623	Ghost Curse	Beatriz Monteiro	Romance	2017
+2042-621-1015-7747	Blood Age	Sophie Teixeira	Romance	1952
+7958-2025-1322-5119	Android Breakout	Renan Nogueira	Romance	1934
+2226-8664-2692-8330	Hallowed Syndrome	Leandro da Mata	Romance	1955
+7321-6429-858-7014	Soul Elements	 Caue da Paz	Romance	1987
+592-7448-2266-6783	Galaxy Bounty	Isaac Almeida	Romance	2017
+6441-1256-5172-2613	Storm Agent	Rodrigo da Conceicao	Romance	1975
+7498-1858-1427-9955	Besiege of Reason	Matheus Dias	Romance	1968
+3725-7801-942-8578	Strategize of Heroes	 Vinicius Moraes	Romance	1920
+9140-3657-6240-1510	Strike of Duplicity	Lucas Gabriel Costela	Romance	1977
+3102-6482-4535-5981	Knockout of Wrath	 Ana Julia Silveira	Romance	1950
+5336-6379-1223-2087	Vengeance of Invasion	Renan Vieira	Romance	1997
+6095-2985-7344-1452	Escape of Trickery	Lorena Nunes	Romance	1991
+4135-4929-3724-168	Invade of Liberty	Isaac Teixeira	Romance	1959
+5279-4960-5586-352	Command of Prosecution	Pedro Miguel da Mota	Romance	1996
+313-4973-9413-7914	Resist of Opportunity	Luiz Gustavo Costa	Romance	1937
+3575-7538-7763-8594	Breakout of Resitution	Diogo Silva	Romance	1931
+8579-1256-3997-5361	Streets and Decade	Stephany Moreira	Romance	1959
+8802-3303-6726-9493	Shadow and Sons	Maria Vitoria Farias	Romance	2000
+5924-1910-9091-3627	Spells and Quest	Luna da Cunha	Romance	2009
+2109-3209-4370-2947	Retribution and Hunt	 Marina Pinto	Romance	2011
+8936-3850-8966-8178	Bridge and Knights	Livia da Paz	Romance	1956
+3434-1605-1492-3587	Galaxy and Nature	Bruno Freitas	Romance	2000
+6474-4909-185-8872	Chronicle and Space	Amanda Barros	Romance	2020
+4735-5602-9151-2347	Murder and Echoes	Emanuel Cavalcanti	Romance	2015
+3503-5362-6821-1200	Destruction and Command	Lavinia Silveira	Romance	1973
+1434-8830-3314-9788	Doom and Cult	Fernando Rocha	Romance	1974
+6379-4107-1606-4581	Heroes and Stealth	 Paulo Santos	Romance	1931
+4721-9900-8269-4866	Souls and Sanity	Ana Laura Cunha	Romance	1987
+6403-2718-8799-5830	Innocents and Skeletons	 Arthur Fernandes	Romance	1929
+7491-232-7140-3943	Doubt and Nightmares	Amanda Nunes	Romance	1920
+7824-4273-1337-1259	Demons and Chaos	 Pietra da Rosa	Romance	1990
+3736-5352-2526-1261	Ambition and Riddles	Enrico Barros	Romance	2007
+1604-4281-1204-98	Struggle and Hope	Joao Miguel Lopes	Romance	1959
+8883-8695-2849-5224	Treason and Oracles	Lavinia Lopes	Romance	1967
+5565-6858-2058-2900	Sacrifice and Control	Pedro Henrique Sales	Romance	1921
+7692-2013-5676-4016	Doubt and Disarray	Pietro Pires	Romance	1916
+9403-877-9389-7465	Bloodpoint	Bianca Moraes	Romance	1949
+6788-2566-4245-7594	Fartech	Davi Lucca Farias	Romance	1926
+7366-2062-7234-6049	Archesky	Maria Sophia Pereira	Romance	1953
+5679-2127-9984-4104	Bulletreign	Eduarda Cardoso	Romance	2013
+148-9464-1795-1709	Evercore	Isabella Moura	Romance	2018
+1072-4859-9648-3198	Everlife	Antonio Sales	Romance	2009
+1153-5402-640-8725	Crosshunt	Levi Silveira	Romance	2015
+4714-7661-6831-1201	Dreamchase	 Melissa Fogaca	Romance	1962
+6696-9963-6317-7032	Dragonsky	Maria Jesus	Romance	1948
+7117-4601-8157-411	Everrain	Ian Pires	Romance	1940
+2001-2037-1196-2339	Killing Crusade	Maria Vitoria da Mata	Ficcao Cientifica	1997
+8442-5440-9279-7073	Killing Ego	Bruna Silveira	Ficcao Cientifica	1953
+7197-8032-5655-1095	Werewolf System	Joao Felipe Pinto	Ficcao Cientifica	2010
+1703-374-3754-5856	Private Siren	Guilherme Nunes	Ficcao Cientifica	1936
+2876-5309-7885-8320	Armored Command	Igor da Mata	Ficcao Cientifica	1927
+5954-1249-5518-3828	Human Crusade	 Carolina Freitas	Ficcao Cientifica	1985
+8366-4095-8634-6488	Infinite System	Bianca Silveira	Ficcao Cientifica	2002
+8344-6964-5028-6533	Infected Panic	 Sarah Alves	Ficcao Cientifica	2005
+9686-9782-3585-8423	Nuclear Agent	Larissa Azevedo	Ficcao Cientifica	1984
+5178-5222-9914-3565	Grand Realm	Natalia da Conceicao	Ficcao Cientifica	2022
+9381-1464-9679-8349	Rise of Infringement	Bernardo Lima	Ficcao Cientifica	2022
+7786-1612-1020-4977	Vengeance of Lies	Enrico Cardoso	Ficcao Cientifica	1982
+7028-7166-8658-4632	Destroy of Conflict	Agatha Ferreira	Ficcao Cientifica	2015
+9238-8936-669-8967	Incinerate of Democracy	Anthony Martins	Ficcao Cientifica	1993
+9111-7428-9674-8742	Pillage of Trickery	 Gustavo Porto	Ficcao Cientifica	2015
+1220-8099-5364-3702	Assault of Trickery	Olivia Freitas	Ficcao Cientifica	1917
+3476-7546-9006-5858	Attack of War	Julia Pires	Ficcao Cientifica	1944
+174-3473-193-3446	Strategize of Lies	Joana Porto	Ficcao Cientifica	1927
+1756-8806-4569-8878	Incinerate of Opportunity	Ian Novaes	Ficcao Cientifica	1964
+8224-2550-1931-4566	Wipe Out of Freedom	Elisa Moura	Ficcao Cientifica	1912
+1233-4159-6102-4623	Day and Apocalypse	 Vitor Gabriel Rodrigues	Ficcao Cientifica	1970
+3622-322-868-7511	Maze and Treasures	Bruna Teixeira	Ficcao Cientifica	2007
+5098-8273-6573-4624	Sons and Destruction	Gustavo Henrique Farias	Ficcao Cientifica	1950
+2013-9049-3065-8507	Garden and Order	 Giovanna da Mota	Ficcao Cientifica	1995
+3471-7493-2121-2284	Fortress and Dimension	 Kaique Costa	Ficcao Cientifica	2021
+9728-92-3685-707	Dream and Sword	Livia Correia	Ficcao Cientifica	2000
+6499-9438-7171-7954	Law and Guns	Kamilly Porto	Ficcao Cientifica	2018
+8252-5085-3669-3255	Battle and Voyage	Erick Nogueira	Ficcao Cientifica	1912
+5463-758-3227-7931	Guns and Planet	Fernando Campos	Ficcao Cientifica	1985
+4758-6950-2829-4468	Journey and Barrage	Yuri Azevedo	Ficcao Cientifica	1925
+1441-3056-5558-7753	Struggle and Legends	Luigi Pires	Ficcao Cientifica	1969
+7197-6670-7866-8320	Lies and Evolution	Stella da Cunha	Ficcao Cientifica	2010
+2436-4865-9038-9164	Twisted Dreams and Gangs	Davi Luiz Duarte	Ficcao Cientifica	1916
+1083-8553-9969-3030	Barbarians and Havoc	 Ana Clara Azevedo	Ficcao Cientifica	1994
+6230-4518-3494-32	Doubt and Order	 Guilherme das Neves	Ficcao Cientifica	1963
+7217-2094-2566-2885	Solitude and Misery	Gabrielly Dias	Ficcao Cientifica	2018
+6261-9826-5235-8273	Liberty and Immortals	Raquel Nogueira	Ficcao Cientifica	1929
+6155-226-3453-8901	Harmony and Chaos	Maria Cecilia Nascimento	Ficcao Cientifica	1981
+7360-4278-3756-8576	Action and Evolution	Julia da Mata	Ficcao Cientifica	2018
+6411-9510-9950-1255	Disarray and Reckoning	Calebe das Neves	Ficcao Cientifica	1956
+8619-470-1870-2868	Deltadoom	Rebeca Alves	Ficcao Cientifica	1936
+6860-9212-7789-7729	Blockland	Thiago Viana	Ficcao Cientifica	1969
+8680-8819-8227-5697	Bloodcore	Bianca Ferreira	Ficcao Cientifica	1995
+6585-2538-3319-632	Dreadlust	 Lavinia Sales	Ficcao Cientifica	1916
+8812-9077-5857-4057	Geoland	Maria Clara Farias	Ficcao Cientifica	1972
+8461-8036-1987-8718	Cyberdude	Vitor Cardoso	Ficcao Cientifica	1978
+7002-863-953-2574	Battlebot	Isis Silva	Ficcao Cientifica	1988
+8218-5918-3009-4172	Dreadside	Luna Cardoso	Ficcao Cientifica	1982
+7229-5231-4470-3803	Crystalblaze	Livia Silveira	Ficcao Cientifica	1976
+2856-6992-5666-1700	Astroblast	Arthur Peixoto	Ficcao Cientifica	1915
+9545-8371-5483-7167	Light Carnage	Emanuelly Melo	Historico	1997
+9711-9925-7120-4194	Obscure World	Pedro Lucas Fernandes	Historico	1956
+402-8199-3328-8748	Infected Prototype	Samuel Barros	Historico	1960
+3537-6797-4103-5535	Fury Games	Augusto Souza	Historico	1917
+5865-234-1776-712	Chaos Conspiracy	Francisco Silva	Historico	2004
+9576-721-7489-8411	Zero Reaver	Nicolas Porto	Historico	1992
+1388-3473-2094-9131	Armageddon Armada	Lorenzo da Conceicao	Historico	1945
+5248-7083-5200-9327	Future Breed	Ian Moura	Historico	1985
+3067-3421-23-8126	Shadow Reaver	Maria Clara Freitas	Historico	2020
+3737-1849-7637-6810	Armed Barrage	Joao Guilherme Farias	Historico	1969
+2496-8386-5384-3952	Shoot of Privilige	Maria Eduarda Oliveira	Historico	1990
+5669-1314-343-6559	Run of Treachery	Erick Rezende	Historico	1981
+5129-9324-5266-1110	Struggle of Struggle	Lorena Pinto	Historico	1999
+5922-7294-5458-6179	Bombard of Conflict	Marcos Vinicius da Rocha	Historico	1915
+8304-3186-7108-1518	Assault of Campaigns	Valentina Fogaca	Historico	1959
+3647-6185-1509-9220	Fortify of Rule	Cecilia Rezende	Historico	1956
+7811-1837-9649-9423	Strife of Infringement	Juliana Moreira	Historico	1919
+4030-199-900-9442	Strike of Strife	Bernardo Pires	Historico	2002
+2748-857-1958-4118	Fortify of Wrath	Ana Teixeira	Historico	1982
+520-2617-4464-8176	Struggle of Salvation	Isaac Cardoso	Historico	1968
+5692-7103-910-5140	Glitch and Echoes	Benjamin da Mata	Historico	1950
+5932-5385-9409-5002	Fortress and Words	Levi Moura	Historico	1999
+7660-6178-4698-7609	Law and Contract	 Luiz Felipe da Conceicao	Historico	1925
+5524-9011-2603-8286	Empire and Genocide	Sarah Carvalho	Historico	2000
+3892-7936-1312-4779	Words and Doom	Marcelo Rocha	Historico	1981
+6413-9129-7642-8687	Whispers and Graves	Isis da Mata	Historico	1990
+1704-4230-4135-1285	Empire and Force	Rodrigo Silva	Historico	1936
+9544-6041-2750-1099	Defense and Escalation	Maria Eduarda Cardoso	Historico	2008
+5397-8613-3153-1281	Retribution and Memories	Leticia Rocha	Historico	1928
+3690-5876-5721-5923	Graves and Battle	Davi Lucca Rodrigues	Historico	2019
+4583-8510-6742-6061	Prototypes and Redemption	Pietra Nascimento	Historico	1927
+1380-3255-4203-9187	Vampires and Solitude	Erick Fernandes	Historico	1934
+1973-5423-4451-647	Solitude and Doubt	Joao Gabriel Gomes	Historico	1947
+5268-6806-584-131	Riddles and Valor	Matheus da Rocha	Historico	1973
+1912-589-3309-2599	Faith and Souls	Caua Vieira	Historico	1983
+8374-8041-5611-9835	Nothing and Revolution	Joao Miguel Campos	Historico	1933
+8587-8809-8874-1944	Skulls and Fire	Raul Mendes	Historico	1916
+4539-390-2482-7610	Oracles and Terror	Bruna Fogaca	Historico	1983
+4161-6298-9688-1770	Truth and Androids	Ana Livia Alves	Historico	1981
+456-7716-3652-7793	Kings and Resistance	Lucas da Rosa	Historico	2005
+7344-3044-9669-3647	Farwind	Isabella Peixoto	Historico	1917
+7246-7762-7509-3043	Astroscape	Marina Costa	Historico	1953
+6440-2470-8928-918	Castlefight	Lucas Alves	Historico	1979
+9553-2556-9869-3530	Dynachase	Larissa Pereira	Historico	1930
+5608-6384-8179-1353	Grimrain	 Augusto da Luz	Historico	2000
+1840-6205-8094-3582	Airmania	Lais Cardoso	Historico	1991
+4669-8838-3883-7661	Astrolife	Yasmin da Paz	Historico	1913
+4906-1805-5002-6922	Geoscape	Danilo Gomes	Historico	2001
+7657-3262-7561-8123	Ultradoom	 Gustavo Henrique Rocha	Historico	1913
+2052-5279-8240-5678	Datalife	Clarice da Cruz	Historico	2008
+2967-6399-3205-5326	inquisicao mortal	Gabriela Cavalcanti	Historico	2011
+964-6520-7129-4854	Ataque Solar	Samuel Martins	Historico	1933
+2583-5889-5513-1219	Alias ​​leve	Antonio Alves	Historico	2002
+8992-7200-4696-6703	Fronteira Humana	Fernando Viana	Historico	1941
+6502-5139-3860-2140	Retribuicao de Batalha	Vitor da Cunha	Historico	1977
+1403-7648-7014-1419	Matando o medo	Vinicius Pereira	Historico	1943
+9303-1556-3932-8619	Abismo Solar	Mariana da Mota	Historico	1988
+8640-1868-4781-8362	consequências cosmicas	Samuel da Mata	Historico	1943
+9601-4506-32-8587	apenas coracao	 Vitoria da Conceicao	Historico	2008
+6965-3425-2544-5637	Raca Assassina	Nina Dias	Historico	1938
+9320-5887-2597-703	Resgate da Retribuicao	Thomas Pinto	Historico	1948
+8211-9353-8991-2129	Demolicao da Guerra	Caroline Alves	Historico	1923
+1804-6069-5456-4	Correr de Atrito	Larissa Alves	Historico	2016
+3926-1635-7163-674	Resistir De Mentiras	 Leticia Cunha	Historico	1928
+5786-7024-1082-1769	Plano de Violacao	Ana Clara Cardoso	Historico	1976
+8828-3912-3900-1582	tiro de combate	Guilherme Sales	Historico	1923
+8967-8210-6922-7073	Infeccao de Assalto	Alexia Fogaca	Historico	1973
+6444-1793-1357-6167	Fuga da traicao	Francisco Fernandes	Historico	1962
+4604-5298-7302-6096	Luta de Expiacao	Bianca Ramos	Historico	1912
+8533-5381-8451-9628	Disparo de Atrito	 Fernanda Farias	Historico	1955
+6704-3639-9760-7729	Terra e Flashbacks	 Ana Julia Souza	Historico	1935
+9978-9204-1408-6523	Codinome e Ecos	Ana Costela	Historico	1933
+5486-4009-4954-9520	Labirinto e armas	Caio Teixeira	Historico	2021
+6194-8700-9900-438	Cronica e Viagem	 Kevin das Neves	Historico	2002
+8323-4129-4501-5065	Vida e Perigo	Emanuella Santos	Historico	1944
+751-3238-8202-4028	Tumulos e Ruas	 Vinicius Correia	Historico	1930
+8650-2363-488-4385	Ecos e codinome	 Davi Luiz Fogaca	Historico	1928
+3832-2927-597-6115	Perseguicao e Genocidio	Paulo Carvalho	Historico	2002
+707-1602-6895-5138	Brasas e Dia	Maysa Moreira	Historico	1957
+5421-3895-8696-6992	Planeta e Escalacao	Agatha Azevedo	Historico	1962
+7490-7240-9680-1146	Desespero e Explosoes	Carlos Eduardo das Neves	Historico	1992
+5693-9911-5557-4228	Esqueletos e Acertos de Contas	Alice Lima	Historico	1986
+4073-4891-9509-8920	Lobisomens e luta	Enrico Lima	Historico	1937
+1292-177-5309-5871	Existência e Logica	 Mariana Santos	Historico	2001
+1780-9618-817-4432	Esperanca e Frenesi	Erick da Cunha	Historico	1956
+5948-2663-3892-4471	Desordem e Dor	Enzo Gabriel Silva	Historico	1950
+2265-3000-4551-5585	Terra e Poeira	Lara Correia	Historico	1995
+9170-3828-8190-7006	Valor e Sombras	Emanuel Nunes	Historico	1999
+4313-6416-1974-2619	Desordem e Androides	 Fernando Costela	Historico	1934
+3239-2125-2809-5244	Razao e admiracao	 Pietro Mendes	Historico	1959
+6043-9596-5031-739	espaco de cristal	Ana Teixeira	Historico	1989
+5874-5499-3154-2329	Grimwind	Vinicius Porto	Historico	2001
+1777-4431-1452-1666	campo de batalha	 Stella Araujo	Historico	1950
+8056-677-652-8174	Alterstar	Joao Gabriel da Rosa	Historico	2002
+7030-1749-1781-3896	Blueblast	 Isabella da Rosa	Historico	2010
+170-347-2295-9410	plano de fusiveis	 Maite Moura	Historico	1965
+3213-6723-9766-3471	Grimborne	Milena da Paz	Historico	1946
+1006-4506-3099-5037	borderblaze	Amanda Santos	Historico	1988
+6256-7596-5315-2672	altercacao	Esther Silva	Historico	1993
+8301-7973-6999-1736	Bladeshot	Joao Lucas Cardoso	Historico	1940
+6580-7999-9194-6576	calamidade inimiga	Sarah Duarte	Drama	1974
+1346-1102-5226-2097	Virus Celestial	Gustavo Henrique Porto	Drama	2007
+5202-1355-4231-1782	Ataque de Tempestade	Ana Julia Nunes	Drama	1998
+1293-7099-4561-9452	Fuga Solar	 Lucas Gabriel Araujo	Drama	1929
+5268-5784-7254-4971	Chamada Esquecida	 Kamilly Pires	Drama	1994
+8672-9963-759-1315	alianca tatica	Bruno Lopes	Drama	1942
+6083-6795-4675-9375	guerra especial	Marcela Novaes	Drama	1999
+9016-7655-5697-3373	Furia Reaver	Joao Pedro Pires	Drama	1912
+6777-919-3331-3396	Operacao parasita	Benjamin da Rosa	Drama	1941
+9100-3859-3185-8982	mascara fantasma	Augusto Freitas	Drama	1918
+1695-4959-1683-1141	Cerco da Traicao	Ana Sophia Nogueira	Drama	1912
+1083-4186-8671-1239	Run of Privilege	Henrique Pinto	Drama	1998
+6912-3136-1576-1321	batalha de traicao	 Luiz Felipe da Costa	Drama	2006
+2194-9447-1547-5983	Queima de regra	Matheus Nogueira	Drama	1987
+5979-7035-8145-1849	Ataque de Logica	Leonardo Cardoso	Drama	2001
+6297-5578-9867-465	Regra da Logica	Isaac Ferreira	Drama	1917
+64-5543-5990-9510	Incinerar do Privilegio	Marcelo Martins	Drama	1985
+3240-2042-595-2708	greve de ordem	Thomas Barros	Drama	1970
+3625-63-6815-390	Acabar com a Rivalidade	Elisa da Costa	Drama	1973
+6467-9052-119-2074	Pilhagem de Logica	Catarina Rezende	Drama	1932
+4372-8133-3518-6858	Ruas e Jardim	Daniel Nogueira	Drama	1944
+3788-5691-9988-9591	Crônica e viagem	Joao Guilherme da Paz	Drama	1958
+7066-8652-6112-6	materia e dia	Catarina da Rosa	Drama	1918
+2555-9206-3861-6512	Invasao e Natureza	Erick Dias	Drama	1971
+2413-7531-5836-4008	Planeta e Crônica	 Lorenzo das Neves	Drama	1916
+5413-5891-8797-5210	crônica e lei	Joao Guilherme Pinto	Drama	1912
+2593-5647-1376-3556	Ataque e Armas	Sarah Costela	Drama	2002
+7589-6113-6153-3232	Ataque e Fortaleza	Davi Luiz Moreira	Drama	1959
+2134-1499-9370-4381	vinganca e imperio	Stephany Cavalcanti	Drama	1965
+2368-4221-7801-4534	Câmara e Sussurros	Isabelly Martins	Drama	1929
+7213-5048-990-9259	Solidao e Salvacao	Lucca Fernandes	Drama	1944
+7122-6038-6411-1358	Conflito e Sombras	Joana Campos	Drama	1962
+5916-7476-4083-6226	Zumbis e Razao	Thiago Souza	Drama	1965
+1031-2262-6078-5110	poder e deuses	 Calebe Costa	Drama	2018
+6543-426-4247-7017	Almas e Ordem	 Alexandre da Mata	Drama	2004
+881-8620-9080-2453	luta e misterio	Gustavo Henrique Barbosa	Drama	1934
+8689-3156-3450-4611	Controle e blindagem	Eduarda Gomes	Drama	1922
+5656-5694-3717-2290	Furtividade e Lobisomens	Heloisa Pinto	Drama	2000
+3316-5197-9255-8374	Terror e Herois	Diogo Martins	Drama	1953
+8491-2010-6137-1952	Insanidade e Poeira	Lais Monteiro	Drama	1944
+9255-9886-9886-7951	lado da guerra	Rodrigo Ribeiro	Drama	1961
+5994-807-9672-1055	robô cruzado	Pedro Moraes	Drama	1965
+9642-7569-7918-1175	ponta de dragao	Maria Eduarda Ramos	Drama	1965
+3402-331-6791-7188	vôo da lâmina	Joaquim Moraes	Drama	1962
+3017-501-6251-1109	Fogo azul	Joaquim das Neves	Drama	2015
+604-5140-2974-3153	Backborne	Brenda da Mata	Drama	1992
+8878-4719-6218-7860	plano de cluster	Ana Julia Viana	Drama	1949
+2566-6737-9362-6237	Bladehunt	Nina Pereira	Drama	1945
+7051-2668-5939-4400	Emberforce	 Joana Correia	Drama	1963
+3377-123-9143-9758	Clusterfobia	Leticia da Cunha	Drama	1923
+7993-6472-7269-1038	viagem de tempestade	Luna Correia	Fantasia	1929
+578-906-6844-9620	Ego Amaldicoado	Luiza Correia	Fantasia	1997
+4174-8339-8175-3522	Caverna do Futuro	 Sofia Fogaca	Fantasia	1934
+1827-5410-5052-3775	Ressurreicao Privada	Luna Moura	Fantasia	1945
+7495-9928-3137-8312	Reino de Batalha	Joao Pedro Ferreira	Fantasia	1920
+2022-7481-9078-7722	Estrada Fantasma	 Yago da Paz	Fantasia	2017
+1383-9904-1301-2501	universo ruim	Lucas Moreira	Fantasia	1945
+7925-9107-4591-8216	Caverna Espiritual	Pietro Pereira	Fantasia	1945
+8452-2978-3884-3967	Armada da Tempestade	Henrique da Costa	Fantasia	1951
+8882-2165-9476-3690	evolucao do anjo	Lucca Nogueira	Fantasia	2005
+1713-2800-1541-8809	divisao de combate	 Gustavo Porto	Fantasia	1937
+34-5393-2930-6470	Vinganca da Logica	Danilo Caldeira	Fantasia	2001
+7572-4672-9576-5105	Crash de Campanhas	Benjamin Silveira	Fantasia	1977
+4056-6423-3226-6672	Fuga da Vinganca	Emanuel da Cunha	Fantasia	2019
+7383-5040-6469-4942	conflito de imunidade	 Nicolas Teixeira	Fantasia	1930
+1709-6629-8844-3789	Greve da Razao	Nicole Melo	Fantasia	2011
+8157-2432-9923-3986	luta de guerra	Caua Caldeira	Fantasia	1915
+4433-6002-1683-7311	Corrida de Transgressao	Nicolas Costela	Fantasia	1999
+95-7638-2693-8959	Proteger de Trapaca	 Vitor Gabriel Goncalves	Fantasia	1925
+8434-4780-4906-4778	Bombarde de Enforce	Antonio Souza	Fantasia	1918
+6715-4153-4502-3518	Casa e filhos	Fernando Silva	Fantasia	1955
+9310-9422-4688-5786	Crime e descendência	Maria Clara Freitas	Fantasia	1919
+3516-5040-6174-3652	Jardim e Fonte	Samuel Araujo	Fantasia	1936
+206-9144-613-4441	Palavras e fonte	Bruna Pereira	Fantasia	1971
+2617-6735-4268-7017	Brasas e Impacto	Camila Carvalho	Fantasia	1989
+8457-4512-7307-1719	sonho e imperio	Daniel Costa	Fantasia	1985
+359-8232-9308-8720	Enterro e tesouros	 Stephany Moura	Fantasia	1943
+1585-8309-2275-1156	Palavras e Impacto	Ana Julia Almeida	Fantasia	1941
+9996-2472-7837-8084	Vinganca e Fortaleza	 Guilherme Teixeira	Fantasia	1996
+5245-7504-9107-5020	Cavaleiros e codinome	 Murilo Fogaca	Fantasia	2008
+7188-9406-468-9847	Barbaros e Natureza	Diogo Araujo	Fantasia	1979
+9150-8236-4240-579	Caveiras e Miseria	Joao Lucas Souza	Fantasia	1999
+9630-191-1987-2261	Honra e Resistência	Alice Monteiro	Fantasia	1929
+2250-9018-3183-9438	poeira e vampiros	Isabel Ramos	Fantasia	2002
+8463-53-532-470	Ambicao e Acao	Nathan Cavalcanti	Fantasia	1957
+8637-5818-2697-1541	Acao e Rubble	 Daniela Castro	Fantasia	1994
+5385-8202-3730-1168	Frenesi e Caveiras	Joao Lucas da Mota	Fantasia	1916
+6567-3648-5974-4283	Infinito e Caos	Marina Castro	Fantasia	1971
+5714-4204-1457-2720	Logica e Herois	Camila Rodrigues	Fantasia	1961
+7558-3892-7491-9488	Liberdade e Dragoes	Otavio Duarte	Fantasia	1944
+3275-1393-9425-1299	Dragonlust	Nathan Cardoso	Fantasia	2008
+9813-4043-5404-1983	Fusioncry	Gustavo Teixeira	Fantasia	2014
+3804-7944-8440-8969	Blocklight	Levi Cardoso	Fantasia	1927
+3713-4433-7200-5652	Deltazone	 Thales Souza	Fantasia	1978
+806-6517-3401-6771	Grito de guerra	Davi Luiz Carvalho	Fantasia	1964
+6436-3001-5028-2753	Antiscape	Enrico Santos	Fantasia	2007
+3268-5259-6794-6541	Farsite	Sophie Fernandes	Fantasia	1935
+4811-5437-8065-1721	Datablast	Pedro Henrique da Luz	Fantasia	1976
+6434-1183-1945-762	Borderrush	Diego Ribeiro	Fantasia	1985
+5865-5332-4304-7682	Bodystar	Joao Vitor Nascimento	Fantasia	2010
+5050-3768-2999-6307	Legado do Vampiro	Ana Clara Vieira	Infantil	1923
+1144-5779-6183-1349	Armada Primal	 Daniel Dias	Infantil	1928
+3287-9588-3458-2230	Materias Metalicas	Larissa Silva	Infantil	1984
+5859-4054-9644-6092	impacto atômico	Sophia Costa	Infantil	1987
+1126-2136-1406-953	carnificina da morte	Brenda Campos	Infantil	1989
+4889-823-6546-403	Complexo Amaldicoado	Murilo Santos	Infantil	2012
+9329-7689-2401-5682	Mortal Reaver	Luiz Felipe Santos	Infantil	1944
+9067-2083-4355-3434	Jogos Fantasmas	Camila Pires	Infantil	1917
+9324-9867-1741-8020	raca bala	Caua Rodrigues	Infantil	1915
+1500-1404-3405-9226	conspiracao brutal	Ana Luiza Lima	Infantil	2015
+4288-7735-5128-1045	Fortificacao de Combate	Julia Jesus	Infantil	1999
+4512-3972-9959-9906	Braco da Duplicidade	Leticia Pinto	Infantil	1950
+146-8571-3223-9853	Luta de Campanhas	 Luiza Santos	Infantil	1996
+9986-5051-9696-8250	Crash de combate	Sofia Goncalves	Infantil	1952
+8075-2637-6756-5522	aumento de friccao	Davi Lucca Porto	Infantil	2020
+8650-6946-7479-9567	Revolta da Logica	Sarah Ferreira	Infantil	1993
+5607-1728-9162-4351	Batalha de Regulamentos	Anthony Ramos	Infantil	1983
+6372-7571-7495-3769	Invasao de conflito	Caroline Novaes	Infantil	1978
+8522-5722-7991-894	Elimine a Agressividade	Henrique Ribeiro	Infantil	1989
+3202-1254-4755-2309	Demolicao da Logica	 Ana Laura Aragao	Infantil	2021
+3789-4368-5325-128	luta e fantasmas	Leonardo Nascimento	Infantil	1932
+9503-3555-8501-333	Tesouros e sombra	Maria Julia Pereira	Infantil	2005
+2006-4012-4716-6067	Apocalipse e dias	Clarice Campos	Infantil	1912
+5839-8978-6441-8780	Cavaleiros e casa	Gabriel Barbosa	Infantil	1926
+2440-6344-8982-4314	Fortaleza e falha	Maria Vitoria Martins	Infantil	1944
+1687-5408-4824-1529	Sonho e Genocidio	Pedro Caldeira	Infantil	2011
+2822-4727-2094-515	Perigo e Galaxia	Julia Costela	Infantil	1922
+3404-8182-158-8328	Raid and Sons	 Alicia Teixeira	Infantil	1981
+3161-3382-4162-8321	Sinfonia e codinome	Larissa Moraes	Infantil	1965
+841-3854-5740-315	idade e decada	Joana Silveira	Infantil	1965
+5841-6040-9104-459	Inocentes e Mutantes	 Camila Cunha	Infantil	2013
+702-9592-2076-4106	Ambicao e mentiras	Valentina da Luz	Infantil	1991
+448-3856-8918-8045	loucura e nada	Maria Luiza Rocha	Infantil	2005
+1734-8679-8024-4893	Natureza e Dever	Melissa Rodrigues	Infantil	1914
+1927-1763-2-1758	Herois e Destino	Maria Julia Oliveira	Infantil	1948
+4536-3118-4230-1853	Infinito e Caos	Maria Luiza Dias	Infantil	1963
+2929-7671-1880-8717	Dever e Mutantes	Ana Beatriz Barros	Infantil	1971
+4933-9827-5376-3596	medo e maldade	Otavio Pires	Infantil	1985
+5962-3074-3936-1006	Pavor e Desordem	Isis Lopes	Infantil	1995
+8045-2972-358-5611	Razao e Mutantes	 Lucca Caldeira	Infantil	1928
+1-8263-8627-5580	Bulletsky	Carlos Eduardo Porto	Infantil	1927
+1101-2548-9094-5864	ultrasky	 Ian da Paz	Infantil	1933
+2179-1054-2658-8416	Blastercraft	Joao Miguel Porto	Infantil	2000
+842-6278-3569-6618	Grimmind	Gabriel Cardoso	Infantil	1992
+1894-6591-393-5289	Biofire	Larissa Ramos	Infantil	1969
+4026-525-7299-1819	Farrush	Guilherme Novaes	Infantil	1955
+339-5694-6628-1791	Masterdude	Clara Carvalho	Infantil	1983
+4813-1666-2641-206	Fusionspace	Lucas Gabriel Aragao	Infantil	1961
+5047-3029-3647-6954	Bladespace	Rafael Pereira	Infantil	2017
+1985-8632-3054-6958	Datahunt	Camila Costa	Infantil	2001
+3255-9426-9050-514	Assuntos Carnivoros	Evelyn da Costa	Terror	1914
+61-7812-5099-1894	Ascendente Carmesim	Pietro Goncalves	Terror	1946
+4106-3111-7837-9756	Lenda secreta	 Ana Beatriz Moura	Terror	1998
+2554-7012-845-8142	fronteira armada	Pedro Lucas Carvalho	Terror	1948
+3580-4086-1656-8007	Campanha canibal	Luiz Otavio Porto	Terror	1912
+6919-4498-7115-5679	Evolucao Zumbi	Gabrielly Campos	Terror	1919
+1471-5985-9912-3241	Anjo de emergência	Bruna Sales	Terror	2022
+809-2295-7485-2539	colheita de cromo	Isis Costela	Terror	1996
+6505-2342-5489-5647	Caverna de emergência	Miguel Rodrigues	Terror	1948
+9237-4880-9655-5712	Guerra Sagrada	Rebeca Silveira	Terror	1944
+5257-5747-3160-5088	luta da verdade	Eduarda Nascimento	Terror	1970
+9906-7417-262-9981	Bombarda da Democracia	 Anthony Nogueira	Terror	2001
+1893-9141-1726-8786	Carga de Expiacao	Luiz Gustavo Rodrigues	Terror	1964
+3642-8457-6037-1619	Fuga de estipulacao	 Gabriel Costela	Terror	1993
+6252-7629-8407-4998	Demolir da Agressao	Davi Lucca Duarte	Terror	1963
+1126-1273-7361-8910	Pancada de ira	Rafaela Pires	Terror	1999
+1898-8221-5674-4927	Fortificacao de Assalto	Luna Martins	Terror	1947
+5322-9996-5164-7423	contador de traicao	Maria Alice Barbosa	Terror	1926
+2646-5806-4865-9517	Resgate da Imunidade	Samuel Barros	Terror	1965
+5220-5850-8454-5622	Derrota da Restituicao	Melissa Nunes	Terror	1942
+4388-2734-7407-2293	Jardim e brasas	 Augusto Oliveira	Terror	1976
+803-7048-7457-3794	Avivamento e palavras	Marcelo Nunes	Terror	1932
+5173-5116-1756-4861	Ordem e Decada	Theo da Mota	Terror	1961
+5044-6203-5298-4808	Execucao e Sombra	Larissa Dias	Terror	1972
+897-2786-2913-5585	Armas e Imperio	Caua Lima	Terror	1998
+3241-7630-4468-2122	Decada e Dinastia	Mariane Martins	Terror	1955
+1427-9580-3168-5065	caca e viagem	Stephany Almeida	Terror	1977
+6866-6445-966-3333	Cavaleiros e Câmara	Ian Porto	Terror	1957
+2742-9086-6944-9227	vinganca e assassinato	Joao Miguel Vieira	Terror	1984
+5363-2057-1017-3248	Tesouros e Defesa	Igor da Mata	Terror	1965
+9418-1887-2300-6995	Imortais e verdade	Rebeca Rocha	Terror	1941
+7977-5916-8714-6321	Infinito e Vampiros	Alicia Dias	Terror	1989
+3468-3206-5883-1312	Salvacao e Existência	Lavinia Duarte	Terror	1988
+2159-5734-9549-1188	Mal e Evolucao	Luiz Felipe Dias	Terror	1925
+9008-9901-767-6600	Prototipos e Valor	 Alana Correia	Terror	1961
+6478-2723-4331-6564	Vitoria e medo	Davi Lucca Barros	Terror	1970
+3588-7876-766-6468	Fe e Oraculos	Maria Vitoria Sales	Terror	2020
+5874-5688-2001-4062	Lobisomens e poder	 Pedro Henrique Azevedo	Terror	1997
+8647-5366-8949-1983	Fogo e Frenesi	Daniela Santos	Terror	1943
+4430-8427-5625-1420	Logica e Escombros	Gabrielly Araujo	Terror	1992
+7136-7009-2389-5486	Bodybot	Fernanda Nascimento	Terror	1950
+6152-1314-2468-991	ultracry	 Marcos Vinicius Martins	Terror	2016
+894-577-159-6185	Alpharage	 Milena Sales	Terror	1960
+1345-6756-2510-3844	Corrida maluca	Joao Guilherme da Rosa	Terror	1990
+3875-8160-8132-7539	Emberline	Joao Miguel da Luz	Terror	1998
+7295-5973-3698-6797	Ultrafobia	Yasmin Viana	Terror	1971
+6955-9955-327-6390	Bodyflight	Gabriel Pires	Terror	1917
+1673-2636-7911-6592	Bladestar	Leandro Silva	Terror	1952
+1102-5643-4434-4941	Alterdoom	 Juan Ferreira	Terror	1945
+496-4223-9277-7677	Dreadplan	Giovanna Pinto	Terror	2016
+2272-2002-9544-2648	Projeto Sombrio	 Marcela Teixeira	Humor	1978
+7054-699-6152-6535	traicao morta	 Joao Felipe Lopes	Humor	1921
+5938-3209-3937-984	Alerta Infinito	Carolina Cunha	Humor	1999
+8983-2051-6792-1146	Fuga Estelar	 Milena Fogaca	Humor	1989
+6993-1847-7361-6897	Castelo do Guerreiro	 Otavio Martins	Humor	1938
+8894-5552-5886-6216	Fronteira Fria	Heitor Cavalcanti	Humor	1914
+8075-8907-1790-8614	virus parasita	Lorena Pinto	Humor	1985
+4007-8113-8683-897	Legado do Armagedom	Julia Moraes	Humor	1946
+9436-3168-6288-8496	Conflito de Lobisomem	Isabella Oliveira	Humor	2020
+9296-9933-6559-3585	Predador da Alma	Rafael Silveira	Humor	2018
+9829-4585-911-8620	Resistir ao heroismo	 Luiz Otavio Correia	Humor	1998
+1386-5922-1219-9087	Retaliacao da Lei	Yago Dias	Humor	1922
+3606-4051-5554-7210	Fortalecimento da Restituicao	Luiz Miguel Nunes	Humor	2007
+5652-3906-4062-1739	Incinerar da Acusacao	Maria Vitoria da Rocha	Humor	1996
+6105-4774-3690-5397	guarda da verdade	Joao Lucas Duarte	Humor	1982
+8564-3729-3464-6829	Pilhagem da Salvacao	Nicole Martins	Humor	1919
+2230-1422-4209-3969	Divisao da Hipocrisia	Leonardo da Rocha	Humor	1967
+5219-6523-6381-9492	regra de invasao	 Isadora Rocha	Humor	1925
+692-7610-1033-9154	explosao de regra	Theo Correia	Humor	1936
+1249-6029-6938-4930	Contador de Ira	Gustavo Henrique Martins	Humor	1994
+8454-3233-5649-8093	Sinfonia e filhos	Caue Costela	Humor	1942
+3840-5890-8390-6453	brasas e caca	Thales Campos	Humor	2022
+2143-8447-8710-8546	Armas e Escalada	Vitor Gabriel Farias	Humor	2004
+289-5937-7403-5972	Ecos e palavras	 Bianca Cardoso	Humor	1949
+3899-9990-1081-9091	Dias e idade	Alexia Moura	Humor	1998
+3588-4028-4350-6926	poder e forca	Augusto Caldeira	Humor	1992
+7377-6152-8837-6045	Remorso e Sombra	Andre Viana	Humor	2011
+8568-427-5286-3792	Defesa e Enterro	 Isaac Teixeira	Humor	1913
+6690-8523-2962-3483	Armas e Brasas	Yasmin Melo	Humor	1939
+7804-1951-6531-2701	Semana e vinganca	Maria Clara Farias	Humor	1943
+841-2150-4959-4699	Barbaros e Pesadelos	Carolina Porto	Humor	1931
+6609-9171-8525-7779	Resistência e Harmonia	Carlos Eduardo Ramos	Humor	1943
+5989-8215-5458-799	Lobisomens e Insanidade	Gabriel Costa	Humor	1941
+8468-9585-2576-1772	Vitoria e Evolucao	Larissa Silveira	Humor	1939
+7684-9401-2510-8377	Imortais e duvidas	Calebe Silveira	Humor	1996
+4867-5764-5406-8939	Androides e Liberdade	Luiz Henrique Cavalcanti	Humor	2021
+4958-5036-3993-5544	Ordem e Ambicao	Livia Pereira	Humor	1962
+5511-2101-9305-4530	caos e dever	Antonio Caldeira	Humor	1978
+8882-6491-2903-4422	Resistência e Poder	Ana Sophia Ramos	Humor	2021
+2367-6301-8398-8517	Poder e Miseria	Eduardo Rodrigues	Humor	2020
+1202-425-8970-2164	trabalhos demoniacos	Leonardo Lima	Humor	1948
+9744-6103-3859-2651	arquefobia	Olivia Rocha	Humor	2014
+2652-1162-1587-9422	Madside	Luiz Felipe das Neves	Humor	1973
+8693-4785-7748-6511	Blockflight	Diogo Viana	Humor	1921
+4839-7418-42-2212	Bulletbot	Marcos Vinicius Almeida	Humor	1994
+2188-9532-8159-3283	Alfalândia	Lorenzo Carvalho	Humor	1974
+4455-7070-555-5820	Farchase	Esther Nunes	Humor	1971
+8842-4192-1852-3070	Warmania	Lucas Barros	Humor	1935
+92-5738-2057-6685	Tempestade de Dragoes	Maria Cecilia Lopes	Humor	1958
+9949-2033-8128-3366	deltanita	Matheus Pereira	Humor	1966
+4802-407-7749-6251	Impacto do trovao	Luiz Felipe Barros	Misterio	1925
+782-841-3206-725	Recompensa Fantasma	Amanda Pereira	Misterio	1914
+9232-8966-5202-2532	Pesadelo Humano	Luigi Azevedo	Misterio	1958
+3595-9096-3445-2666	Guerra do Chrome	Heloisa Pereira	Misterio	1917
+2519-9545-472-6053	fuga de combate	Catarina da Rocha	Misterio	1912
+3998-8511-3719-5396	Celula Fantasma	Ana Vitoria Sales	Misterio	1930
+3760-7271-9297-2370	Ataque Especial	 Maysa Nunes	Misterio	1913
+8681-782-8591-6465	Apenas ligue	Emanuella da Paz	Misterio	1981
+3365-5157-7788-144	lâmina mortal	Matheus Viana	Misterio	1972
+8297-6094-5777-8164	Sonho de Tempestade	Yasmin Novaes	Misterio	1986
+5074-9898-1322-2837	corrida de hipocrisia	Caua Nogueira	Misterio	1916
+7506-1761-5524-5596	Demolicao da Vinganca	Esther Teixeira	Misterio	1945
+7363-7855-3156-566	Ascensao da Hipocrisia	Nathan Novaes	Misterio	1947
+7260-6327-6729-1438	batalha de traicao	Ana Beatriz Dias	Misterio	1973
+62-285-2607-158	Resistir a Violacao	Carlos Eduardo Oliveira	Misterio	2006
+4140-1537-4987-2067	luta de redencao	Luiz Felipe Nunes	Misterio	2020
+3235-1188-4391-360	Fuga de Mentiras	Davi da Mata	Misterio	1944
+6098-3960-9608-699	Choque de Duplicidade	Ian Lopes	Misterio	2011
+3277-3493-423-6677	Resistir a Traicao	Benjamin Novaes	Misterio	1960
+1238-7133-9852-9046	plano de mentiras	Benicio Farias	Misterio	1983
+8038-9968-4296-1796	Terra e Armas	 Catarina Fernandes	Misterio	2006
+8523-6376-6606-1927	Barragem e Defesa	Leandro da Mata	Misterio	2020
+2102-1696-2647-8723	Descida e Cidade	Maria Fernanda Pires	Misterio	1983
+5741-6425-7882-4634	Perigo e Morte	 Maria Alice Cardoso	Misterio	1990
+331-2028-1711-8575	Crônica e Planeta	Davi Lucca Fernandes	Misterio	1965
+3869-7634-7960-5193	Sinfonia e Ecos	Lucca Moura	Misterio	2009
+6297-8303-9529-9246	Doom e Rush	 Renan Porto	Misterio	1955
+1429-8005-1085-8280	ciência e mundo	 Laura Novaes	Misterio	1921
+4653-2193-7218-381	Casa e Dinastia	Daniela Lima	Misterio	1959
+3413-2878-6600-7465	Perigo e sepulturas	 Larissa Costela	Misterio	1958
+4453-5139-9397-7672	Androides e nada	Yasmin Fogaca	Misterio	1922
+6271-8037-3881-2696	Esperanca e Oraculos	Joao Guilherme Barros	Misterio	2007
+7597-4014-3699-4363	Sanidade e Fortuna	 Maria Eduarda Almeida	Misterio	1915
+1103-3180-689-3324	Vampiros e Ambicoes	Marcos Vinicius Rocha	Misterio	1992
+7139-8835-3024-2718	Furtividade e Explosoes	 Sophie Costa	Misterio	2016
+8969-5278-1758-3425	Furtividade e Androides	Gustavo Pires	Misterio	1950
+2218-2351-6064-55	Ordem e gangues	Joao Mendes	Misterio	1970
+8724-6010-2741-3932	Destino e Logica	Rafaela Alves	Misterio	1923
+9717-1900-3160-4816	Guerra e tempo	Valentina Mendes	Misterio	1970
+1425-2379-9683-8012	Almas e Miserias	Livia Vieira	Misterio	2002
+792-2471-6948-2563	celula cruzada	Emanuella Silveira	Misterio	1912
+3531-3724-1670-6431	Bioreign	Vinicius Rocha	Misterio	2020
+3862-2883-6323-4551	Chuva de sangue	 Bianca da Paz	Misterio	2002
+6292-6488-1978-8605	Mortofobia	Nina Fogaca	Misterio	1951
+4230-3711-1961-1107	Bodyblade	Maysa Dias	Misterio	1956
+1457-1764-7210-5366	ponto de fronteira	Maria Sophia Carvalho	Misterio	2010
+2325-2804-8834-9681	tiro de guerra	Luna Farias	Misterio	1957
+7788-5305-5227-2791	endosso	Ana Clara Castro	Misterio	2019
+9063-862-514-1849	Dreaddude	Renan Castro	Misterio	1936
+493-5968-2943-1752	Archeheart	 Maria Luiza Goncalves	Misterio	1935
+9386-1496-5767-1016	barragem esquecida	Joao Gabriel Rezende	Nao-ficcao	2014
+340-3719-8601-9429	Guerra Celestial	Noah Mendes	Nao-ficcao	1947
+3590-3193-5943-6088	Matando o Pânico	Sabrina Lima	Nao-ficcao	1990
+4879-265-3547-6261	Maldicao do Fantasma	Joao Lucas Ramos	Nao-ficcao	1924
+1167-2172-4685-4065	idade do sangue	Antonio Castro	Nao-ficcao	1997
+5589-5693-9694-8713	Descoberta do Android	Arthur Mendes	Nao-ficcao	2022
+5427-6181-4565-7504	sindrome sagrada	Pedro Jesus	Nao-ficcao	1940
+406-56-7025-5747	elementos da alma	Clara Cavalcanti	Nao-ficcao	1999
+8366-2575-2376-9598	Galaxia Recompensa	Sofia Lima	Nao-ficcao	1979
+6853-7026-2214-4207	Agente de Tempestade	Heloisa Barbosa	Nao-ficcao	1912
+3422-5178-9041-7008	cerco da razao	Rodrigo Barbosa	Nao-ficcao	1958
+9116-8305-4049-6698	estrategia de herois	Vitoria da Conceicao	Nao-ficcao	1948
+2902-7556-8247-6146	Golpe de Duplicidade	 Marina Oliveira	Nao-ficcao	1924
+8651-4085-6215-3359	Nocaute da Ira	Pietro da Paz	Nao-ficcao	1947
+9470-4675-7622-2171	vinganca da invasao	Juliana Rodrigues	Nao-ficcao	1972
+9221-8835-5905-83	Fuga da Trapaca	Leonardo Ferreira	Nao-ficcao	1995
+328-8271-3636-3809	invasao da liberdade	Raul Ferreira	Nao-ficcao	1938
+9521-3681-617-1886	Comando de Acusacao	 Caue Cunha	Nao-ficcao	1988
+9122-2604-9454-586	Resistir a Oportunidade	Amanda Silveira	Nao-ficcao	1941
+2029-908-5728-7846	Rompimento da Restituicao	Leticia da Costa	Nao-ficcao	1998
+4339-144-7782-306	Ruas e Decada	Heloisa da Cruz	Nao-ficcao	1931
+1819-1731-5652-9763	sombra e filhos	Diego Correia	Nao-ficcao	1973
+7694-8946-9067-5920	Feiticos e Missao	Ana Mendes	Nao-ficcao	1931
+8991-8256-2928-1374	Retribuicao e caca	Rodrigo Barros	Nao-ficcao	1987
+1360-7609-5948-434	ponte e cavaleiros	Renan Melo	Nao-ficcao	1969
+1998-6338-5016-9950	Galaxia e Natureza	 Vitoria Castro	Nao-ficcao	1931
+1998-5073-7880-5416	Cronica e Espaco	 Manuela Lima	Nao-ficcao	1992
+391-5991-2133-95	Assassinato e Ecos	Stella da Rosa	Nao-ficcao	1938
+3545-9656-8303-544	Destruicao e Comando	Luiza das Neves	Nao-ficcao	1958
+8068-7526-2261-354	Perdicao e Culto	Ana Julia Melo	Nao-ficcao	1917
+1095-8358-551-8374	Herois e Furtividade	Carlos Eduardo Cardoso	Nao-ficcao	1987
+1696-6563-33-3915	Almas e Sanidade	Eduardo Martins	Nao-ficcao	2002
+3958-4295-9238-4057	Inocentes e Esqueletos	Marcela Carvalho	Nao-ficcao	2022
+6806-7662-7084-7804	Duvidas e Pesadelos	Leandro Rocha	Nao-ficcao	1951
+6600-8436-7398-5089	demônios e caos	Maria Fernanda Fogaca	Nao-ficcao	1980
+1645-8581-953-4004	Ambicao e enigmas	 Thales Melo	Nao-ficcao	1934
+2203-5014-7482-3541	luta e esperanca	Carolina Barbosa	Nao-ficcao	1915
+1541-5113-3263-7629	Traicao e Oraculos	Francisco Rodrigues	Nao-ficcao	1973
+5869-5214-7845-5100	Sacrificio e Controle	 Brenda Nunes	Nao-ficcao	2009
+6634-1519-7099-4083	Duvida e Desordem	Lucas Lopes	Nao-ficcao	1970
+2442-4924-1946-3654	Ponto de Sangue	Antonio Novaes	Nao-ficcao	1912
+4955-9980-8115-6048	fartech	Samuel Fogaca	Nao-ficcao	1987
+5359-3333-3614-6387	Archesky	Maria da Mota	Nao-ficcao	1995
+8215-5099-1984-1396	Bulletreign	Pedro Henrique da Mota	Nao-ficcao	1925
+1066-6980-1508-6063	Evercore	Joao Miguel Lopes	Nao-ficcao	2002
+6170-7398-3228-2703	vida eterna	 Matheus Correia	Nao-ficcao	2000
+5562-8624-9074-7177	caca cruzada	Stephany Melo	Nao-ficcao	2001
+6239-4230-759-1826	Perseguicao dos Sonhos	Amanda Monteiro	Nao-ficcao	1996
+1710-347-1687-4397	Dragonsky	Heloisa da Costa	Nao-ficcao	1993
+2694-6831-7752-2303	Everrain	Davi Sales	Romance	1967
+9994-1065-1749-2497	Cruzada Mortal	Joao Miguel Nascimento	Romance	1938
+2905-8486-7155-810	Ego Matador	Maria Clara Porto	Romance	1981
+6043-5363-3138-163	Sistema de Lobisomem	Barbara Almeida	Romance	2003
+8551-8439-5090-7292	sirene privada	Eduardo Ribeiro	Romance	1945
+9384-9948-3499-4814	Comando Blindado	Lais Costa	Romance	1926
+9770-5978-7927-3293	Cruzada Humana	 Rebeca Freitas	Romance	1977
+8607-1017-583-2789	Sistema Infinito	Bruna Caldeira	Romance	2021
+9424-7050-9528-3747	pânico infectado	Marcelo Campos	Romance	1996
+1421-3927-8088-1963	Agente Nuclear	Mariana da Mata	Romance	2012
+6520-7313-1079-6205	Grande Reino	Anthony Cavalcanti	Romance	2017
+2986-1284-6953-5862	Aumento da Infracao	 Diego Alves	Romance	1933
+1490-7788-4944-9379	vinganca de mentiras	Vinicius Nunes	Romance	1919
+9493-6204-3083-4183	Destruicao do Conflito	Alexandre da Cruz	Romance	2022
+7198-1917-3346-1505	Incinerar da Democracia	Gustavo Henrique Porto	Romance	1994
+3737-9674-8377-1887	pilhagem de trapaca	Luigi Rezende	Romance	1931
+4412-9087-1806-1877	Ataque de Trapaca	Leticia Cardoso	Romance	1958
+9684-2541-2466-8777	ataque de guerra	Guilherme Correia	Romance	1961
+9673-9195-5547-464	Estrategia de Mentiras	Eduarda Moraes	Romance	1931
+9194-6432-5044-7898	Incinerar de Oportunidade	Evelyn Vieira	Romance	1980
+6665-3727-6836-2359	Limpe a liberdade	Emilly Moreira	Romance	2012
+4825-8791-3499-6712	Dia e Apocalipse	 Joao Gabriel da Costa	Romance	1935
+2346-3652-1788-8020	Labirinto e tesouros	Lucca Moura	Romance	2012
+5764-2911-2124-5435	Filhos e Destruicao	Joao da Mota	Romance	1985
+2404-99-2736-5798	Jardim e Ordem	Raquel Santos	Romance	1987
+6217-5335-5103-4725	Fortaleza e Dimensao	Lavinia Alves	Romance	1968
+9429-5663-1646-5842	sonho e espada	Cecilia Rodrigues	Romance	1989
+6511-8480-6118-714	Lei e armas	Cecilia Ramos	Romance	1936
+364-2508-7357-8713	Batalha e viagem	Luiz Otavio Correia	Romance	1962
+5426-8934-8372-3693	armas e planeta	 Luana Azevedo	Romance	1968
+2043-129-2802-155	Jornada e Barragem	Kevin Aragao	Romance	1978
+5317-9880-1938-2343	luta e lendas	Valentina Teixeira	Romance	1948
+6212-5505-5619-2712	Mentiras e Evolucao	Lorenzo Fogaca	Romance	1937
+4673-5612-9177-2216	Sonhos distorcidos e gangues	Joao da Luz	Romance	1957
+7786-7559-2787-3595	Barbaros e Destruicao	Maria Sophia Pereira	Romance	1970
+2557-6359-5869-1796	Duvida e Ordem	Eloah Lima	Romance	1979
+2486-9469-9583-3454	Solidao e Miseria	Igor da Conceicao	Romance	1961
+5213-7388-8871-7395	Liberdade e Imortais	Laura Ramos	Romance	1971
+4157-7764-175-2066	Harmonia e Caos	 Joao Lucas Lima	Romance	2021
+905-3095-7971-9883	Acao e Evolucao	Theo Pinto	Romance	1928
+1991-2710-5105-7544	Desorganizacao e Acerto de Contas	Maria Cecilia da Costa	Romance	1944
+4369-857-1162-2652	Deltadoom	Rafaela Rodrigues	Romance	1967
+5872-1825-8966-2309	Blockland	Vitor Barros	Romance	1994
+6413-9308-902-7398	Bloodcore	Breno Dias	Romance	1930
+3880-5409-916-1347	Dreadlust	Calebe Jesus	Romance	1944
+1224-6744-1565-8263	Geolândia	 Fernanda Barros	Romance	1938
+7363-6448-9857-3388	Cyberdude	Maria Alice das Neves	Romance	1937
+5574-1728-9799-7948	robô de batalha	Isadora Melo	Romance	1979
+9338-4193-8658-6558	Dreadside	 Joao Miguel Peixoto	Romance	1915
+6467-5658-5900-3032	Crystalblaze	Stephany Castro	Romance	1996
+6266-7716-73-7419	Astroblast	Benjamin da Cruz	Romance	1954
+9101-3274-7041-617	Cruzada Mortal	Leandro Nunes	Ficcao Cientifica	1915
+7798-8888-1726-8517	Ego Matador	Alice Souza	Ficcao Cientifica	1913
+6285-6465-6391-8378	Sistema de Lobisomem	Alicia Silveira	Ficcao Cientifica	2010
+9895-2453-4178-1180	sirene privada	 Enzo Gabriel Fernandes	Ficcao Cientifica	1982
+9329-9425-316-1981	Comando Blindado	Emanuel Melo	Ficcao Cientifica	1996
+9192-6381-777-7437	Cruzada Humana	Joana Cunha	Ficcao Cientifica	1937
+6518-7747-8861-1860	Sistema Infinito	Laura Nogueira	Ficcao Cientifica	1940
+6298-1475-8061-9577	pânico infectado	Lucca da Cruz	Ficcao Cientifica	1989
+7998-2167-3718-5877	Agente Nuclear	 Leticia Pires	Ficcao Cientifica	1993
+2878-5959-2767-5628	Grande Reino	Pedro Lucas Gomes	Ficcao Cientifica	1923
+8073-2706-8268-3447	Aumento da Infracao	Melissa da Paz	Ficcao Cientifica	2019
+1382-8086-1665-875	vinganca de mentiras	Alexia Correia	Ficcao Cientifica	2018
+7367-8770-6829-1227	Destruicao do Conflito	Samuel da Rosa	Ficcao Cientifica	1929
+2178-5822-6349-6758	Incinerar da Democracia	Marcos Vinicius Mendes	Ficcao Cientifica	1981
+9972-9193-6796-6611	pilhagem de trapaca	Emanuelly Costa	Ficcao Cientifica	2013
+2160-6732-1872-5222	Ataque de Trapaca	Isabelly Moura	Ficcao Cientifica	1915
+8438-3541-4522-4179	ataque de guerra	Evelyn Campos	Ficcao Cientifica	2010
+9399-6668-68-5629	Estrategia de Mentiras	Luiz Fernando Cardoso	Ficcao Cientifica	2016
+9274-9946-6420-4117	Incinerar de Oportunidade	 Sophia Freitas	Ficcao Cientifica	1921
+1604-2611-5069-2262	Limpe a liberdade	Kevin Ribeiro	Ficcao Cientifica	2015
+2044-4337-8308-6620	Dia e Apocalipse	 Clarice Moreira	Ficcao Cientifica	1998
+4348-9146-2275-1145	Labirinto e tesouros	Alice Costela	Ficcao Cientifica	1946
+6828-6060-3802-4670	Filhos e Destruicao	Nathan Barbosa	Ficcao Cientifica	2002
+4394-5033-5955-5942	Jardim e Ordem	Esther da Rosa	Ficcao Cientifica	1976
+6402-2403-3239-7822	Fortaleza e Dimensao	Isaac Nogueira	Ficcao Cientifica	1973
+5924-116-5789-7883	sonho e espada	Elisa Monteiro	Ficcao Cientifica	1965
+5423-7178-5264-2245	Lei e armas	Maria Alice Ferreira	Ficcao Cientifica	1938
+4229-6213-764-9466	Batalha e viagem	 Caue Costa	Ficcao Cientifica	1927
+7161-465-281-9502	armas e planeta	Enzo da Costa	Ficcao Cientifica	1988
+3247-4554-4344-4237	Jornada e Barragem	Rafael Martins	Ficcao Cientifica	1927
+6583-5527-3791-9882	luta e lendas	Natalia Fernandes	Ficcao Cientifica	2008
+7258-6493-2454-5525	Mentiras e Evolucao	Helena Pinto	Ficcao Cientifica	1962
+2850-2983-9805-7171	Sonhos distorcidos e gangues	 Juliana da Paz	Ficcao Cientifica	2022
+6218-4015-7498-7313	Barbaros e Destruicao	Juliana Fogaca	Ficcao Cientifica	2006
+4639-2800-3730-7172	Duvida e Ordem	Stephany Goncalves	Ficcao Cientifica	2022
+7551-2766-37-2390	Solidao e Miseria	Nicolas Oliveira	Ficcao Cientifica	1996
+697-2756-3219-2394	Liberdade e Imortais	Andre Pinto	Ficcao Cientifica	1922
+4115-2666-9647-9561	Harmonia e Caos	Beatriz Peixoto	Ficcao Cientifica	1985
+7820-6120-1237-2771	Acao e Evolucao	 Livia Aragao	Ficcao Cientifica	1919
+6357-7149-5556-4025	Desorganizacao e Acerto de Contas	Emilly da Cruz	Ficcao Cientifica	1975
+4481-3547-741-5915	Deltadoom	Evelyn Aragao	Ficcao Cientifica	2004
+5280-2393-1340-4958	Blockland	Daniela Vieira	Ficcao Cientifica	1990
+7554-199-6924-7613	Bloodcore	Emanuelly da Costa	Ficcao Cientifica	1921
+6014-2658-8538-1959	Dreadlust	Alexia Fernandes	Ficcao Cientifica	2022
+8907-569-8938-5617	Geolândia	Ana Beatriz Silveira	Ficcao Cientifica	1923
+4787-6276-6214-658	Cyberdude	 Ana Costela	Ficcao Cientifica	1932
+8501-6842-9767-5870	robô de batalha	Yasmin Nogueira	Ficcao Cientifica	1947
+7581-7663-4371-4937	Dreadside	Ana Julia Vieira	Ficcao Cientifica	2017
+9698-2537-7296-9433	Crystalblaze	Bruna Correia	Ficcao Cientifica	1959
+1808-3675-5907-3198	Astroblast	Murilo Ribeiro	Ficcao Cientifica	2017
+5780-8401-6226-4963	Mortal Inquisition  Óculos de grau	Felipe Barbosa	Drama	1988
+7016-5018-2145-3205	Solar Attack  Orelhas	Daniel Pinto	Drama	1934
+2734-1771-8819-9850	Light Alias  Sapo	Thiago Mendes	Drama	2009
+566-6213-6332-6942	Human Frontier  Peixe	Paulo Fogaca	Drama	1928
+7715-8830-4946-3004	Battle Retribution  Peixe	Ana Julia Gomes	Drama	1998
+8510-135-2928-5987	Killing Fear  Elevador	Lara Barbosa	Drama	1966
+818-6145-8898-8999	Solar Abyss  Pinguim	Arthur Martins	Drama	1915
+3400-8943-9240-5850	Cosmic Aftermath  Fotógrafo	Fernanda Pires	Drama	1971
+9850-7540-4499-6673	Just Heart  Sofá	 Ana Luiza Moura	Drama	1934
+7748-1944-579-8423	Killing Breed  Elevador	Juliana Cavalcanti	Drama	1923
+2437-2780-5784-4129	Rescue of Retribution  Lápis	 Melissa Silveira	Drama	1955
+1382-223-6182-6280	Demolish of War  Gato	Maria Vitoria Oliveira	Drama	1915
+6160-5727-4421-5513	Run of Friction  Copo	Gustavo Henrique Correia	Drama	1986
+426-1320-7513-8117	Resist of Lies  Martelo	Evelyn Porto	Drama	2009
+2485-7612-5920-9722	Plan of Violation  Pescador	Barbara Cardoso	Drama	1923
+1005-857-2756-4792	Shoot of Combat  Tesoura	Enrico Oliveira	Drama	2006
+3226-9136-4118-6965	Infect of Assault  Cachorro	 Levi das Neves	Drama	1927
+619-5792-3087-4158	Escape of Betrayal  Pipa	Marcela Peixoto	Drama	2005
+4026-6091-602-9971	Strife of Atonement  Café	Lucas Gabriel Carvalho	Drama	1972
+428-5691-8614-541	Shoot of Friction  Óculos de grau	Sabrina Castro	Drama	1915
+2575-6947-9528-8713	Land and Flashbacks  Beliscão	Felipe Pinto	Drama	1962
+7275-4817-4969-8115	Codename and Echoes  Martelo	Gustavo Ribeiro	Drama	1982
+7102-8607-3604-5094	Maze and Guns  Golfe	Beatriz da Luz	Drama	1921
+156-4188-2771-6484	Chronicle and Journey  Elefante	 Arthur Souza	Drama	2011
+2740-5524-7352-8597	Life and Danger  Celular	Anthony Silveira	Drama	1986
+7619-5959-9156-4427	Graves and Streets  Tosse	Caua da Cunha	Drama	1931
+4093-7961-9750-3232	Echoes and Codename  Basquete	Ana da Rocha	Drama	1984
+1223-7972-2242-1539	Chase and Genocide  Tesoura	Heitor da Mota	Drama	1998
+973-1854-8390-1854	Embers and Day  Espirro	Pietro Moreira	Drama	1989
+1556-3072-7187-4040	Planet and Escalation papel	 Maria Julia Sales	Drama	1997
+5212-5511-6200-1335	Despair and Explosions  Elevador	Eduarda Caldeira	Drama	2022
+3097-3760-4986-5854	Skeletons and Reckoning  Basquete	Maria Vitoria Teixeira	Drama	1963
+9338-4228-3077-1555	Werewolves and Struggle  Pipa	Nathan Barros	Drama	1946
+6389-8486-7194-3036	Existence and Logic  Tosse	Alana Melo	Drama	1923
+5722-780-4559-8821	Hope and Frenzy  Copo	Vitor Nascimento	Drama	1953
+2903-5392-2937-7662	Disorder and Pain  Futebol	Juliana Sales	Drama	2005
+1133-5036-1193-1679	Earth and Dust  Sofá	Ana Vitoria Farias	Drama	2005
+2612-4243-8830-3499	Valor and Shadows  Pinguim	Henrique Duarte	Drama	2014
+5677-1923-1718-9165	Disorder and Androids  Bola	 Lara Moraes	Drama	1944
+8891-6053-6965-9104	Reason and Awe  Piada	Isabella da Cunha	Drama	1960
+8461-9262-497-467	Crystalspace  Controle remoto	 Luana Melo	Drama	1964
+8893-5731-9830-8480	Grimwind  Café	Isabella da Mata	Drama	1965
+2720-3654-5432-5552	Battlespace  Fogão	 Giovanna Pires	Drama	1966
+3671-4608-2361-7004	Alterstar  Fogão	Amanda Peixoto	Drama	1968
+8849-3365-1153-5425	Blueblast  Chocolate	 Lucas Cardoso	Drama	1964
+2503-4454-5209-3410	Fuseplan  Café	Lorenzo da Cunha	Drama	1999
+38-8725-3572-7259	Grimborne  Elevador	Diogo Alves	Drama	1912
+4315-7653-3167-1264	Borderblaze  Cachorro	Joao Vitor Cardoso	Drama	1964
+1334-1700-4754-9068	Alterchase  Sofá	Bryan Nascimento	Drama	1989
+918-6966-758-3744	Bladeshot  Pescador	Diego Cardoso	Drama	2014
+8869-9151-4487-5697	Enemy Calamity  Orelhas	Gustavo Souza	Fantasia	1951
+4381-3403-1340-2325	Celestial Virus  Cadeira	Ana Livia Teixeira	Fantasia	2022
+6430-1861-2267-9046	Storm Assault  Chocolate	Evelyn Pinto	Fantasia	1943
+9774-7478-9487-847	Solar Breakout  Bicicleta	Alana Azevedo	Fantasia	2017
+4177-4623-3049-5602	Forgotten Call  Violão	 Paulo Caldeira	Fantasia	1931
+6973-1406-5789-2642	Tactical Alliance  Elefante	Emanuel Vieira	Fantasia	1928
+7401-2641-361-2064	Special Warfare  Óculos de grau	Ana Sophia Castro	Fantasia	2012
+3846-361-3707-5825	Fury Reaver  Espirro	Davi Lucca Rocha	Fantasia	1950
+4507-1406-4359-7639	Parasite Operation  Aplaudir	Levi Barbosa	Fantasia	1935
+2027-7698-4666-7039	Ghost Mask  Bicicleta	Heloisa da Cunha	Fantasia	1922
+3679-307-9210-4431	Besiege of Treachery  Elefante	Laura Farias	Fantasia	1991
+6080-3339-6885-1340	Run of Privilige  Óculos de grau	Luana Caldeira	Fantasia	2021
+2919-5239-4155-1459	Battle of Betrayal  Peixe	Maite Peixoto	Fantasia	1930
+717-4723-4947-3814	Burn of Rule  Pato	Leticia da Mata	Fantasia	1966
+4696-9594-9181-1522	Attack of Logic  Óculos de grau	Joao Gabriel da Luz	Fantasia	1971
+527-4810-5268-4490	Rule of Logic  Balé	Rafael Teixeira	Fantasia	1962
+842-1081-4230-278	Incinerate of Privilige  Martelo	 Nicole Duarte	Fantasia	1972
+2521-2495-9414-2647	Strike of Order  Escova de dente	Ana Laura Cardoso	Fantasia	1940
+7792-7284-3400-6314	Wipe Out of Rivalry  Bicicleta	Stella Porto	Fantasia	1965
+2367-1158-9963-1451	Pillage of Logic  Sofá	Thiago Dias	Fantasia	1945
+7282-5556-7791-3969	Streets and Garden  Cadeira	Enrico Martins	Fantasia	1963
+1122-4826-7421-6408	Chronicle and Voyage  Peixe	 Diego Peixoto	Fantasia	1941
+879-9727-1155-8008	Matter and Day  Basquete	Sabrina Ramos	Fantasia	1933
+6854-3927-123-263	Invasion and Nature  Tosse	 Vitor Gabriel Pires	Fantasia	2001
+2072-7632-2889-6178	Planet and Chronicle autocarro	Matheus Correia	Fantasia	1919
+8181-3967-7044-3966	Chronicle and Law  Copo	Luigi Porto	Fantasia	1973
+5612-1615-1555-8084	Raid and Weapons  Cadeira	Raquel Pinto	Fantasia	1944
+758-8493-6709-5260	Raid and Fortress  Peixe	 Davi Luiz Silveira	Fantasia	1923
+7951-6570-4735-67	Revenge and Empire  Óculos de grau	 Eduardo Moreira	Fantasia	1973
+3627-9906-4115-180	Chamber and Whispers  Balé	Emanuelly Costa	Fantasia	1917
+1118-8623-2052-9070	Solitude and Salvation  Chifres	 Murilo Rodrigues	Fantasia	1930
+5561-6364-6317-5630	Conflict and Shadows autocarro	Lucca Viana	Fantasia	2020
+3422-8058-5789-1248	Zombies and Reason  Orelhas	Luiz Fernando Aragao	Fantasia	1943
+3168-5465-6648-4588	Power and Gods  Colher	Eloah Peixoto	Fantasia	1990
+2783-9099-5190-3474	Souls and Order  Basquete	Eloah Santos	Fantasia	2010
+70-3690-7929-9191	Struggle and Mystery  Balé	Maria Julia Lopes	Fantasia	1994
+5360-5372-5205-8504	Control and Armor  Chorar	Lorenzo da Conceicao	Fantasia	1997
+8212-4042-2062-6075	Stealth and Werewolves  Chocolate	Alicia Nascimento	Fantasia	1994
+8161-8529-9565-8435	Dread and Heroes  Galinha	Alexandre Porto	Fantasia	1996
+7872-7408-8787-6420	Insanity and Dust  Cachorro	 Ana Sophia Campos	Fantasia	1990
+4453-5715-8035-6769	Warside  Sapo	Lucas Silveira	Fantasia	1942
+4777-2053-5014-5271	Crossbot  Cadeira	Anthony Monteiro	Fantasia	2012
+5866-2095-2305-2022	Dragonpoint  Óculos de grau	 Gustavo Cavalcanti	Fantasia	2007
+9241-6130-4022-799	Bladeflight  Basquete	Lucas Gabriel Correia	Fantasia	1958
+4327-4056-9137-2070	Bluefire  Beliscão	 Emanuelly Rezende	Fantasia	1928
+3457-3780-4398-3863	Backborne  Fogão	Eduarda Teixeira	Fantasia	1995
+7803-9972-5485-4885	Clusterplan  Pescador	Stella Alves	Fantasia	1929
+8024-4238-5574-71	Bladehunt  Gato	 Gabriel Barros	Fantasia	2019
+6286-1133-2571-4936	Emberforce  Colher	Yago Melo	Fantasia	1993
+6579-5162-7086-9828	Clusterphobia  Sofá	Maria Luiza da Conceicao	Fantasia	1982
+812-8206-9064-3001	Storm Voyage  Pato	 Marcos Vinicius Castro	Infantil	1947
+233-9655-156-4936	Cursed Ego  Gato	Joao Guilherme Porto	Infantil	1938
+5106-8249-1558-1015	Future Cavern  Controle remoto	Yago Ferreira	Infantil	1976
+4634-487-2464-9462	Private Resurrection  Pinguim	Julia Nogueira	Infantil	1947
+8870-5499-9281-9047	Battle Realm  Pato	Vitor Gabriel Dias	Infantil	1928
+8815-3095-7445-8208	Ghost Road  Escova de dente	Pedro Lucas Caldeira	Infantil	2011
+2192-2535-9726-5115	Bad Universe papel	Gustavo Henrique Barros	Infantil	1921
+2543-7999-7015-8490	Spirit Cavern  Elevador	Lucas Gabriel Cunha	Infantil	1999
+7764-6460-9621-6140	Storm Armada  Elevador	Benjamin Costa	Infantil	2005
+3462-7942-510-7513	Angel Evolution  Violão	Maite Goncalves	Infantil	1975
+8157-5912-654-6531	Divide of Combat  Gato	Mariane Martins	Infantil	2008
+3458-9755-8300-2396	Vengeance of Logic  Espirro	Maria Luiza Ramos	Infantil	1929
+8498-9402-9931-6548	Crash of Campaigns  Café	Livia Sales	Infantil	1918
+2335-2968-2603-7132	Escape of Vengeance  Colher	Joao Guilherme Barbosa	Infantil	1933
+5854-1504-7758-9322	Strife of Immunity autocarro	Rebeca Souza	Infantil	2013
+7139-8086-2437-5904	Strike of Reason  Futebol	Joao Almeida	Infantil	1935
+2748-7321-6238-7606	Struggle of War  Táxi	Carlos Eduardo da Luz	Infantil	1978
+3606-4934-6985-9401	Run of Transgression  Pato	Joana Santos	Infantil	1936
+689-9654-603-5586	Protect of Trickery  Orelhas	 Leticia da Cunha	Infantil	1944
+9921-2432-5236-8548	Bombard of Enforce  Martelo	 Stephany Lima	Infantil	1935
+4231-2220-1520-7330	Home and Sons  Peixe	Sophia Viana	Infantil	2008
+2404-8620-1151-5869	Crime and Descent  Elefante	Sophie Jesus	Infantil	1976
+4545-8523-4757-7171	Garden and Source  Pescador	 Maria Fernanda Barros	Infantil	2007
+618-9088-6934-3911	Words and Source  Notebook	Joao Pedro Costela	Infantil	1912
+3775-3351-4359-7337	Embers and Impact  Táxi	Julia Moura	Infantil	1973
+5861-1461-7081-4762	Dream and Empire  Chifres	Bianca Fogaca	Infantil	2008
+2298-7437-945-3401	Burial and Treasures  Pipa	 Luiz Gustavo Campos	Infantil	1989
+196-1422-3488-5327	Words and Impact  Triste	 Luiz Fernando Oliveira	Infantil	1969
+8347-3988-8789-1684	Revenge and Fortress papel	Sophia Vieira	Infantil	1944
+1652-5556-3227-3761	Knights and Codename  Gato	Helena Jesus	Infantil	1986
+9356-6269-4004-3214	Barbarians and Nature  Rato	Raquel Araujo	Infantil	1972
+7600-5862-2260-8375	Skulls and Misery  Chorar	 Ana Vitoria Silva	Infantil	1969
+6468-6842-7972-4859	Honor and Resistance  Pipa	Pietra Nascimento	Infantil	1976
+7486-470-4974-4946	Dust and Vampires  Chorar	Davi Lucca Ribeiro	Infantil	1976
+6902-9218-5847-7177	Ambition and Action  Beliscão	Ana Vitoria Barros	Infantil	1993
+7152-4164-2512-3306	Action and Rubble  Controle remoto	Isabel Santos	Infantil	1998
+2347-5631-7643-6378	Frenzy and Skulls  Gato	Olivia Alves	Infantil	1930
+9777-4976-3388-5466	Infinity and Mayhem  Bicicleta	Eloah Castro	Infantil	1919
+2827-3541-300-6721	Logic and Heroes  Café	Danilo Pinto	Infantil	1922
+8641-4777-731-2232	Freedom and Dragons  Sofá	 Nicolas Alves	Infantil	1996
+5745-9737-3729-7496	Dragonlust papel	Bernardo Pinto	Infantil	1917
+5503-3640-7269-7401	Fusioncry  Balé	Leonardo Monteiro	Infantil	1987
+8384-8795-5720-9045	Blocklight papel	Joao Felipe Rodrigues	Infantil	1989
+2467-5555-160-4827	Deltazone  Pinguim	Beatriz Costa	Infantil	2019
+2386-777-9889-1309	Warcry  Elefante	Ana Livia Moraes	Infantil	1977
+4656-1721-3171-598	Antiscape  Basquete	Amanda das Neves	Infantil	1976
+9325-9478-4516-2549	Farsite  Rato	Joao Gabriel Nunes	Infantil	1997
+3370-1957-3167-6306	Datablast  Pato	Luiza Cavalcanti	Infantil	1984
+8949-9161-5647-5971	Borderrush  Cadeira	Luiza Santos	Infantil	1938
+6527-6647-4373-383	Bodystar  Elevador	Natalia Vieira	Infantil	1946
+269-6031-8653-5995	Vampire Legacy  Galinha	Bruno Freitas	Terror	1997
+7830-3810-6688-6359	Primal Armada  Violão	Francisco Gomes	Terror	1926
+9605-6205-3177-7702	Metal Matters  Avião	 Nina Aragao	Terror	1956
+3260-8359-253-113	Atomic Impact  Sofá	Leonardo Goncalves	Terror	2014
+2150-6991-2476-3070	Death Carnage  Piada	 Cecilia das Neves	Terror	2006
+2810-6875-2458-2699	Cursed Complex  Elefante	Lucas Gabriel da Rosa	Terror	1996
+602-2497-9266-4381	Mortal Reaver  Escova de dente	Vitoria Cavalcanti	Terror	1943
+8595-3167-991-3553	Ghost Games  Tesoura	Maite da Rosa	Terror	1957
+1926-1297-3180-10	Bullet Breed  Cadeira	Diogo Goncalves	Terror	1995
+44-8479-8156-8776	Brutal Conspiracy  Notebook	Caroline Pires	Terror	1939
+2990-8186-3075-2770	Fortify of Combat  Elevador	Ryan Santos	Terror	1969
+8071-2696-2134-6452	Arm of Duplicity  Escova de dente	Joao Felipe Mendes	Terror	1964
+6672-7809-1582-3747	Struggle of Campaigns  Violão	Fernando Caldeira	Terror	1972
+3954-9487-8263-3607	Crash of Combat  Sofá	Antonio da Cruz	Terror	2019
+3768-4186-826-3027	Rise of Friction  Pinguim	Caio Correia	Terror	2021
+6217-1397-2636-9314	Revolt of Logic  Peixe	Yasmin Castro	Terror	1975
+3775-1140-5382-1942	Battle of Regulations  Espirro	Joao Gabriel da Cruz	Terror	1955
+7985-6514-7652-5447	Invade of Strife  Cachorro	Nina Carvalho	Terror	1946
+5938-7389-7315-8997	Wipe Out of Aggression  Elefante	Caue da Rocha	Terror	1981
+6551-8356-3597-7005	Demolish of Logic  Orelhas	 Heloisa Ramos	Terror	1944
+1526-5970-8657-3731	Fight and Ghosts  Café	Maria Luiza Rezende	Terror	1916
+2931-6423-6779-316	Treasures and Shadow  Táxi	Felipe Melo	Terror	1954
+9020-3058-8238-1015	Apocalypse and Days  Elevador	Maysa da Paz	Terror	1928
+1967-2056-8320-4302	Knights and Home  Cachorro	 Luiz Otavio Farias	Terror	1942
+4310-5863-9272-1452	Fortress and Glitch  Galinha	Sophia das Neves	Terror	2018
+2757-2593-4527-4559	Dream and Genocide  Futebol	 Giovanna Novaes	Terror	1966
+9301-6764-9207-7180	Hazard and Galaxy  Piada	 Laura Nunes	Terror	1979
+4714-7160-5564-6992	Raid and Sons  Martelo	Arthur Fogaca	Terror	1941
+54-4387-5231-5375	Symphony and Codename  Basquete	 Davi Lucca da Luz	Terror	2020
+1344-8997-4177-9571	Age and Decade  Elefante	Maria Alice Pires	Terror	1981
+4930-1035-5532-4190	Innocents and Mutants  Pinguim	Leandro Martins	Terror	1974
+6804-8216-7634-1420	Ambition and Lies  Beliscão	Valentina Castro	Terror	1957
+1604-5527-3155-4274	Insanity and Nothing  Martelo	Henrique Oliveira	Terror	1968
+2997-3248-2292-8677	Nature and Duty  Fogão	Maysa Porto	Terror	2003
+9790-7329-5431-9397	Heroes and Fate  Balé	Maria Fernanda Araujo	Terror	2016
+7998-5635-7167-4991	Infinity and Mayhem  Basquete	Ana Julia Sales	Terror	1958
+5566-9000-1864-2405	Duty and Mutants  Balé	Clarice Cardoso	Terror	1988
+8584-6487-5152-3387	Fear and Evil  Notebook	Yago Almeida	Terror	1923
+1881-4572-2289-9741	Awe and Mayhem  Pato	Raul Nogueira	Terror	1982
+5604-453-100-6119	Reason and Mutants  Sofá	 Bernardo Martins	Terror	2015
+1037-5055-6773-8299	Bulletsky  Peixe	Evelyn Oliveira	Terror	1959
+2867-3712-1781-7405	Ultrasky  Aplaudir	Vicente Barros	Terror	1999
+8707-9543-4769-8186	Blastercraft  Avião	Brenda Viana	Terror	2007
+3224-164-1158-7996	Grimmind  Aplaudir	Thomas Caldeira	Terror	2006
+1303-849-8589-9415	Biofire  Espirro	Maria Vitoria Peixoto	Terror	1976
+9763-3918-2186-2934	Farrush  Tosse	Vitor Caldeira	Terror	1951
+2372-3043-9547-7808	Masterdude  Cachorro	Noah Pinto	Terror	2019
+4904-6482-85-2245	Fusionspace  Piada	 Murilo Porto	Terror	1957
+418-7844-512-5464	Bladespace  Galinha	Sofia Viana	Terror	2017
+6405-5534-2469-5788	Datahunt  Violão	 Bernardo Pereira	Terror	1990
+4603-2872-5933-7664	Carnivore Matters  Sofá	Daniel Duarte	Humor	2021
+4951-6295-9632-1205	Crimson Rising  Elevador	Caroline Moura	Humor	1967
+3175-6117-714-1541	Covert Legend  Galinha	Rafael Farias	Humor	1946
+7144-4504-8484-6864	Armed Frontier  Chocolate	 Heitor Moura	Humor	1932
+7257-3358-86-2605	Cannibal Campaign  Fogão	Julia Monteiro	Humor	1946
+248-3948-7002-7843	Zombie Evolution  Avião	Ana das Neves	Humor	1989
+2458-7181-3188-9562	Angel Emergency  Piada	Bruno Novaes	Humor	1943
+9382-3530-417-9544	Chrome Harvest  Galinha	Joao Guilherme Alves	Humor	1928
+4551-1313-7415-4540	Emergency Cavern  Gato	 Isabella da Costa	Humor	2020
+4829-6117-9584-4767	Hallowed Warfare  Cadeira	Melissa Melo	Humor	1967
+3485-6369-4020-3987	Strife of Truth  Piada	Davi Ribeiro	Humor	1999
+5653-4516-7076-2766	Bombard of Democracy  Violão	 Melissa Rodrigues	Humor	1966
+9788-2003-1707-1059	Charge of Atonement autocarro	Joao Pedro Rodrigues	Humor	1980
+1034-4173-5709-6714	Escape of Stipulation  Lápis	Murilo Martins	Humor	1942
+8730-1305-3769-8970	Demolish of Aggression  Cachorro	Emanuella Cunha	Humor	2000
+627-9556-5347-8556	Strike of Wrath  Elefante	Davi Almeida	Humor	1982
+3414-6420-8729-8807	Fortify of Assault  Chorar	Marcos Vinicius da Mota	Humor	1983
+2972-8382-212-954	Counter of Betrayal  Pato	Maria Sophia Ramos	Humor	1944
+668-2327-2572-6267	Rescue of Immunity  Espirro	Antonio da Luz	Humor	2014
+8476-5801-5528-3912	Defeat of Resitution  Sapo	Luiz Gustavo Cunha	Humor	2009
+7561-7144-2131-2669	Garden and Embers  Martelo	Ana Laura Vieira	Humor	1957
+9104-9599-6168-1068	Revival and Words  Beliscão	Daniela Cavalcanti	Humor	2007
+9967-1885-3990-8317	Order and Decade  Bola	Rebeca Cardoso	Humor	1956
+6022-1497-3180-5391	Execution and Shadow papel	Heitor Pereira	Humor	2007
+6396-1614-2227-1438	Weapons and Empire  Lápis	 Luiz Miguel Rocha	Humor	2000
+7546-9979-2843-7069	Decade and Dynasty  Colher	Barbara Fernandes	Humor	1973
+2372-3925-1430-4718	Hunt and Voyage  Celular	Kamilly Azevedo	Humor	1922
+3496-4030-9645-5942	Knights and Chamber  Café	Catarina da Mota	Humor	1941
+7710-1381-5788-6198	Revenge and Murder  Beliscão	Samuel Araujo	Humor	2000
+6729-3135-4949-375	Treasures and Defense  Chorar	Andre da Rosa	Humor	1995
+4806-7521-4092-5743	Immortals and Truth  Bola	Gustavo Henrique Nascimento	Humor	1919
+9984-8175-3397-5793	Infinity and Vampires  Pinguim	Lorena Moraes	Humor	1943
+257-1271-8024-2504	Salvation and Existence  Bebê	Pedro Henrique Oliveira	Humor	2015
+3583-229-8394-8905	Evil and Evolution  Sapo	Amanda Santos	Humor	1919
+3768-8501-6150-1361	Prototypes and Valor  Pato	Marina Ramos	Humor	1999
+3968-3199-4414-1505	Victory and Fear autocarro	Rafaela Rocha	Humor	1934
+9412-4647-6514-7696	Faith and Oracles  Bicicleta	Gabriel Barros	Humor	1966
+2191-2697-3205-9416	Werewolves and Power  Colher	Camila Rezende	Humor	1988
+3478-3786-588-950	Fire and Frenzy  Café	Lorena da Mata	Humor	1980
+8539-3913-6935-2811	Logic and Rubble  Sapo	Ana Melo	Humor	1963
+2865-9162-2348-6301	Bodybot  Triste	Eloah Monteiro	Humor	1976
+6702-8982-9232-966	Ultracry  Galinha	Brenda da Luz	Humor	1942
+2016-7923-9153-9863	Alpharage  Bebê	Joao Miguel Goncalves	Humor	2005
+9574-5265-8736-9818	Madrush  Pipa	Maria Sophia Lima	Humor	2016
+268-1544-5197-264	Emberline  Sapo	 Daniel Nunes	Humor	1920
+9896-7770-4612-7246	Ultraphobia  Escova de dente	Marcelo da Mata	Humor	2000
+433-9034-9132-9286	Bodyflight  Pescador	Nicole Porto	Humor	1948
+2339-786-1016-7006	Bladestar  Colher	Yago Novaes	Humor	1980
+7625-1606-2226-5187	Alterdoom  Colher	Thomas Barros	Humor	1919
+398-5048-7744-3306	Dreadplan  Lápis	Livia Ferreira	Humor	1928
+9832-6567-3823-9	Dark Project  Cadeira	Alicia Cavalcanti	Misterio	1940
+8377-2909-2034-2615	Dead Betrayal  Chifres	Yasmin Rocha	Misterio	1961
+7353-494-8452-8658	Infinite Alert  Celular	Davi Lucas Castro	Misterio	2008
+604-1918-86-9055	Star Breakout  Golfe	Thales Carvalho	Misterio	2011
+3773-8753-6608-2088	Warrior Castle  Cachorro	Joaquim Cavalcanti	Misterio	1980
+2641-9915-5946-7481	Cold Frontier  Lápis	Pedro Porto	Misterio	1999
+4385-6884-7184-4199	Parasite Virus  Pinguim	Joana Ferreira	Misterio	1955
+4085-1768-6885-8515	Armageddon Legacy  Gato	 Bryan Dias	Misterio	1956
+5739-5890-4938-8373	Werewolf Conflict  Pipa	Valentina da Rocha	Misterio	1922
+5909-5021-2383-8587	Soul Predator  Cachorro	 Bernardo da Mota	Misterio	1927
+4250-6619-8121-4562	Resist of Heroics  Pular	Lavinia Fogaca	Misterio	1934
+9542-681-5902-5516	Retaliate of Law  Violão	Maria Alice da Rocha	Misterio	1981
+998-770-1131-3655	Fortify of Resitution  Beliscão	Cecilia Moura	Misterio	1953
+6140-9557-5219-8469	Incinerate of Prosecution  Pescador	Kaique da Mota	Misterio	1993
+4699-6687-6864-8046	Guard of Truth  Martelo	Luana Moura	Misterio	1916
+4596-4342-11-7199	Pillage of Salvation  Óculos de grau	Juan Azevedo	Misterio	1975
+164-5635-8122-2965	Divide of Hypocrisy  Martelo	Gabriel Barbosa	Misterio	1937
+1218-2516-9733-1052	Rule of Invasion  Pinguim	Eduardo Cardoso	Misterio	1977
+4548-7086-4963-3625	Blast of Rule  Bebê	Alicia Barros	Misterio	1986
+5462-2896-5119-6542	Counter of Wrath  Sofá	Alexia Cavalcanti	Misterio	1960
+3613-839-3327-4935	Symphony and Sons  Beliscão	Carlos Eduardo Teixeira	Misterio	1966
+4901-3930-7271-3455	Embers and Hunt  Galinha	Julia Cunha	Misterio	1992
+3576-2932-7614-6398	Guns and Escalation  Notebook	 Luiz Henrique Azevedo	Misterio	1979
+3855-7327-8807-4297	Echoes and Words  Tosse	 Rafael Costa	Misterio	1984
+5777-4944-5184-1231	Days and Age  Violão	Catarina da Mata	Misterio	1921
+1392-3406-5804-6565	Power and Force  Pescador	Pietro Moreira	Misterio	1995
+5880-5594-700-1346	Remorse and Shadow  Pato	Olivia Carvalho	Misterio	1997
+9894-2931-9641-147	Defense and Burial  Chifres	Carlos Eduardo Pinto	Misterio	1920
+8806-6771-2408-2533	Weapons and Embers  Pinguim	Clarice Pinto	Misterio	1971
+5922-6107-5276-5832	Week and Revenge  Bebê	Natalia Lima	Misterio	1981
+9843-525-1121-2513	Barbarians and Nightmares  Rato	Maria Julia Melo	Misterio	1962
+7948-5944-3732-1866	Resistance and Harmony  Táxi	Sabrina Pires	Misterio	1983
+263-8362-3146-3870	Werewolves and Insanity  Beliscão	 Stella Azevedo	Misterio	1925
+5540-9604-5928-8059	Victory and Evolution  Cadeira	Alana Rocha	Misterio	1971
+9906-7359-5683-7481	Immortals and Doubt  Pular	 Thales Lima	Misterio	1998
+5364-2289-5043-8246	Androids and Liberty  Táxi	Gabriel Fernandes	Misterio	1947
+3252-2893-7308-4028	Order and Ambition  Óculos de grau	Gabrielly da Mota	Misterio	1984
+5059-1122-3176-7257	Chaos and Duty  Bebê	Mirella da Rocha	Misterio	1921
+9704-5085-7193-9709	Resistance and Power  Gato	Lavinia Lima	Misterio	2007
+298-9612-9183-365	Power and Misery  Cadeira	Olivia Azevedo	Misterio	1992
+4212-2406-4517-5330	Demonworks  Bola	Manuela Peixoto	Misterio	1989
+5516-8620-6943-6356	Archephobia  Copo	 Valentina Viana	Misterio	2004
+9457-170-6738-342	Madside  Pipa	 Renan da Cruz	Misterio	1917
+370-7830-2127-3809	Blockflight  Copo	Luigi Farias	Misterio	1961
+1651-2821-2739-6718	Bulletbot  Fogão	 Joaquim Castro	Misterio	2019
+5411-2665-4160-2614	Alphaland  Pipa	Sophie das Neves	Misterio	1946
+220-1200-8916-2363	Farchase  Pinguim	Leonardo Azevedo	Misterio	2004
+7844-7235-364-7312	Warmania  Avião	 Larissa Moreira	Misterio	1952
+9063-2185-1596-9263	Dragonstorm  Triste	Anthony Moreira	Misterio	1951
+6819-5485-6993-9518	Deltanite  Notebook	Caua Sales	Misterio	1930
+3968-7153-5096-4213	Thunder Impact  Rato	 Camila das Neves	Nao-ficcao	1947
+9313-3824-5371-2308	Phantom Bounty  Beliscão	 Matheus da Conceicao	Nao-ficcao	1945
+4949-8725-590-3478	Human Nightmare  Copo	Evelyn da Mata	Nao-ficcao	2016
+5215-8805-7040-1700	Chrome Warfare  Violão	Alexandre da Rosa	Nao-ficcao	1941
+6590-4072-4024-8191	Combat Escape  Aplaudir	 Ana Carolina Correia	Nao-ficcao	1961
+4856-4679-1377-557	Ghost Cell  Basquete	Emanuella Cunha	Nao-ficcao	2015
+8191-2195-6199-5417	Special Assault  Beliscão	Kamilly Viana	Nao-ficcao	1944
+7689-9561-3992-8041	Just Call  Sapo	Cecilia Lima	Nao-ficcao	1981
+55-8670-8765-3056	Mortal Blade  Colher	Beatriz Martins	Nao-ficcao	1948
+8816-1838-2216-1849	Storm Dream  Café	 Raul Castro	Nao-ficcao	1974
+7780-1211-9552-2204	Run of Hypocrisy  Bicicleta	Maria Alice Costa	Nao-ficcao	1913
+700-6006-4318-8503	Demolish of Vengeance  Tosse	Bianca Moreira	Nao-ficcao	2001
+8159-5267-950-4436	Rise of Hypocrisy  Fotógrafo	Davi Lucas Almeida	Nao-ficcao	1954
+7453-5421-7573-2311	Battle of Betrayal  Bebê	Renan Fogaca	Nao-ficcao	1956
+5449-5941-8966-7733	Resist of Violation  Peixe	Calebe Costela	Nao-ficcao	1992
+8362-3199-1469-839	Struggle of Redemption  Pinguim	Yago Souza	Nao-ficcao	1967
+9412-3677-618-8008	Breakout of Lies papel	Maria Fernanda Pinto	Nao-ficcao	1935
+7424-5421-7419-2723	Clash of Duplicity  Rato	Matheus Lopes	Nao-ficcao	1955
+9081-6579-208-7129	Resist of Betrayal papel	Davi Luiz Pereira	Nao-ficcao	1973
+6372-4808-436-955	Plan of Lies  Cadeira	 Joao Pedro Lopes	Nao-ficcao	1929
+8283-9149-7098-5586	Land and Weapons  Avião	Raul da Conceicao	Nao-ficcao	2004
+8467-9076-4295-2005	Barrage and Defense  Orelhas	 Stephany Fernandes	Nao-ficcao	1928
+4950-4203-2833-4372	Descent and City  Fogão	Leonardo Martins	Nao-ficcao	1952
+3656-9607-9926-6137	Danger and Death  Café	Kaique da Luz	Nao-ficcao	2020
+5780-7750-5153-8764	Chronicle and Planet  Golfe	Bianca da Rocha	Nao-ficcao	1917
+4577-9456-133-7890	Symphony and Echoes  Celular	Sophia da Cruz	Nao-ficcao	2009
+5405-8742-9684-9220	Doom and Rush autocarro	Bianca Nascimento	Nao-ficcao	2013
+1778-3695-1383-238	Science and World  Pinguim	Lorena Moura	Nao-ficcao	2011
+275-6048-7218-5660	House and Dynasty  Controle remoto	Ana Laura Santos	Nao-ficcao	2006
+4622-8806-5750-3174	Danger and Graves  Bebê	 Brenda Freitas	Nao-ficcao	1922
+1395-1181-5942-6282	Androids and Nothing  Sapo	 Maria Luiza Dias	Nao-ficcao	1984
+1469-8469-6640-6745	Hope and Oracles autocarro	Alana Campos	Nao-ficcao	1952
+4311-3424-8026-4662	Sanity and Fortune  Beliscão	Raul Aragao	Nao-ficcao	2005
+6256-1866-1542-7592	Vampires and Ambition  Orelhas	Augusto Porto	Nao-ficcao	1975
+5036-5163-2921-2225	Stealth and Explosions  Cachorro	 Alana Pires	Nao-ficcao	1923
+5366-9279-3623-2726	Stealth and Androids  Chorar	Miguel Monteiro	Nao-ficcao	1992
+1220-9046-6457-2122	Order and Gangs papel	Maria da Mata	Nao-ficcao	1943
+9807-4536-5086-4152	Fate and Logic  Futebol	Joao Felipe Porto	Nao-ficcao	1930
+7565-8728-9125-6598	Warfare and Time  Café	 Vitoria Oliveira	Nao-ficcao	2014
+8934-7185-7798-9575	Souls and Misery  Piada	Enzo Moreira	Nao-ficcao	1938
+1916-6988-816-3910	Crosscell  Golfe	Catarina Pinto	Nao-ficcao	1935
+7409-8183-9689-2625	Bioreign  Chocolate	Caue Rocha	Nao-ficcao	1988
+2201-8424-3657-4942	Bloodrain  Galinha	Rafael Moraes	Nao-ficcao	2005
+9147-4565-1992-9619	Deadphobia  Escova de dente	Pedro Henrique da Rosa	Nao-ficcao	2013
+5394-3995-4113-6733	Bodyblade  Beliscão	 Livia Porto	Nao-ficcao	1974
+1334-6686-8513-4716	Borderpoint  Tesoura	Lucas Gabriel Jesus	Nao-ficcao	1985
+2857-7444-5586-2971	Warshot  Copo	 Luiz Otavio Moreira	Nao-ficcao	1922
+6113-9273-4634-7559	Endorsite  Rato	Davi Caldeira	Nao-ficcao	1972
+2858-7758-6480-96	Dreaddude  Pinguim	Thomas da Rocha	Nao-ficcao	1938
+8721-106-1126-7268	Archeheart  Triste	Vitor Gabriel da Mota	Romance	1989
+2200-9141-2518-7683	Forgotten Barrage  Fotógrafo	Brenda Dias	Romance	1920
+12-4433-3856-293	Celestial Warfare  Escova de dente	Pedro Henrique Cunha	Romance	2020
+1418-5991-6799-2097	Killing Panic autocarro	Milena Moreira	Romance	1962
+4187-7815-9190-138	Ghost Curse  Sofá	Luigi Cardoso	Romance	2022
+7293-1639-2030-7557	Blood Age  Copo	Igor Barros	Romance	1971
+3314-4743-9062-2204	Android Breakout  Pato	 Caroline Vieira	Romance	1936
+1976-368-267-9934	Hallowed Syndrome  Sofá	Pietro Campos	Romance	1986
+2739-4979-4287-1276	Soul Elements  Chocolate	Maria Sophia Santos	Romance	1962
+1006-5831-4891-8847	Galaxy Bounty  Pinguim	Pedro Lucas da Luz	Romance	1964
+993-3565-8078-7138	Storm Agent  Basquete	Pietro Rocha	Romance	1958
+8472-2988-2650-7364	Besiege of Reason  Piada	Lavinia Silva	Romance	2008
+6836-5472-1669-5141	Strategize of Heroes papel	 Paulo Carvalho	Romance	2018
+9043-8965-5623-3218	Strike of Duplicity  Gato	Isis Goncalves	Romance	1921
+8994-3325-2957-8037	Knockout of Wrath  Avião	Pietra Melo	Romance	1940
+852-1617-8054-2782	Vengeance of Invasion  Aplaudir	Eduarda Souza	Romance	1936
+3584-433-8747-6527	Escape of Trickery  Café	 Luigi Martins	Romance	1987
+9583-135-2989-1054	Invade of Liberty  Colher	Lorenzo Costela	Romance	1969
+1161-6906-2151-2460	Command of Prosecution  Copo	Rafaela Castro	Romance	1974
+3602-8072-9929-1946	Resist of Opportunity  Fogão	 Eloah Ribeiro	Romance	2016
+6832-5967-1517-5500	Breakout of Resitution  Galinha	 Isis Moura	Romance	1936
+5065-1041-9804-482	Streets and Decade  Pipa	Maria Vitoria Correia	Romance	1948
+8289-2787-5759-2731	Shadow and Sons  Chocolate	Alicia Campos	Romance	2017
+8174-5951-9077-8068	Spells and Quest  Tesoura	 Caue Moura	Romance	1979
+15-620-2487-2015	Retribution and Hunt  Basquete	Marcos Vinicius Pinto	Romance	1981
+2935-2853-2175-2095	Bridge and Knights  Notebook	Ian Ferreira	Romance	1995
+8549-5277-4554-9599	Galaxy and Nature  Espirro	Alicia Cunha	Romance	1965
+5035-2228-2139-3734	Chronicle and Space  Martelo	Noah Pires	Romance	1971
+8885-2101-4067-6582	Murder and Echoes  Escova de dente	 Erick Carvalho	Romance	1938
+1653-9076-9106-5995	Destruction and Command  Lápis	Rodrigo Pereira	Romance	1980
+313-8156-1030-9720	Doom and Cult  Orelhas	Caroline Oliveira	Romance	1996
+3925-4460-1004-4965	Heroes and Stealth  Sofá	Mariane Barbosa	Romance	1959
+7752-9632-6171-1777	Souls and Sanity  Tesoura	Pedro Lucas Moura	Romance	1985
+7385-9721-5554-9656	Innocents and Skeletons  Pescador	Davi Sales	Romance	2020
+4816-5173-5030-7337	Doubt and Nightmares  Orelhas	Luigi Teixeira	Romance	1928
+1243-2838-9762-1181	Demons and Chaos  Golfe	Maria Azevedo	Romance	2011
+5002-3071-5086-8968	Ambition and Riddles  Elefante	Benjamin da Mata	Romance	1989
+9867-5452-6168-9955	Struggle and Hope  Orelhas	Pedro Lucas Monteiro	Romance	1966
+9133-2358-4224-1539	Treason and Oracles  Notebook	Gustavo Henrique Peixoto	Romance	1974
+2357-6855-4942-9451	Sacrifice and Control  Avião	 Erick Castro	Romance	1990
+3653-590-6687-5178	Doubt and Disarray  Bola	Antonio da Mata	Romance	1927
+7620-3809-21-8701	Bloodpoint  Cadeira	 Caroline Gomes	Romance	1964
+8188-3618-9609-1329	Fartech  Colher	 Alana Monteiro	Romance	1991
+6401-5827-4357-5184	Archesky  Galinha	Melissa Caldeira	Romance	1965
+220-7046-2419-6614	Bulletreign  Chocolate	Gabriela Cardoso	Romance	1982
+7622-3406-5477-1742	Evercore  Fotógrafo	Enzo Gabriel Pires	Romance	1989
+8112-4928-495-8643	Everlife  Espirro	Maite Moura	Romance	1937
+4942-3440-292-9035	Crosshunt  Rato	 Yuri Jesus	Romance	1998
+5107-746-324-9555	Dreamchase  Bicicleta	Breno da Cruz	Romance	1915
+230-1376-6259-9147	Dragonsky  Avião	Thomas Barbosa	Romance	1999
+6298-8242-598-7914	Everrain  Futebol	 Maria Julia Pires	Romance	1918
+2369-7456-8550-1117	Killing Crusade  Fogão	Matheus da Mota	Ficcao Cientifica	1945
+8618-5047-1151-2696	Killing Ego  Escova de dente	Levi Oliveira	Ficcao Cientifica	1943
+3467-3071-2446-9571	Werewolf System papel	Sophie Freitas	Ficcao Cientifica	1939
+3593-1457-6564-6217	Private Siren  Cachorro	Leonardo Souza	Ficcao Cientifica	1923
+8046-9495-5403-9935	Armored Command  Bebê	Maria Fernandes	Ficcao Cientifica	1927
+7533-3808-6811-1810	Human Crusade  Balé	Joana Nunes	Ficcao Cientifica	1953
+4516-555-7563-8023	Infinite System  Basquete	Davi Luiz da Conceicao	Ficcao Cientifica	1976
+6537-500-5585-5021	Infected Panic  Óculos de grau	Gabriel Jesus	Ficcao Cientifica	2002
+231-8645-3425-3457	Nuclear Agent  Futebol	Samuel Freitas	Ficcao Cientifica	1978
+2680-2966-9188-6323	Grand Realm  Beliscão	Emanuella da Luz	Ficcao Cientifica	1922
+1735-5511-4819-899	Rise of Infringement  Elefante	Barbara Monteiro	Ficcao Cientifica	2011
+3140-6867-5760-4399	Vengeance of Lies  Golfe	Raul Barros	Ficcao Cientifica	1926
+2621-6217-4641-2777	Destroy of Conflict  Bola	Pedro Miguel Rezende	Ficcao Cientifica	1919
+1254-7222-4034-6221	Incinerate of Democracy  Pescador	Gabrielly Moreira	Ficcao Cientifica	2005
+6998-6954-91-5932	Pillage of Trickery  Elefante	Luna Goncalves	Ficcao Cientifica	1979
+3949-8395-8663-7268	Assault of Trickery  Aplaudir	 Sofia Ferreira	Ficcao Cientifica	1973
+411-8476-4233-7615	Attack of War  Bebê	Isaac Porto	Ficcao Cientifica	1930
+2515-1826-8348-7412	Strategize of Lies  Lápis	Lucca Farias	Ficcao Cientifica	1994
+6646-2980-2736-1466	Incinerate of Opportunity  Pato	Nina da Paz	Ficcao Cientifica	1933
+6169-1845-359-2148	Wipe Out of Freedom  Cachorro	Ana Livia Pereira	Ficcao Cientifica	1989
+8697-6282-3848-3890	Day and Apocalypse  Triste	Joao Miguel Nogueira	Ficcao Cientifica	2011
+9258-8156-1666-8043	Maze and Treasures autocarro	Caue Rezende	Ficcao Cientifica	1998
+2803-8753-2944-3953	Sons and Destruction autocarro	Joao Felipe Teixeira	Ficcao Cientifica	1957
+3769-6499-1558-3241	Garden and Order  Bola	Marina Pires	Ficcao Cientifica	1965
+1396-3272-8309-5538	Fortress and Dimension  Gato	Danilo Nogueira	Ficcao Cientifica	2016
+1141-174-2242-1641	Dream and Sword  Pato	 Arthur Oliveira	Ficcao Cientifica	2016
+5512-5277-285-5156	Law and Guns  Beliscão	Luiz Miguel Monteiro	Ficcao Cientifica	1956
+5057-1545-2221-3086	Battle and Voyage  Peixe	Yuri Silva	Ficcao Cientifica	1940
+8105-5065-2448-8170	Guns and Planet  Peixe	Ana Julia Freitas	Ficcao Cientifica	1992
+5605-8598-9932-5001	Journey and Barrage  Cadeira	Maysa da Cunha	Ficcao Cientifica	1932
+2520-7951-9832-3127	Struggle and Legends  Cachorro	Noah Costa	Ficcao Cientifica	2000
+3758-6632-9291-9964	Lies and Evolution  Cachorro	Ana Santos	Ficcao Cientifica	1974
+3681-2343-5645-657	Twisted Dreams and Gangs  Galinha	Lavinia Oliveira	Ficcao Cientifica	1968
+4675-3892-7114-6030	Barbarians and Havoc  Pato	Heitor Almeida	Ficcao Cientifica	1951
+3164-4489-3745-2254	Doubt and Order  Beliscão	Sophie Pinto	Ficcao Cientifica	1969
+5839-954-9942-9168	Solitude and Misery  Cachorro	Leandro Vieira	Ficcao Cientifica	1966
+4401-6536-3631-2541	Liberty and Immortals  Pular	Camila Rocha	Ficcao Cientifica	1928
+5661-5261-6926-954	Harmony and Chaos  Gato	 Gabriela da Mota	Ficcao Cientifica	1971
+9673-5669-9364-2127	Action and Evolution  Rato	Pedro Viana	Ficcao Cientifica	1954
+6681-4263-6871-5351	Disarray and Reckoning  Chifres	Rebeca Cardoso	Ficcao Cientifica	1916
+9267-240-7546-767	Deltadoom  Tosse	Ana Carolina Rodrigues	Ficcao Cientifica	1987
+5503-9094-5138-6882	Blockland  Fogão	Noah Costa	Ficcao Cientifica	1929
+914-1957-5786-3109	Bloodcore  Lápis	Francisco da Mata	Ficcao Cientifica	1953
+741-9118-714-5871	Dreadlust  Gato	 Joao Gabriel da Rocha	Ficcao Cientifica	2007
+8379-1565-1214-7811	Geoland  Sapo	Isabella Melo	Ficcao Cientifica	1987
+720-9436-6648-8609	Cyberdude  Espirro	Benjamin Monteiro	Ficcao Cientifica	1931
+9252-826-11-3903	Battlebot  Fogão	 Paulo Nascimento	Ficcao Cientifica	1993
+5374-2235-7506-9928	Dreadside  Pinguim	Daniela da Luz	Ficcao Cientifica	1963
+1868-2418-6942-4497	Crystalblaze  Peixe	Davi Lucca Silva	Ficcao Cientifica	2018
+9594-8896-8152-3045	Astroblast  Orelhas	Caua da Conceicao	Ficcao Cientifica	1986
+9044-1487-9856-5582	Light Carnage  Colher	Alana Duarte	Historico	1961
+4990-5980-8534-7669	Obscure World papel	Joao Lucas Silveira	Historico	1946
+4451-7830-1645-510	Infected Prototype  Pescador	Kamilly da Luz	Historico	1934
+9460-3736-4418-9813	Fury Games  Bebê	Raquel Alves	Historico	1926
+6453-8282-4211-6560	Chaos Conspiracy  Aplaudir	 Heitor Pereira	Historico	1994
+2209-616-6266-4817	Zero Reaver  Copo	Isabella Pires	Historico	2011
+8670-6377-5737-9583	Armageddon Armada  Bola	Carlos Eduardo Peixoto	Historico	1973
+6955-7458-9308-4151	Future Breed  Futebol	Juliana Costela	Historico	1969
+4448-6332-6419-9313	Shadow Reaver  Bicicleta	 Emanuelly Alves	Historico	1926
+4327-4453-349-6492	Armed Barrage  Peixe	Esther Viana	Historico	1959
+7665-2150-579-1534	Shoot of Privilige  Rato	Pedro Henrique Santos	Historico	2016
+5658-9069-6555-5698	Run of Treachery  Rato	Luiz Felipe Silva	Historico	1956
+1710-8972-3339-5528	Struggle of Struggle  Aplaudir	Maria Cecilia Cardoso	Historico	1926
+5413-3680-2917-8117	Bombard of Conflict  Martelo	Marcela Fernandes	Historico	2006
+2363-2242-7469-473	Assault of Campaigns  Bicicleta	Diego da Cruz	Historico	1917
+6352-2761-9299-1342	Fortify of Rule  Gato	Alana Rocha	Historico	1999
+6728-7186-822-987	Strife of Infringement papel	Manuela da Cunha	Historico	2011
+5485-4531-8108-1287	Strike of Strife  Violão	Maria Clara Fernandes	Historico	1971
+2948-4871-9123-4743	Fortify of Wrath  Pinguim	Bernardo Castro	Historico	1979
+5709-9350-327-4499	Struggle of Salvation  Táxi	Maria Luiza da Paz	Historico	2020
+4393-3779-7870-6850	Glitch and Echoes  Elefante	 Kamilly Barros	Historico	1935
+6609-1752-2084-8505	Fortress and Words  Pato	Ian Ferreira	Historico	2010
+898-7346-9456-5092	Law and Contract  Violão	Benjamin Dias	Historico	1966
+3705-1168-1436-7362	Empire and Genocide  Bola	Ana Laura da Mata	Historico	1983
+1992-5930-9597-5962	Words and Doom  Balé	Brenda Nogueira	Historico	1978
+9793-5785-7084-2479	Whispers and Graves  Futebol	Pedro Lucas Campos	Historico	1915
+2948-1738-9977-8565	Empire and Force  Balé	Caroline Rodrigues	Historico	1915
+4868-6734-9038-1651	Defense and Escalation  Triste	Raul Correia	Historico	1914
+1688-8361-1523-9106	Retribution and Memories  Beliscão	Joao Felipe Castro	Historico	2022
+6794-2215-5004-1292	Graves and Battle  Lápis	Rafaela Sales	Historico	1958
+8607-8375-2793-7460	Prototypes and Redemption  Pato	Daniela Silva	Historico	1921
+3610-5099-8939-7798	Vampires and Solitude  Notebook	Davi Lucca da Conceicao	Historico	1931
+261-6798-6045-4657	Solitude and Doubt  Copo	Marina Freitas	Historico	1945
+3975-6632-7187-1561	Riddles and Valor  Piada	Heloisa Mendes	Historico	2012
+7026-8572-3662-3490	Faith and Souls  Controle remoto	Ana Viana	Historico	1947
+1031-6247-7453-7856	Nothing and Revolution  Elefante	Bernardo da Rocha	Historico	1990
+3088-2246-1050-4715	Skulls and Fire  Aplaudir	Joao Pedro da Costa	Historico	1932
+841-841-1083-4582	Oracles and Terror  Pescador	Maria Luiza da Mota	Historico	2011
+5596-6051-3301-6889	Truth and Androids  Elevador	Bruna Cunha	Historico	1966
+9791-7551-3878-5321	Kings and Resistance  Triste	Heitor Pereira	Historico	1983
+139-1735-4970-1673	Farwind  Fogão	 Maite Fogaca	Historico	1921
+9078-9798-12-5344	Astroscape  Cadeira	Melissa Nogueira	Historico	2011
+8694-7334-4830-662	Castlefight  Lápis	Ana Luiza Moura	Historico	2019
+89-7682-4830-4318	Dynachase  Tesoura	Igor Pereira	Historico	1973
+3326-4677-1237-8939	Grimrain  Pipa	Samuel Carvalho	Historico	1953
+5808-8802-4795-8921	Airmania  Martelo	Juan da Cruz	Historico	1919
+70-6855-517-1943	Astrolife  Controle remoto	Carolina Costela	Historico	1973
+5810-2902-9067-4738	Geoscape  Chifres	Anthony Correia	Historico	2008
+7013-2942-7889-4714	Ultradoom  Óculos de grau	Ana Beatriz da Paz	Historico	1992
+9361-7141-3142-2619	Datalife  Lápis	Joao Guilherme Sales	Historico	2011
+878-4232-5839-6308	inquisicao mortal  Lápis	Enzo Gabriel Costa	Historico	1961
+5441-8001-643-8131	Ataque Solar  Galinha	Carolina da Cruz	Historico	2005
+1698-7071-9514-6995	Alias ​​leve  Gato	Ana Laura Moura	Historico	1915
+7106-3063-1471-2541	Fronteira Humana  Pular	Daniel Aragao	Historico	1974
+1334-7263-6974-3121	Retribuicao de Batalha  Bola	Felipe Nogueira	Historico	1917
+1390-4256-3245-9808	Matando o medo  Escova de dente	Barbara Cardoso	Historico	1916
+5371-1018-3839-6890	Abismo Solar  Peixe	Juliana Fogaca	Historico	1974
+8691-6028-8369-7441	consequências cosmicas  Bebê	 Leandro Aragao	Historico	2008
+6320-269-2686-6546	apenas coracao  Sapo	Breno Nogueira	Historico	1936
+4298-6018-3768-8939	Raca Assassina  Elevador	Rafael Oliveira	Historico	1934
+1660-7808-5850-1057	Resgate da Retribuicao  Sapo	Luiz Miguel Correia	Historico	1920
+6195-3231-2137-1215	Demolicao da Guerra  Pipa	 Alana Araujo	Historico	1956
+8215-5535-1207-1265	Correr de Atrito  Pato	Murilo Fogaca	Historico	1981
+6405-7919-9537-1852	Resistir De Mentiras  Galinha	Caue Oliveira	Historico	2011
+7222-2651-2676-7725	Plano de Violacao  Fotógrafo	Elisa Farias	Historico	1937
+3129-9042-7169-5465	tiro de combate  Beliscão	Marina Freitas	Historico	1946
+2107-6851-8717-7388	Infeccao de Assalto  Pescador	Maite Fernandes	Historico	1967
+1851-9618-9577-1925	Fuga da traicao  Beliscão	Lavinia Oliveira	Historico	2020
+6334-4922-514-8607	Luta de Expiacao  Controle remoto	Nicolas Barros	Historico	1917
+8340-3041-9339-805	Disparo de Atrito  Sapo	Daniela Moura	Historico	2011
+7847-359-3230-217	Terra e Flashbacks  Fotógrafo	Luigi Carvalho	Historico	1940
+9110-3323-6628-4648	Codinome e Ecos  Colher	Francisco Pinto	Historico	1994
+4365-5237-6291-4119	Labirinto e armas  Chifres	Elisa Santos	Historico	1945
+3898-3216-2452-2899	Cronica e Viagem  Cadeira	 Bryan da Mota	Historico	1914
+5542-1078-2660-650	Vida e Perigo  Pescador	 Ana Vitoria Ferreira	Historico	1951
+4509-9699-2277-8493	Tumulos e Ruas  Pato	Theo Sales	Historico	1934
+9426-2162-7624-4990	Ecos e codinome  Elefante	 Alice da Conceicao	Historico	1963
+2712-8290-1673-3539	Perseguicao e Genocidio  Elevador	Joao Correia	Historico	2019
+7953-5078-995-6255	Brasas e Dia  Pescador	 Rodrigo Jesus	Historico	1978
+317-1845-3342-6192	Planeta e Escalacao  Notebook	Theo Ferreira	Historico	1925
+4521-2591-3715-2555	Desespero e Explosoes  Chifres	Helena Porto	Historico	1976
+3818-5903-4406-5678	Esqueletos e Acertos de Contas  Balé	Pedro Lucas Pereira	Historico	1973
+4948-3025-4153-1920	Lobisomens e luta  Balé	Helena Vieira	Historico	1927
+5141-6651-8012-7262	Existência e Logica  Orelhas	Nicolas Cardoso	Historico	1937
+5435-5997-6865-6603	Esperanca e Frenesi  Piada	Alice Araujo	Historico	1933
+6318-3955-5580-1562	Desordem e Dor  Táxi	Evelyn Fogaca	Historico	2013
+8635-4229-3476-254	Terra e Poeira  Balé	Lucca da Rosa	Historico	1959
+9833-7686-2980-8761	Valor e Sombras  Colher	Felipe Fernandes	Historico	1942
+8977-1571-9553-6899	Desordem e Androides  Bicicleta	Theo Jesus	Historico	2021
+1307-2715-2862-1683	Razao e admiracao  Beliscão	Camila da Cunha	Historico	1984
+1728-9454-5087-9855	espaco de cristal  Galinha	Luana da Mota	Historico	1944
+4471-8803-3738-6073	Grimwind  Óculos de grau	Vitor Hugo Duarte	Historico	1990
+6044-5019-6367-5615	campo de batalha  Copo	Caroline Ribeiro	Historico	2020
+4968-6219-5618-3951	Alterstar  Bebê	Pedro Miguel Cardoso	Historico	1978
+3054-1316-9434-6459	Blueblast  Orelhas	Matheus Barbosa	Historico	1970
+4327-8284-6157-1281	plano de fusiveis  Bebê	Vitor Gabriel Moura	Historico	2011
+4879-1259-7547-5740	Grimborne  Basquete	 Carolina Pereira	Historico	1924
+2101-6555-9314-1186	borderblaze  Galinha	Emanuelly Monteiro	Historico	2018
+7157-4595-7680-841	altercacao autocarro	Agatha Rodrigues	Historico	1916
+2455-2258-7088-7110	Bladeshot  Violão	Catarina Monteiro	Historico	1921
+4793-9640-731-1424	calamidade inimiga  Elevador	 Caue Campos	Drama	2003
+3018-2762-7370-8332	Virus Celestial  Controle remoto	Ian Monteiro	Drama	1951
+2939-4232-1316-7881	Ataque de Tempestade  Lápis	Andre Pinto	Drama	1969
+1481-3317-3926-8366	Fuga Solar  Cadeira	 Alexandre da Rocha	Drama	2011
+187-6445-6695-6345	Chamada Esquecida  Café	 Guilherme Nogueira	Drama	1955
+4473-4992-6394-9857	alianca tatica  Violão	 Lara Lopes	Drama	1975
+1202-8705-6409-7651	guerra especial  Café	Valentina Martins	Drama	1980
+6881-9853-6283-5613	Furia Reaver  Pipa	Noah Costela	Drama	2000
+4492-7581-5228-2628	Operacao parasita  Óculos de grau	Isabella Nascimento	Drama	1920
+4685-3582-5716-3759	mascara fantasma  Fotógrafo	Daniel Araujo	Drama	1921
+1769-9150-4303-3801	Cerco da Traicao  Colher	Maria Sophia Freitas	Drama	1982
+7269-4564-8125-6764	Run of Privilege  Chifres	Joao Miguel da Conceicao	Drama	1970
+41-139-814-8743	batalha de traicao  Chocolate	Eduarda Rezende	Drama	1946
+1627-8109-5612-8393	Queima de regra  Pipa	Thiago Teixeira	Drama	1929
+9551-6734-1007-6556	Ataque de Logica  Copo	Igor das Neves	Drama	1955
+5768-6569-3526-1710	Regra da Logica  Cadeira	Olivia Alves	Drama	1961
+7977-9334-855-5985	Incinerar do Privilegio papel	Maria Cecilia Lima	Drama	1987
+1072-9689-2283-5114	greve de ordem  Piada	Nicolas Nogueira	Drama	1980
+5298-4847-3729-1664	Acabar com a Rivalidade  Piada	Otavio Nunes	Drama	1958
+7676-3592-2717-2056	Pilhagem de Logica  Espirro	Joao Pedro Ribeiro	Drama	1992
+9269-7012-3245-9280	Ruas e Jardim  Beliscão	Pedro Henrique Cunha	Drama	1954
+4430-358-6503-1538	Crônica e viagem  Colher	Calebe Souza	Drama	1951
+6064-7564-2420-8023	materia e dia  Violão	Paulo Alves	Drama	2013
+3939-2560-8442-9411	Invasao e Natureza  Violão	Isadora Carvalho	Drama	1994
+8791-9311-2398-158	Planeta e Crônica  Rato	Isabella Carvalho	Drama	2006
+7215-6471-3341-9041	crônica e lei  Espirro	Elisa da Mata	Drama	1997
+2784-9020-9931-1328	Ataque e Armas  Café	Maria Silveira	Drama	1960
+663-9791-5120-8004	Ataque e Fortaleza  Chocolate	Noah Melo	Drama	2022
+5195-876-4173-2400	vinganca e imperio  Aplaudir	 Maria Alice Gomes	Drama	1918
+3256-1267-5861-6709	Câmara e Sussurros  Celular	Theo Viana	Drama	1928
+1850-6221-5593-17	Solidao e Salvacao  Pipa	Laura Ribeiro	Drama	2002
+7457-1233-1409-9138	Conflito e Sombras  Tosse	Isis da Mota	Drama	1980
+2881-5712-552-7092	Zumbis e Razao  Escova de dente	Kamilly Carvalho	Drama	1920
+4174-6996-3269-8429	poder e deuses  Sapo	Luiz Felipe Rodrigues	Drama	1961
+402-6650-2075-5563	Almas e Ordem  Tesoura	Stella Nunes	Drama	2020
+6796-8489-8998-2907	luta e misterio  Rato	Ana Julia Barbosa	Drama	1983
+8036-394-5193-5909	Controle e blindagem  Escova de dente	 Maria Cecilia Alves	Drama	1955
+9091-8763-453-1269	Furtividade e Lobisomens  Tosse	 Isabel Nunes	Drama	2001
+4143-1513-3741-5142	Terror e Herois  Pato	Alice Moreira	Drama	1961
+2901-7452-4748-378	Insanidade e Poeira  Táxi	Carlos Eduardo Viana	Drama	1971
+7257-3814-7018-7103	lado da guerra  Chocolate	Ana Vitoria Santos	Drama	2006
+141-4778-9311-6689	robô cruzado  Lápis	Maria Cecilia Moura	Drama	2002
+5976-7782-2895-6217	ponta de dragao  Controle remoto	Sophia Alves	Drama	2010
+1982-683-5849-3495	vôo da lâmina  Sofá	 Sofia Castro	Drama	2011
+3469-3366-7692-9226	Fogo azul  Notebook	Diogo Moreira	Drama	1981
+410-9824-9173-8709	Backborne  Notebook	 Beatriz Rocha	Drama	1949
+479-5045-917-9934	plano de cluster  Avião	Isis Ferreira	Drama	1952
+7420-7152-9753-5934	Bladehunt  Gato	Davi Ribeiro	Drama	1922
+6497-2421-7981-2476	Emberforce  Pular	Luiz Miguel Cardoso	Drama	1966
+3566-3451-6235-7327	Clusterfobia  Elefante	Alicia Ribeiro	Drama	1954
+8936-4541-3674-2531	viagem de tempestade autocarro	Guilherme Novaes	Fantasia	1966
+9135-3413-6069-598	Ego Amaldicoado  Basquete	Joao Felipe Melo	Fantasia	1970
+8332-2665-6918-1716	Caverna do Futuro  Bebê	Marcos Vinicius da Mata	Fantasia	1921
+3668-666-8939-5572	Ressurreicao Privada  Pato	Laura Campos	Fantasia	2008
+4537-3958-9557-1028	Reino de Batalha  Elefante	Isis Araujo	Fantasia	1928
+2402-127-8352-7940	Estrada Fantasma  Escova de dente	Joao Gabriel Goncalves	Fantasia	2014
+5375-8554-8099-7262	universo ruim  Aplaudir	 Theo Melo	Fantasia	1993
+6764-8204-4440-3060	Caverna Espiritual  Notebook	Lucca Dias	Fantasia	1947
+5249-55-882-215	Armada da Tempestade  Pinguim	Lorena da Mota	Fantasia	1916
+7093-4663-5171-8868	evolucao do anjo  Elefante	 Enrico Carvalho	Fantasia	1973
+1460-3142-562-5956	divisao de combate  Elevador	Pietro Fernandes	Fantasia	1993
+6706-4514-5168-2038	Vinganca da Logica  Óculos de grau	Emanuella da Cunha	Fantasia	1985
+389-9722-913-4163	Crash de Campanhas  Escova de dente	Diego Oliveira	Fantasia	1926
+8387-3944-4835-3237	Fuga da Vinganca  Avião	Gustavo Cardoso	Fantasia	1958
+2369-1430-4993-3118	conflito de imunidade papel	Henrique Cardoso	Fantasia	2009
+321-8284-8254-4902	Greve da Razao  Fogão	 Ana Sophia Ramos	Fantasia	1980
+8386-7449-7579-6603	luta de guerra  Controle remoto	Joao Gabriel Nascimento	Fantasia	1954
+4809-6966-4035-7618	Corrida de Transgressao  Táxi	Vitoria Carvalho	Fantasia	1959
+2250-6462-4461-9392	Proteger de Trapaca  Chifres	Mariane Campos	Fantasia	1980
+350-9125-1087-8653	Bombarde de Enforce  Colher	 Miguel Sales	Fantasia	1948
+2230-753-1911-1998	Casa e filhos  Aplaudir	Alice Pires	Fantasia	1963
+64-8968-7416-8337	Crime e descendência papel	Isadora Moraes	Fantasia	1919
+8574-8101-8330-3477	Jardim e Fonte  Celular	Nicolas Nascimento	Fantasia	1977
+5115-1162-2944-9306	Palavras e fonte  Violão	Rafael Barros	Fantasia	2020
+1137-2552-2718-5633	Brasas e Impacto  Pinguim	 Ana Sophia Jesus	Fantasia	1919
+8107-9026-5072-5567	sonho e imperio  Elevador	Joao Lucas Cardoso	Fantasia	1924
+9312-5131-7212-4784	Enterro e tesouros  Táxi	Lucas Gabriel Peixoto	Fantasia	1960
+3732-683-1131-3658	Palavras e Impacto  Gato	Gabriel Castro	Fantasia	1930
+135-3486-8119-696	Vinganca e Fortaleza  Sofá	Joao Porto	Fantasia	1980
+2574-7168-2706-2447	Cavaleiros e codinome  Pato	Maria Vieira	Fantasia	1973
+9571-4875-9322-9129	Barbaros e Natureza  Lápis	Yasmin da Conceicao	Fantasia	2018
+8554-6695-8670-1106	Caveiras e Miseria  Galinha	Sophia Castro	Fantasia	1932
+6910-6087-1287-7850	Honra e Resistência  Violão	Luiz Fernando da Mota	Fantasia	1953
+6157-2258-7022-8726	poeira e vampiros autocarro	Nathan Santos	Fantasia	2004
+6-3911-3069-3436	Ambicao e Acao  Pato	Vitoria Moraes	Fantasia	1995
+8152-5934-8157-7311	Acao e Rubble  Beliscão	Ana Sophia Fernandes	Fantasia	1919
+5891-9331-6123-3956	Frenesi e Caveiras  Triste	Eloah Rodrigues	Fantasia	1962
+5520-8257-7434-9440	Infinito e Caos  Controle remoto	Lucca da Paz	Fantasia	1928
+1231-590-4488-4246	Logica e Herois  Chifres	Vinicius Farias	Fantasia	1983
+5152-6291-1986-1904	Liberdade e Dragoes  Rato	Otavio Pinto	Fantasia	1969
+7264-4760-7817-5475	Dragonlust  Bola	Gabriel Viana	Fantasia	2006
+7195-2419-9464-8619	Fusioncry  Cachorro	Lorena Costela	Fantasia	1954
+1553-3983-3322-5573	Blocklight  Pular	Joao Miguel Pereira	Fantasia	1933
+5549-9417-4891-9565	Deltazone  Bola	Stephany Ramos	Fantasia	1948
+5133-8499-2295-6480	Grito de guerra  Tesoura	Vinicius Santos	Fantasia	1967
+2262-1045-7349-4317	Antiscape  Óculos de grau	Joao Felipe Viana	Fantasia	1915
+9107-3894-8656-8352	Farsite autocarro	Brenda Souza	Fantasia	1930
+7642-8254-762-4800	Datablast  Bebê	Maria Julia Goncalves	Fantasia	1941
+7725-9106-4312-5404	Borderrush  Tosse	Lavinia Caldeira	Fantasia	1982
+2783-4049-6139-8736	Bodystar  Sapo	Maria Julia Souza	Fantasia	1961
+9575-2672-7120-4774	Legado do Vampiro  Pescador	Yasmin Freitas	Infantil	1991
+1911-2291-4038-8083	Armada Primal  Pipa	Luiz Gustavo Moreira	Infantil	1916
+1039-4721-5730-715	Materias Metalicas  Tesoura	Helena Sales	Infantil	1933
+5574-8527-510-7577	impacto atômico  Chocolate	 Clarice Moreira	Infantil	1987
+4222-131-1677-5669	carnificina da morte  Colher	Yasmin Rezende	Infantil	1961
+523-8523-4124-7678	Complexo Amaldicoado  Aplaudir	Alexandre Santos	Infantil	1980
+1614-7365-2362-6874	Mortal Reaver  Pipa	Kamilly Farias	Infantil	1940
+3510-6041-6907-3109	Jogos Fantasmas  Bebê	 Caua da Cunha	Infantil	1973
+3214-2475-6298-9843	raca bala  Espirro	Diego da Paz	Infantil	2020
+6002-3943-988-867	conspiracao brutal  Triste	 Leandro Costa	Infantil	1919
+1028-8633-8940-7287	Fortificacao de Combate  Aplaudir	Joao Pedro das Neves	Infantil	1959
+8650-4918-4664-189	Braco da Duplicidade  Notebook	Maite Ramos	Infantil	1978
+2335-1421-7057-4663	Luta de Campanhas  Lápis	 Yago Nascimento	Infantil	2002
+1754-4224-3633-1950	Crash de combate  Gato	Eduarda Teixeira	Infantil	2006
+8529-1942-2777-3316	aumento de friccao  Sapo	 Clara Nogueira	Infantil	1962
+4058-2828-1929-3909	Revolta da Logica  Notebook	Luigi da Cruz	Infantil	1940
+710-4917-797-5001	Batalha de Regulamentos  Pato	Maria Luiza da Mata	Infantil	2010
+6325-121-8004-7032	Invasao de conflito  Bicicleta	Elisa da Conceicao	Infantil	1987
+3595-547-529-9533	Elimine a Agressividade  Escova de dente	 Davi Fernandes	Infantil	1965
+3015-9989-5853-8575	Demolicao da Logica  Tosse	Stella Lima	Infantil	1975
+2171-9856-779-9803	luta e fantasmas  Cachorro	 Pietra Carvalho	Infantil	1978
+6950-1844-6397-5319	Tesouros e sombra  Golfe	 Joao Miguel da Costa	Infantil	1955
+399-947-4860-3684	Apocalipse e dias  Táxi	Sofia Moreira	Infantil	1967
+9657-2477-5115-126	Cavaleiros e casa  Cachorro	 Clarice da Luz	Infantil	1985
+8633-8075-3408-4993	Fortaleza e falha  Notebook	Alexandre Fogaca	Infantil	2003
+2793-2483-8088-3010	Sonho e Genocidio  Avião	Vitoria Farias	Infantil	1913
+240-712-2307-8059	Perigo e Galaxia  Óculos de grau	Fernanda Fogaca	Infantil	1922
+9871-4288-6319-9838	Raid and Sons  Café	Joao Vitor Nogueira	Infantil	1946
+886-2071-3849-1326	Sinfonia e codinome  Peixe	Fernando Silveira	Infantil	1982
+4700-6044-3475-3570	idade e decada  Galinha	Augusto Nascimento	Infantil	1975
+4246-4117-2609-984	Inocentes e Mutantes  Violão	 Leonardo Porto	Infantil	1998
+8476-8374-2060-181	Ambicao e mentiras  Tesoura	Danilo Lima	Infantil	1951
+4843-2351-1283-8888	loucura e nada  Café	Theo Rodrigues	Infantil	1913
+5879-1662-2573-256	Natureza e Dever papel	Thomas Nunes	Infantil	1923
+7501-2686-7417-1157	Herois e Destino  Fogão	Isaac Araujo	Infantil	2003
+7392-8300-8273-8043	Infinito e Caos  Aplaudir	Carlos Eduardo Silveira	Infantil	1978
+4768-26-2737-8344	Dever e Mutantes  Aplaudir	Ryan da Conceicao	Infantil	2015
+8997-1622-1040-6908	medo e maldade  Sofá	 Henrique Castro	Infantil	1998
+8857-5447-9452-3047	Pavor e Desordem  Bicicleta	Nicole Nunes	Infantil	1981
+9813-43-8811-6696	Razao e Mutantes  Galinha	Pedro Costela	Infantil	1922
+5860-1492-3495-1434	Bulletsky  Bebê	Yuri Costela	Infantil	1915
+6911-8377-3558-3875	ultrasky  Sofá	Amanda Viana	Infantil	1985
+6103-7743-5312-2598	Blastercraft  Café	Lorena Melo	Infantil	1920
+5555-9025-1008-2487	Grimmind  Táxi	Murilo Fernandes	Infantil	1956
+9996-6854-6022-8216	Biofire  Cadeira	Luiz Gustavo Pires	Infantil	1915
+9665-7296-5287-4148	Farrush  Gato	Joao Miguel Monteiro	Infantil	1918
+9061-4436-2660-4599	Masterdude  Controle remoto	Leonardo Freitas	Infantil	1976
+8257-7029-9968-4638	Fusionspace  Balé	Kaique Rocha	Infantil	1948
+2703-7639-438-3584	Bladespace  Galinha	Leticia Moreira	Infantil	1929
+2591-5318-5508-8984	Datahunt  Espirro	Thales da Conceicao	Infantil	1932
+3935-1964-5266-4376	Assuntos Carnivoros  Futebol	 Joao Lucas Ribeiro	Terror	1920
+7324-2551-9268-4442	Ascendente Carmesim  Bebê	Marcela Costela	Terror	1955
+3857-5981-2526-5634	Lenda secreta  Bicicleta	Stephany Goncalves	Terror	2005
+6950-8554-5610-1951	fronteira armada  Pular	Eduardo Fogaca	Terror	1996
+1525-1901-8384-7317	Campanha canibal  Pescador	 Renan Rezende	Terror	2003
+6023-9930-5897-5548	Evolucao Zumbi  Elevador	Vicente Aragao	Terror	1945
+5200-7237-3179-418	Anjo de emergência  Colher	Andre Rodrigues	Terror	1917
+4623-5330-7386-6709	colheita de cromo  Escova de dente	Ana Luiza Sales	Terror	1974
+8142-5373-1858-820	Caverna de emergência  Espirro	Lucas Moreira	Terror	1945
+1071-3545-2940-6220	Guerra Sagrada  Galinha	Renan da Costa	Terror	1992
+9615-8933-4797-6609	luta da verdade  Triste	Luiz Henrique Nogueira	Terror	1949
+7335-5071-8959-6888	Bombarda da Democracia papel	Emanuella Peixoto	Terror	1959
+5298-6891-8945-5016	Carga de Expiacao  Fogão	Davi Lucca Pereira	Terror	1974
+7023-7108-5898-3748	Fuga de estipulacao  Táxi	 Caroline Viana	Terror	1962
+3934-2716-8451-3078	Demolir da Agressao  Sapo	Davi Lucas Farias	Terror	1950
+9515-291-4930-7174	Pancada de ira  Orelhas	Raul Goncalves	Terror	2013
+3933-4048-5904-570	Fortificacao de Assalto papel	Isadora Cavalcanti	Terror	2000
+1976-4-6347-4782	contador de traicao  Copo	Leticia Porto	Terror	1912
+4551-1629-7818-4189	Resgate da Imunidade  Bicicleta	Lorena da Mota	Terror	1913
+5895-5536-5269-4192	Derrota da Restituicao  Triste	Sabrina da Costa	Terror	1961
+3635-1418-4523-7474	Jardim e brasas  Pipa	Davi Lucca Cardoso	Terror	2016
+4936-7510-2433-770	Avivamento e palavras  Tosse	Lavinia Fogaca	Terror	2009
+9156-6942-4862-6325	Ordem e Decada  Beliscão	Ana Clara Novaes	Terror	1958
+8192-8357-7967-8313	Execucao e Sombra  Fogão	Ryan Campos	Terror	1927
+6733-5109-3310-3418	Armas e Imperio autocarro	Yago Goncalves	Terror	1935
+3265-9344-6934-2622	Decada e Dinastia  Balé	Maite Gomes	Terror	2009
+5799-2557-55-4986	caca e viagem  Futebol	 Joao Felipe Barros	Terror	1948
+4239-654-7982-5881	Cavaleiros e Câmara  Tesoura	Levi Nogueira	Terror	2016
+2421-6996-1375-7492	vinganca e assassinato  Espirro	Luiz Miguel Pereira	Terror	1952
+3707-752-629-9757	Tesouros e Defesa  Bebê	Joao Pinto	Terror	1957
+3602-979-8243-9448	Imortais e verdade  Tosse	Yasmin Souza	Terror	1935
+3304-1067-6322-3642	Infinito e Vampiros  Óculos de grau	Elisa Mendes	Terror	2008
+5066-4182-9015-8559	Salvacao e Existência  Café	 Bianca Vieira	Terror	1959
+5348-7403-8852-6658	Mal e Evolucao  Martelo	Thomas Castro	Terror	1955
+2835-6969-7750-1487	Prototipos e Valor  Escova de dente	Thomas Pinto	Terror	1956
+3934-9117-8051-4313	Vitoria e medo  Chocolate	Ana Sophia Lopes	Terror	1964
+7941-1877-1619-296	Fe e Oraculos  Beliscão	 Clarice da Mata	Terror	1973
+3271-8500-6342-6329	Lobisomens e poder  Copo	Gabrielly da Cunha	Terror	2014
+8820-1282-1714-3705	Fogo e Frenesi  Espirro	 Lais Campos	Terror	1966
+4658-6797-4823-5144	Logica e Escombros  Peixe	Vitor Hugo Santos	Terror	1917
+6085-7123-6777-8132	Bodybot  Pipa	Clarice Dias	Terror	1931
+7356-6598-5730-8683	ultracry  Colher	 Emilly Fogaca	Terror	2022
+4465-2704-8278-3048	Alpharage  Bola	Francisco da Conceicao	Terror	2019
+4508-4223-7044-5460	Corrida maluca  Beliscão	Yasmin Lopes	Terror	1981
+2480-5194-4121-9523	Emberline  Bola	Vitoria Goncalves	Terror	2017
+9911-7145-5472-3504	Ultrafobia  Chifres	Pedro Freitas	Terror	2016
+3547-5984-8641-1503	Bodyflight  Pipa	Thiago Costela	Terror	1985
+8807-4385-3598-4753	Bladestar  Violão	Larissa Souza	Terror	2021
+4336-1038-2062-3870	Alterdoom  Rato	Leticia Goncalves	Terror	1943
+3629-9470-4412-3996	Dreadplan  Bebê	Gabrielly da Cruz	Terror	1952
+8703-5453-2594-499	Projeto Sombrio  Beliscão	Julia Campos	Humor	1914
+7274-5177-7934-1611	traicao morta  Bicicleta	Erick Teixeira	Humor	1918
+694-2018-7747-1068	Alerta Infinito  Chifres	Nicolas Duarte	Humor	1961
+3120-4503-8002-3354	Fuga Estelar  Avião	Calebe Silveira	Humor	1966
+5277-441-3258-7058	Castelo do Guerreiro autocarro	Juliana Cardoso	Humor	2015
+3800-5488-5624-1256	Fronteira Fria  Lápis	Emilly Cardoso	Humor	1918
+3404-5517-7529-4020	virus parasita  Escova de dente	 Vitor Nunes	Humor	2005
+5347-9717-5251-9469	Legado do Armagedom  Triste	Benjamin Nascimento	Humor	1996
+4555-9338-6003-9918	Conflito de Lobisomem  Pescador	Erick Nunes	Humor	2007
+4214-4814-8879-6891	Predador da Alma  Elefante	Ana Sophia Peixoto	Humor	1955
+8631-8071-6430-8395	Resistir ao heroismo  Golfe	Eduardo Nogueira	Humor	2009
+9742-5881-7849-1577	Retaliacao da Lei  Notebook	Valentina Nunes	Humor	1922
+1772-8177-6629-2902	Fortalecimento da Restituicao  Tosse	Isabella Carvalho	Humor	2001
+6931-9231-1038-2057	Incinerar da Acusacao  Basquete	 Joana Araujo	Humor	1997
+7549-8940-6597-7823	guarda da verdade  Café	Fernanda Melo	Humor	2002
+5778-7739-3900-5367	Pilhagem da Salvacao  Piada	Kevin Silveira	Humor	1954
+1248-8839-2985-1395	Divisao da Hipocrisia  Tesoura	Julia Cavalcanti	Humor	1918
+2000-5524-4860-9961	regra de invasao  Martelo	Alice Freitas	Humor	1939
+6084-7155-5208-349	explosao de regra  Pescador	Valentina Alves	Humor	1983
+2410-966-7652-6591	Contador de Ira  Pular	Maria Fernanda da Luz	Humor	1992
+5114-4990-1706-4600	Sinfonia e filhos  Golfe	Agatha Freitas	Humor	1964
+6756-3879-7728-2959	brasas e caca  Orelhas	Natalia Ferreira	Humor	1948
+4257-7172-7266-5360	Armas e Escalada  Futebol	 Ana Alves	Humor	2009
+7527-4863-867-4897	Ecos e palavras autocarro	Felipe Ferreira	Humor	1947
+4547-423-6236-9314	Dias e idade  Tesoura	Maite Freitas	Humor	2003
+1803-4663-5756-6946	poder e forca  Bicicleta	 Luiz Otavio da Cruz	Humor	1925
+2543-5199-9574-7240	Remorso e Sombra  Orelhas	Joana da Cunha	Humor	1925
+4494-9162-5102-8269	Defesa e Enterro  Controle remoto	Alana Fernandes	Humor	2016
+5073-7588-3184-1552	Armas e Brasas  Pular	Eduarda Nunes	Humor	1995
+2930-9243-4520-8919	Semana e vinganca  Golfe	 Leonardo Dias	Humor	2000
+7538-1410-2282-5252	Barbaros e Pesadelos  Colher	Yago Duarte	Humor	2001
+3126-9123-1992-704	Resistência e Harmonia  Piada	Maria Luiza Azevedo	Humor	1974
+6341-1186-1666-6176	Lobisomens e Insanidade  Violão	Felipe Duarte	Humor	2008
+9042-4467-447-26	Vitoria e Evolucao  Chorar	Isabelly Silva	Humor	1975
+2597-3664-7537-1663	Imortais e duvidas  Bicicleta	Maria Fernanda Nunes	Humor	1986
+5369-6966-6927-1294	Androides e Liberdade  Cadeira	Isadora da Mota	Humor	2001
+6111-8647-7302-1476	Ordem e Ambicao  Pipa	Natalia Gomes	Humor	2011
+9189-6943-496-8186	caos e dever  Copo	Esther Costa	Humor	1935
+9418-9121-8071-5848	Resistência e Poder  Pescador	Heitor Costela	Humor	2013
+9699-7453-4450-7567	Poder e Miseria  Bola	Laura Fogaca	Humor	2008
+1893-7039-8489-461	trabalhos demoniacos  Tosse	Luiza Lima	Humor	1991
+6807-646-7596-9222	arquefobia  Futebol	Daniel da Cruz	Humor	1993
+6721-2722-2142-3350	Madside  Bebê	Maria Vitoria Cunha	Humor	1983
+6579-6981-8413-1271	Blockflight  Violão	 Joao Vitor Farias	Humor	1996
+906-9000-3211-1905	Bulletbot  Espirro	Ana Julia Peixoto	Humor	2013
+5658-4049-9596-2830	Alfalândia  Galinha	Maria Clara Silveira	Humor	1995
+5063-2279-6258-584	Farchase  Rato	Mariana Rodrigues	Humor	1986
+2825-2286-8267-7661	Warmania  Futebol	Clarice Fernandes	Humor	2021
+1291-626-4554-1110	Tempestade de Dragoes  Elevador	 Vitoria da Cunha	Humor	1930
+4876-7908-7249-6507	deltanita  Tesoura	Felipe Mendes	Humor	1962
+2703-5922-824-639	Impacto do trovao  Beliscão	Levi da Mata	Misterio	1969
+8422-3366-524-3323	Recompensa Fantasma  Tosse	Melissa da Rosa	Misterio	2012
+4776-7161-8852-5623	Pesadelo Humano  Bebê	Ana Luiza Silva	Misterio	2017
+2972-9875-2705-9580	Guerra do Chrome  Pato	Helena Nunes	Misterio	1994
+5716-2714-3703-8452	fuga de combate  Cadeira	Vitoria Rezende	Misterio	1980
+3262-2814-4284-477	Celula Fantasma  Lápis	Emanuel Silveira	Misterio	1977
+1114-1315-9552-471	Ataque Especial  Pescador	Maria Fernanda Peixoto	Misterio	1926
+3806-4083-2794-8108	Apenas ligue  Bebê	Barbara da Paz	Misterio	1990
+7282-359-6521-576	lâmina mortal  Pipa	 Maria Cecilia Moura	Misterio	1975
+8274-6518-3642-616	Sonho de Tempestade  Chocolate	 Camila Silva	Misterio	1935
+7501-5357-1134-7261	corrida de hipocrisia  Pescador	Emanuel Rocha	Misterio	1958
+4441-4972-2103-446	Demolicao da Vinganca  Fotógrafo	 Lais Azevedo	Misterio	1914
+7523-5178-5588-864	Ascensao da Hipocrisia  Tesoura	Isabella Goncalves	Misterio	1964
+1253-7927-9634-9592	batalha de traicao  Rato	 Catarina Caldeira	Misterio	1994
+3783-1672-9034-4516	Resistir a Violacao papel	Isadora Lopes	Misterio	1984
+2626-1274-4948-895	luta de redencao  Bola	Isadora Rocha	Misterio	1954
+980-8394-6347-1744	Fuga de Mentiras  Balé	Raquel das Neves	Misterio	1925
+381-263-2902-3091	Choque de Duplicidade  Tesoura	Barbara Silva	Misterio	1918
+3756-7588-7967-4906	Resistir a Traicao  Café	Caroline Rocha	Misterio	1957
+6915-9378-5348-8674	plano de mentiras  Orelhas	Kamilly Ferreira	Misterio	1944
+6634-7241-6628-8414	Terra e Armas  Elefante	Gabrielly Melo	Misterio	1924
+1654-4702-9537-5319	Barragem e Defesa  Bola	 Leandro da Conceicao	Misterio	1985
+7741-4928-1021-7907	Descida e Cidade autocarro	Luna Nascimento	Misterio	1999
+985-6511-1358-6694	Perigo e Morte  Orelhas	 Olivia Porto	Misterio	1989
+9483-4305-531-7598	Crônica e Planeta  Celular	Davi Lucca Nogueira	Misterio	2018
+436-4513-3626-6455	Sinfonia e Ecos  Sofá	Pedro Silveira	Misterio	1930
+4673-8353-7483-3160	Doom e Rush  Bola	Daniela Rocha	Misterio	1920
+6332-3746-937-6950	ciência e mundo  Pipa	Luiz Otavio Almeida	Misterio	1935
+693-6460-1100-3896	Casa e Dinastia  Pinguim	Giovanna Ferreira	Misterio	1915
+3433-5273-3348-8721	Perigo e sepulturas  Bola	Anthony Souza	Misterio	1940
+5322-972-3611-4889	Androides e nada  Espirro	Helena Sales	Misterio	1985
+1260-8262-1604-2136	Esperanca e Oraculos  Bicicleta	Yago da Cunha	Misterio	1952
+2878-6519-4970-8187	Sanidade e Fortuna  Balé	Isis Azevedo	Misterio	1968
+5428-9764-9847-8766	Vampiros e Ambicoes  Rato	Julia Fernandes	Misterio	1953
+2552-327-5283-5114	Furtividade e Explosoes  Bola	Amanda Martins	Misterio	1931
+213-2263-7156-6512	Furtividade e Androides  Pescador	Sofia Oliveira	Misterio	1936
+6273-1738-8533-6239	Ordem e gangues  Futebol	Pedro Miguel Duarte	Misterio	1933
+7278-3126-4842-7176	Destino e Logica  Espirro	Larissa da Cunha	Misterio	1953
+7099-5839-9613-3602	Guerra e tempo papel	 Eloah Araujo	Misterio	2008
+7720-8543-3853-9945	Almas e Miserias  Bola	Joao Felipe Alves	Misterio	1992
+8435-5964-1296-8034	celula cruzada  Elefante	Ana Laura Rezende	Misterio	1949
+8155-7091-2635-4946	Bioreign  Copo	 Lucca Duarte	Misterio	1990
+6616-2761-8915-8540	Chuva de sangue  Orelhas	Joaquim Ramos	Misterio	2000
+1475-7643-5465-8149	Mortofobia  Beliscão	Enrico Nascimento	Misterio	2009
+7392-7166-7137-1396	Bodyblade  Notebook	Emanuelly Pinto	Misterio	1971
+5121-9227-1645-8791	ponto de fronteira  Sofá	Leandro da Rocha	Misterio	1945
+8386-9030-5689-1148	tiro de guerra  Chifres	Marina Goncalves	Misterio	1954
+5046-2120-3838-9179	endosso  Chocolate	Alice Gomes	Misterio	1939
+1417-4752-612-2174	Dreaddude  Escova de dente	Luigi Costela	Misterio	1963
+4588-1536-4255-2630	Archeheart  Bebê	Ana Laura Moreira	Misterio	1944
+6749-3308-9274-2508	barragem esquecida  Tesoura	Esther Jesus	Nao-ficcao	1968
+3775-5117-6096-4316	Guerra Celestial  Pinguim	Nicole da Costa	Nao-ficcao	1985
+5961-3247-3317-2127	Matando o Pânico  Orelhas	Maysa Teixeira	Nao-ficcao	2010
+1468-2700-8443-7990	Maldicao do Fantasma  Colher	Cecilia Freitas	Nao-ficcao	1948
+799-2960-5945-712	idade do sangue  Espirro	 Thales Ramos	Nao-ficcao	1975
+3034-3714-3116-3178	Descoberta do Android  Pescador	 Alana Campos	Nao-ficcao	2018
+6077-5289-8772-802	sindrome sagrada  Basquete	Benicio Dias	Nao-ficcao	1984
+1480-7126-4969-1633	elementos da alma  Tosse	Erick Ribeiro	Nao-ficcao	1919
+1454-7103-1478-2370	Galaxia Recompensa  Pato	Clara Pires	Nao-ficcao	1964
+541-8025-1373-2866	Agente de Tempestade  Sofá	Mariana Pinto	Nao-ficcao	1973
+1881-1441-4616-5667	cerco da razao  Controle remoto	Matheus Costela	Nao-ficcao	1915
+2717-7155-7770-3145	estrategia de herois  Beliscão	 Emilly Moreira	Nao-ficcao	1915
+6463-5821-6264-9717	Golpe de Duplicidade  Rato	 Joao Gabriel da Luz	Nao-ficcao	2017
+8639-2569-2743-750	Nocaute da Ira  Martelo	Thiago Ferreira	Nao-ficcao	1980
+2690-1954-8588-2669	vinganca da invasao  Basquete	Maria Luiza Aragao	Nao-ficcao	2017
+1717-6293-4672-5475	Fuga da Trapaca  Lápis	Ana Luiza da Cunha	Nao-ficcao	1954
+5071-9185-781-4392	invasao da liberdade  Espirro	Barbara Alves	Nao-ficcao	1984
+2236-7105-6007-6189	Comando de Acusacao  Óculos de grau	Ian Castro	Nao-ficcao	2014
+4320-7249-2318-8359	Resistir a Oportunidade  Balé	Marcela Nogueira	Nao-ficcao	2013
+602-8265-2772-6198	Rompimento da Restituicao  Tosse	Valentina Novaes	Nao-ficcao	2022
+746-2331-4780-2494	Ruas e Decada  Golfe	Emanuelly Correia	Nao-ficcao	2021
+8655-5523-5581-6017	sombra e filhos  Piada	Gustavo Henrique Vieira	Nao-ficcao	2017
+8337-4048-801-9006	Feiticos e Missao  Galinha	 Ryan Nascimento	Nao-ficcao	1947
+8715-3169-482-7611	Retribuicao e caca  Gato	Eduarda Cardoso	Nao-ficcao	1930
+3046-2117-6702-8630	ponte e cavaleiros  Controle remoto	Natalia Goncalves	Nao-ficcao	1915
+5462-7698-8418-9598	Galaxia e Natureza  Elefante	 Davi Correia	Nao-ficcao	2013
+93-9263-9617-527	Cronica e Espaco  Peixe	Anthony Nogueira	Nao-ficcao	2015
+6651-3981-1908-219	Assassinato e Ecos  Cadeira	Ana Barbosa	Nao-ficcao	1958
+3885-5854-9454-424	Destruicao e Comando  Bicicleta	Andre Oliveira	Nao-ficcao	1969
+6868-3541-3922-5996	Perdicao e Culto  Peixe	 Ana Fogaca	Nao-ficcao	2006
+6454-2590-2372-3658	Herois e Furtividade  Celular	Yago Oliveira	Nao-ficcao	1943
+9439-7806-202-5894	Almas e Sanidade  Bola	 Miguel Moraes	Nao-ficcao	1951
+9736-7987-7986-7480	Inocentes e Esqueletos  Aplaudir	Sophie da Mata	Nao-ficcao	1983
+5405-1993-8191-7520	Duvidas e Pesadelos  Tosse	Camila da Mota	Nao-ficcao	1982
+2852-6653-8794-1842	demônios e caos  Rato	Vitoria Fernandes	Nao-ficcao	1955
+2418-2211-7554-441	Ambicao e enigmas  Espirro	Maria Alice Freitas	Nao-ficcao	1913
+7247-6628-5022-9132	luta e esperanca  Galinha	Milena Melo	Nao-ficcao	2001
+2378-8126-548-4797	Traicao e Oraculos  Cachorro	Isadora Costa	Nao-ficcao	1978
+4012-8988-6808-5787	Sacrificio e Controle  Beliscão	Enzo Novaes	Nao-ficcao	1957
+6173-566-3339-7032	Duvida e Desordem autocarro	Luna Nogueira	Nao-ficcao	1974
+5846-9669-7384-7819	Ponto de Sangue  Elefante	Lavinia Pereira	Nao-ficcao	1957
+5346-2307-7896-6401	fartech papel	Henrique Nogueira	Nao-ficcao	1966
+6708-2853-7417-579	Archesky  Peixe	Bruno Ramos	Nao-ficcao	1992
+9131-7407-6731-4077	Bulletreign  Cadeira	Beatriz Lopes	Nao-ficcao	1936
+3483-6304-1502-6308	Evercore  Martelo	Valentina Ferreira	Nao-ficcao	1957
+1385-6634-1399-5520	vida eterna  Balé	Laura Dias	Nao-ficcao	2017
+781-2130-7405-3124	caca cruzada  Sapo	Juliana Ramos	Nao-ficcao	1920
+4440-160-3776-5808	Perseguicao dos Sonhos  Violão	Rebeca Monteiro	Nao-ficcao	1960
+1507-2756-9078-1182	Dragonsky  Tesoura	Andre Cunha	Nao-ficcao	1976
+1357-7632-8289-5410	Everrain  Bebê	 Enrico Peixoto	Romance	1933
+355-6039-4577-4276	Cruzada Mortal  Táxi	Igor Pinto	Romance	1929
+7500-1752-9460-2974	Ego Matador  Notebook	 Davi Lucca Cavalcanti	Romance	1997
+700-4870-1281-2423	Sistema de Lobisomem  Pinguim	Sarah Barros	Romance	1964
+132-6457-3589-6894	sirene privada  Chifres	Danilo Barbosa	Romance	1945
+3560-4663-1304-7981	Comando Blindado  Sofá	Juan Lima	Romance	1958
+4419-962-9417-7139	Cruzada Humana  Gato	Joao Barros	Romance	1963
+4500-3020-8165-4188	Sistema Infinito  Orelhas	Helena Freitas	Romance	1926
+7515-7752-6216-1922	pânico infectado  Copo	Alexandre Pires	Romance	1994
+7641-5028-5586-8708	Agente Nuclear  Pinguim	Evelyn Nascimento	Romance	1924
+2915-6169-5050-3607	Grande Reino  Chorar	Paulo Silva	Romance	1934
+8203-1370-922-43	Aumento da Infracao autocarro	Raul Goncalves	Romance	1974
+5298-8135-4912-7619	vinganca de mentiras  Elevador	Sarah Costa	Romance	1953
+5922-1228-48-9590	Destruicao do Conflito  Balé	Ana Vitoria Correia	Romance	2005
+9708-7920-3195-8777	Incinerar da Democracia  Espirro	Barbara Barros	Romance	1955
+8574-4331-8448-44	pilhagem de trapaca  Balé	Ana Beatriz Castro	Romance	1999
+7038-3389-9641-3762	Ataque de Trapaca  Avião	Mariana das Neves	Romance	1945
+8998-2200-813-1538	ataque de guerra  Tesoura	Marcos Vinicius Sales	Romance	2022
+4917-9506-5137-4586	Estrategia de Mentiras  Colher	Lara Novaes	Romance	1919
+1397-3166-543-9970	Incinerar de Oportunidade  Avião	Fernando Oliveira	Romance	1999
+7115-5213-6049-7688	Limpe a liberdade  Peixe	 Maite Gomes	Romance	1928
+7145-745-164-5893	Dia e Apocalipse papel	 Noah da Rosa	Romance	1977
+1159-3853-7114-7393	Labirinto e tesouros  Elefante	Larissa da Mota	Romance	1948
+4741-8377-9530-3729	Filhos e Destruicao  Tesoura	 Emanuella Araujo	Romance	1989
+9868-5670-3593-3378	Jardim e Ordem  Copo	Pietra Souza	Romance	1934
+7513-296-4233-5537	Fortaleza e Dimensao  Sapo	Nicolas Pereira	Romance	1953
+6911-7043-8709-325	sonho e espada  Sapo	Maria Clara Rodrigues	Romance	1963
+9845-3750-4881-7368	Lei e armas  Espirro	Joao Pedro Moreira	Romance	2020
+9618-5088-6050-862	Batalha e viagem  Chifres	Luiz Otavio Duarte	Romance	1963
+2883-1377-4775-5923	armas e planeta  Basquete	Lara Oliveira	Romance	1947
+2372-5226-898-6429	Jornada e Barragem  Golfe	Maria Vitoria Araujo	Romance	1983
+6676-2012-43-3636	luta e lendas  Tosse	Nathan Oliveira	Romance	1967
+4801-4295-9526-3902	Mentiras e Evolucao  Basquete	Heloisa Santos	Romance	2012
+5823-8010-9991-4187	Sonhos distorcidos e gangues  Copo	Andre Ferreira	Romance	1980
+6346-8476-7723-1155	Barbaros e Destruicao  Chocolate	Bruno Porto	Romance	1918
+2903-7502-1710-5943	Duvida e Ordem autocarro	Clara Carvalho	Romance	1944
+1331-2514-9699-7410	Solidao e Miseria  Gato	Bernardo Carvalho	Romance	1972
+5486-5211-2056-9399	Liberdade e Imortais  Golfe	Levi Martins	Romance	1957
+4081-8984-7828-8950	Harmonia e Caos  Sapo	Bruna Dias	Romance	1921
+5271-9391-8661-947	Acao e Evolucao  Escova de dente	 Camila Fogaca	Romance	1931
+3401-501-9589-8958	Desorganizacao e Acerto de Contas  Táxi	Pietro Jesus	Romance	1960
+1855-1456-4419-5051	Deltadoom  Rato	Kaique Jesus	Romance	1985
+6785-3388-412-8354	Blockland  Martelo	 Luiz Gustavo Cardoso	Romance	1961
+9607-8237-1377-8755	Bloodcore  Chifres	 Caua Silva	Romance	1995
+2326-1138-7785-483	Dreadlust  Martelo	Nicolas Ribeiro	Romance	1976
+6229-9779-5811-3970	Geolândia  Chocolate	Manuela da Conceicao	Romance	1930
+5393-4357-4112-7100	Cyberdude  Fotógrafo	Carlos Eduardo Melo	Romance	1922
+5027-7577-1807-9678	robô de batalha  Triste	Amanda Moreira	Romance	1912
+7633-9447-2725-5765	Dreadside  Chifres	Thales Rodrigues	Romance	1948
+9287-9304-2393-3860	Crystalblaze  Tosse	Diego Ferreira	Romance	1948
+1276-7638-4618-5566	Astroblast  Fogão	Alicia da Cunha	Romance	2007
+885-897-5154-7879	Cruzada Mortal  Copo	Rafael Araujo	Ficcao Cientifica	2004
+8683-9572-440-4412	Ego Matador  Pescador	Benicio Lima	Ficcao Cientifica	1965
+6651-2424-5531-9394	Sistema de Lobisomem  Espirro	Vinicius Rodrigues	Ficcao Cientifica	1929
+4758-3056-9320-7647	sirene privada  Tosse	Isaac Azevedo	Ficcao Cientifica	1946
+4876-3548-4254-1345	Comando Blindado papel	Ana Sophia Ribeiro	Ficcao Cientifica	1933
+8261-8473-1405-584	Cruzada Humana  Cadeira	Sophia Mendes	Ficcao Cientifica	2003
+565-9970-2410-6754	Sistema Infinito  Rato	Sabrina Alves	Ficcao Cientifica	2015
+4499-170-1607-6	pânico infectado  Piada	Igor Lima	Ficcao Cientifica	1999
+8355-6518-9196-455	Agente Nuclear  Futebol	 Murilo Barros	Ficcao Cientifica	1991
+5924-448-454-1988	Grande Reino  Cachorro	 Isadora Moraes	Ficcao Cientifica	1984
+9443-7954-3027-5942	Aumento da Infracao  Basquete	Joao Vitor Cunha	Ficcao Cientifica	1968
+2729-5131-495-255	vinganca de mentiras  Controle remoto	 Raquel Rodrigues	Ficcao Cientifica	2020
+1986-6904-1538-4915	Destruicao do Conflito  Triste	Davi Luiz da Rocha	Ficcao Cientifica	1928
+2381-2273-8006-6073	Incinerar da Democracia  Avião	Ana Carolina da Luz	Ficcao Cientifica	1975
+7605-7190-9823-516	pilhagem de trapaca  Beliscão	Bernardo Nogueira	Ficcao Cientifica	1913
+6954-7998-8177-5632	Ataque de Trapaca  Colher	Ana Livia Monteiro	Ficcao Cientifica	1933
+7657-2784-5905-8528	ataque de guerra  Gato	Maysa Cardoso	Ficcao Cientifica	1955
+1702-8637-6833-3855	Estrategia de Mentiras  Chorar	Thiago da Cruz	Ficcao Cientifica	1968
+8191-3642-7682-1301	Incinerar de Oportunidade  Escova de dente	Renan Cavalcanti	Ficcao Cientifica	1978
+4026-2393-6046-1976	Limpe a liberdade  Colher	Benjamin da Cunha	Ficcao Cientifica	1931
+929-79-6524-8651	Dia e Apocalipse  Bicicleta	Emanuella Oliveira	Ficcao Cientifica	2021
+9065-5243-2646-4255	Labirinto e tesouros  Sapo	Isaac Novaes	Ficcao Cientifica	1964
+9292-8753-9383-9596	Filhos e Destruicao  Bola	Emilly Oliveira	Ficcao Cientifica	1972
+154-1990-5784-7939	Jardim e Ordem  Peixe	Sofia Castro	Ficcao Cientifica	2015
+9873-6992-2718-3666	Fortaleza e Dimensao  Tosse	Sophie das Neves	Ficcao Cientifica	1954
+4588-8020-740-3627	sonho e espada  Bicicleta	 Joao Barbosa	Ficcao Cientifica	1981
+7400-7292-1007-5034	Lei e armas  Galinha	Marcos Vinicius Pires	Ficcao Cientifica	1927
+2615-9203-8238-9791	Batalha e viagem  Pinguim	Elisa Pereira	Ficcao Cientifica	1967
+7071-6527-8699-3551	armas e planeta  Pinguim	 Vitor Gabriel Almeida	Ficcao Cientifica	1969
+6474-3901-5615-6751	Jornada e Barragem  Futebol	Kevin da Cunha	Ficcao Cientifica	1923
+7762-2240-5922-5354	luta e lendas  Pular	Caroline Cardoso	Ficcao Cientifica	1935
+5521-4566-7718-3810	Mentiras e Evolucao  Bola	Gabriela Silveira	Ficcao Cientifica	1981
+1760-8986-9426-8707	Sonhos distorcidos e gangues  Chorar	Bernardo Peixoto	Ficcao Cientifica	1912
+3062-2969-2765-7811	Barbaros e Destruicao  Escova de dente	Nicole da Costa	Ficcao Cientifica	1999
+5874-9317-9675-472	Duvida e Ordem  Táxi	Erick Duarte	Ficcao Cientifica	2002
+7889-7014-2748-9531	Solidao e Miseria  Triste	Lucas Gabriel da Cruz	Ficcao Cientifica	1989
+1958-4370-3548-3422	Liberdade e Imortais  Futebol	 Gabriel Carvalho	Ficcao Cientifica	1966
+8945-5488-6686-4282	Harmonia e Caos  Escova de dente	Juliana Moreira	Ficcao Cientifica	2005
+4828-682-9481-5247	Acao e Evolucao  Gato	Emanuel Farias	Ficcao Cientifica	1938
+7178-3776-966-8067	Desorganizacao e Acerto de Contas  Fogão	Thales Jesus	Ficcao Cientifica	1959
+5187-8758-6810-7888	Deltadoom  Lápis	Andre Silva	Ficcao Cientifica	2011
+8958-1200-1170-8121	Blockland autocarro	Danilo Moreira	Ficcao Cientifica	1961
+2683-2738-3480-9329	Bloodcore  Basquete	 Luiz Gustavo da Luz	Ficcao Cientifica	1917
+5096-202-1041-5724	Dreadlust  Piada	Caue Cardoso	Ficcao Cientifica	1922
+6798-6173-4059-807	Geolândia  Notebook	Ian Teixeira	Ficcao Cientifica	1959
+6323-8492-1151-8827	Cyberdude  Beliscão	Igor Mendes	Ficcao Cientifica	2009
+6464-8528-3576-8436	robô de batalha  Sapo	Amanda Mendes	Ficcao Cientifica	1920
+2928-4442-259-4757	Dreadside  Pato	Caua Martins	Ficcao Cientifica	2002
+1428-8750-1107-3805	Crystalblaze  Gato	Joao Gabriel Ferreira	Ficcao Cientifica	1959
+4947-1615-481-4956	Astroblast  Pescador	Luiza Ribeiro	Ficcao Cientifica	1964
